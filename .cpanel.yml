@@ -1,0 +1,4 @@
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home1/ftamb861/public_html/dev/gabi
+    - /bin/cp -R * $DEPLOYPATH
