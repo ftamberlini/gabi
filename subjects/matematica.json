@@ -1,0 +1,5075 @@
+{
+  "titulo": "Matemática - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 17 - 4?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "13"
+        },
+        {
+          "id": "B",
+          "texto": "14"
+        },
+        {
+          "id": "C",
+          "texto": "15"
+        },
+        {
+          "id": "D",
+          "texto": "16"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem depois do 9?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "8"
+        },
+        {
+          "id": "B",
+          "texto": "10"
+        },
+        {
+          "id": "C",
+          "texto": "11"
+        },
+        {
+          "id": "D",
+          "texto": "7"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes é um número par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "33"
+        },
+        {
+          "id": "B",
+          "texto": "555"
+        },
+        {
+          "id": "C",
+          "texto": "456"
+        },
+        {
+          "id": "D",
+          "texto": "701"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 30 - 6?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "24"
+        },
+        {
+          "id": "B",
+          "texto": "25"
+        },
+        {
+          "id": "C",
+          "texto": "26"
+        },
+        {
+          "id": "D",
+          "texto": "27"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 5,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual número é maior: 15 ou 12?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "15"
+        },
+        {
+          "id": "B",
+          "texto": "12"
+        },
+        {
+          "id": "C",
+          "texto": "São iguais"
+        },
+        {
+          "id": "D",
+          "texto": "Nenhum"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 6,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 39 - 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "36"
+        },
+        {
+          "id": "B",
+          "texto": "37"
+        },
+        {
+          "id": "C",
+          "texto": "38"
+        },
+        {
+          "id": "D",
+          "texto": "39 "
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 100?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cem"
+        },
+        {
+          "id": "B",
+          "texto": "Dez"
+        },
+        {
+          "id": "C",
+          "texto": "Cento"
+        },
+        {
+          "id": "D",
+          "texto": "Mil"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 8,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 245?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Duzentos e quarenta e cinco"
+        },
+        {
+          "id": "B",
+          "texto": "Vinte e quatro e cinco"
+        },
+        {
+          "id": "C",
+          "texto": "Duzentos e cinquenta e quatro"
+        },
+        {
+          "id": "D",
+          "texto": "Quarenta e dois e cinco"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 9,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 999?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Novecentos e noventa e nove"
+        },
+        {
+          "id": "B",
+          "texto": "Novecentos e nove"
+        },
+        {
+          "id": "C",
+          "texto": "Noventa e nove"
+        },
+        {
+          "id": "D",
+          "texto": "Novecentos e noventa"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 356, qual algarismo representa as centenas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "6"
+        },
+        {
+          "id": "D",
+          "texto": "30"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 11,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 472, o algarismo 7 está na posição de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centena"
+        },
+        {
+          "id": "B",
+          "texto": "Dezena"
+        },
+        {
+          "id": "C",
+          "texto": "Unidade"
+        },
+        {
+          "id": "D",
+          "texto": "Milhar"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 12,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "O número 528 pode ser decomposto em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "500 + 20 + 8"
+        },
+        {
+          "id": "B",
+          "texto": "5 + 2 + 8"
+        },
+        {
+          "id": "C",
+          "texto": "50 + 2 + 800"
+        },
+        {
+          "id": "D",
+          "texto": "500 + 200 + 8"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 13,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "237"
+        },
+        {
+          "id": "B",
+          "texto": "542"
+        },
+        {
+          "id": "C",
+          "texto": "891"
+        },
+        {
+          "id": "D",
+          "texto": "365"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 14,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "460"
+        },
+        {
+          "id": "B",
+          "texto": "318"
+        },
+        {
+          "id": "C",
+          "texto": "777"
+        },
+        {
+          "id": "D",
+          "texto": "602"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 15,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 400?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "399"
+        },
+        {
+          "id": "B",
+          "texto": "401"
+        },
+        {
+          "id": "C",
+          "texto": "390"
+        },
+        {
+          "id": "D",
+          "texto": "410"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 16,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 599?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "598"
+        },
+        {
+          "id": "B",
+          "texto": "600"
+        },
+        {
+          "id": "C",
+          "texto": "590"
+        },
+        {
+          "id": "D",
+          "texto": "601"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 17,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 100?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "99"
+        },
+        {
+          "id": "B",
+          "texto": "101"
+        },
+        {
+          "id": "C",
+          "texto": "90"
+        },
+        {
+          "id": "D",
+          "texto": "110"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 18,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 700 ___ 200 + 300 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 19,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 128 ___ 245 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 20,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 650 ___ 600 + 50 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "diferente"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 21,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal usamos para indicar que dois números são diferentes?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "<"
+        },
+        {
+          "id": "B",
+          "texto": ">"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "≠"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 22,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 2 x 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "5"
+        },
+        {
+          "id": "B",
+          "texto": "6"
+        },
+        {
+          "id": "C",
+          "texto": "8"
+        },
+        {
+          "id": "D",
+          "texto": "9"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 23,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 3 x 4?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "7"
+        },
+        {
+          "id": "B",
+          "texto": "10"
+        },
+        {
+          "id": "C",
+          "texto": "12"
+        },
+        {
+          "id": "D",
+          "texto": "14"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 24,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 4 x 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "16"
+        },
+        {
+          "id": "B",
+          "texto": "18"
+        },
+        {
+          "id": "C",
+          "texto": "20"
+        },
+        {
+          "id": "D",
+          "texto": "24"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 25,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 5 x 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "20"
+        },
+        {
+          "id": "B",
+          "texto": "25"
+        },
+        {
+          "id": "C",
+          "texto": "30"
+        },
+        {
+          "id": "D",
+          "texto": "15"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 26,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 2 x 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "7"
+        },
+        {
+          "id": "B",
+          "texto": "8"
+        },
+        {
+          "id": "C",
+          "texto": "10"
+        },
+        {
+          "id": "D",
+          "texto": "12"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 27,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕒",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3 horas"
+        },
+        {
+          "id": "B",
+          "texto": "3 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "9 horas"
+        },
+        {
+          "id": "D",
+          "texto": "6 horas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 28,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕜",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1 hora"
+        },
+        {
+          "id": "B",
+          "texto": "1 hora e meia"
+        },
+        {
+          "id": "C",
+          "texto": "7 horas"
+        },
+        {
+          "id": "D",
+          "texto": "7 horas e meia"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 29,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕘",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "9 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "3 horas"
+        },
+        {
+          "id": "C",
+          "texto": "9 horas"
+        },
+        {
+          "id": "D",
+          "texto": "6 horas"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 30,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Quantos dias tem uma semana?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "5"
+        },
+        {
+          "id": "B",
+          "texto": "6"
+        },
+        {
+          "id": "C",
+          "texto": "7"
+        },
+        {
+          "id": "D",
+          "texto": "8"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 31,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Quantos meses tem um ano?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "10"
+        },
+        {
+          "id": "B",
+          "texto": "11"
+        },
+        {
+          "id": "C",
+          "texto": "12"
+        },
+        {
+          "id": "D",
+          "texto": "13"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 32,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Qual destes é um dia da semana?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Janeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Quarta-feira"
+        },
+        {
+          "id": "C",
+          "texto": "Verão"
+        },
+        {
+          "id": "D",
+          "texto": "Fevereiro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 33,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_10.jpg",
+        "img/moeda_1.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 9"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 11"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 15"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 20"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 34,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_5.jpg",
+        "img/nota2.png"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 5"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 6"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 7"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 10"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 35,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_20.jpg",
+        "img/nota_10.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 25"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 30"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 35"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 40"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 36,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_50.jpg",
+        "img/nota_20.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 60"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 65"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 70"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 75"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 37,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_100.jpg",
+        "img/nota_50.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo, por extenso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cem reais"
+        },
+        {
+          "id": "B",
+          "texto": "Cento e cinquenta reais"
+        },
+        {
+          "id": "C",
+          "texto": "Cento e cinco reais"
+        },
+        {
+          "id": "D",
+          "texto": "Duzentos reais"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 38,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/moeda_1.jpg",
+        "img/moeda_1.jpg",
+        "img/moeda_1.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo, por extenso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um real"
+        },
+        {
+          "id": "B",
+          "texto": "Dois reais"
+        },
+        {
+          "id": "C",
+          "texto": "Três reais"
+        },
+        {
+          "id": "D",
+          "texto": "Quatro reais"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 39,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_10.jpg",
+        "img/nota_5.jpg",
+        "img/moeda_1.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo, por extenso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quinze reais"
+        },
+        {
+          "id": "B",
+          "texto": "Dezesseis reais"
+        },
+        {
+          "id": "C",
+          "texto": "Dezessete reais"
+        },
+        {
+          "id": "D",
+          "texto": "Vinte reais"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 40,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_20.jpg",
+        "img/nota_5.jpg",
+        "img/moeda_1.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 24"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 25"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 26"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 30"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 41,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 665 - 8?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "655"
+        },
+        {
+          "id": "B",
+          "texto": "656"
+        },
+        {
+          "id": "C",
+          "texto": "657"
+        },
+        {
+          "id": "D",
+          "texto": "647"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 42,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 703 - 48?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "657"
+        },
+        {
+          "id": "B",
+          "texto": "645"
+        },
+        {
+          "id": "C",
+          "texto": "656"
+        },
+        {
+          "id": "D",
+          "texto": "655"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 43,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 234 - 15?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "219"
+        },
+        {
+          "id": "B",
+          "texto": "229"
+        },
+        {
+          "id": "C",
+          "texto": "221"
+        },
+        {
+          "id": "D",
+          "texto": "220"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 44,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 236 - 29?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "207"
+        },
+        {
+          "id": "B",
+          "texto": "197"
+        },
+        {
+          "id": "C",
+          "texto": "206"
+        },
+        {
+          "id": "D",
+          "texto": "209"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 45,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 359 - 18?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "351"
+        },
+        {
+          "id": "B",
+          "texto": "339"
+        },
+        {
+          "id": "C",
+          "texto": "340"
+        },
+        {
+          "id": "D",
+          "texto": "341"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 46,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 110 - 23?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "89"
+        },
+        {
+          "id": "B",
+          "texto": "85"
+        },
+        {
+          "id": "C",
+          "texto": "88"
+        },
+        {
+          "id": "D",
+          "texto": "87"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 47,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 560 - 8?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "554"
+        },
+        {
+          "id": "B",
+          "texto": "552"
+        },
+        {
+          "id": "C",
+          "texto": "553"
+        },
+        {
+          "id": "D",
+          "texto": "550"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 48,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 732 - 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "737"
+        },
+        {
+          "id": "B",
+          "texto": "717"
+        },
+        {
+          "id": "C",
+          "texto": "725"
+        },
+        {
+          "id": "D",
+          "texto": "727"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 49,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 400 - 18?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "392"
+        },
+        {
+          "id": "B",
+          "texto": "382"
+        },
+        {
+          "id": "C",
+          "texto": "380"
+        },
+        {
+          "id": "D",
+          "texto": "372"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 50,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 697 - 18?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "677"
+        },
+        {
+          "id": "B",
+          "texto": "678"
+        },
+        {
+          "id": "C",
+          "texto": "679"
+        },
+        {
+          "id": "D",
+          "texto": "669"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 51,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 399 - 18?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "383"
+        },
+        {
+          "id": "B",
+          "texto": "371"
+        },
+        {
+          "id": "C",
+          "texto": "381"
+        },
+        {
+          "id": "D",
+          "texto": "382"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 52,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 852 - 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "850"
+        },
+        {
+          "id": "B",
+          "texto": "848"
+        },
+        {
+          "id": "C",
+          "texto": "859"
+        },
+        {
+          "id": "D",
+          "texto": "849"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 53,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 228 - 42?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "188"
+        },
+        {
+          "id": "B",
+          "texto": "186"
+        },
+        {
+          "id": "C",
+          "texto": "187"
+        },
+        {
+          "id": "D",
+          "texto": "185"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 54,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 263 - 48?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "215"
+        },
+        {
+          "id": "B",
+          "texto": "216"
+        },
+        {
+          "id": "C",
+          "texto": "217"
+        },
+        {
+          "id": "D",
+          "texto": "213"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 55,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 381 - 15?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "364"
+        },
+        {
+          "id": "B",
+          "texto": "368"
+        },
+        {
+          "id": "C",
+          "texto": "367"
+        },
+        {
+          "id": "D",
+          "texto": "366"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 56,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 167 - 41?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "126"
+        },
+        {
+          "id": "B",
+          "texto": "124"
+        },
+        {
+          "id": "C",
+          "texto": "136"
+        },
+        {
+          "id": "D",
+          "texto": "128"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 57,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 552 - 17?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "535"
+        },
+        {
+          "id": "B",
+          "texto": "536"
+        },
+        {
+          "id": "C",
+          "texto": "537"
+        },
+        {
+          "id": "D",
+          "texto": "545"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 58,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 125 - 19?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "116"
+        },
+        {
+          "id": "B",
+          "texto": "107"
+        },
+        {
+          "id": "C",
+          "texto": "104"
+        },
+        {
+          "id": "D",
+          "texto": "106"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 59,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 523 - 49?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "464"
+        },
+        {
+          "id": "B",
+          "texto": "474"
+        },
+        {
+          "id": "C",
+          "texto": "484"
+        },
+        {
+          "id": "D",
+          "texto": "475"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 60,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 167 - 24?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "133"
+        },
+        {
+          "id": "B",
+          "texto": "143"
+        },
+        {
+          "id": "C",
+          "texto": "141"
+        },
+        {
+          "id": "D",
+          "texto": "145"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 61,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 125 - 60?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "67"
+        },
+        {
+          "id": "B",
+          "texto": "63"
+        },
+        {
+          "id": "C",
+          "texto": "66"
+        },
+        {
+          "id": "D",
+          "texto": "65"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 62,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 98 - 47?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "51"
+        },
+        {
+          "id": "B",
+          "texto": "49"
+        },
+        {
+          "id": "C",
+          "texto": "41"
+        },
+        {
+          "id": "D",
+          "texto": "52"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 63,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 980 - 36?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "945"
+        },
+        {
+          "id": "B",
+          "texto": "944"
+        },
+        {
+          "id": "C",
+          "texto": "943"
+        },
+        {
+          "id": "D",
+          "texto": "942"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 64,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 741 - 20?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "722"
+        },
+        {
+          "id": "B",
+          "texto": "720"
+        },
+        {
+          "id": "C",
+          "texto": "721"
+        },
+        {
+          "id": "D",
+          "texto": "731"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 65,
+      "tipo": "multipla_escolha",
+      "tema": "subtracao",
+      "pergunta": "Quanto é 241 - 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "234"
+        },
+        {
+          "id": "B",
+          "texto": "226"
+        },
+        {
+          "id": "C",
+          "texto": "236"
+        },
+        {
+          "id": "D",
+          "texto": "235"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 66,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 3 x 2?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3"
+        },
+        {
+          "id": "B",
+          "texto": "7"
+        },
+        {
+          "id": "C",
+          "texto": "4"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 67,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 4 x 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "11"
+        },
+        {
+          "id": "B",
+          "texto": "12"
+        },
+        {
+          "id": "C",
+          "texto": "13"
+        },
+        {
+          "id": "D",
+          "texto": "15"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 68,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 1 x 1?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "2"
+        },
+        {
+          "id": "D",
+          "texto": "3"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 69,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 4 x 2?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "4"
+        },
+        {
+          "id": "B",
+          "texto": "6"
+        },
+        {
+          "id": "C",
+          "texto": "8"
+        },
+        {
+          "id": "D",
+          "texto": "12"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 70,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 2 x 2?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "3"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 71,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 3 x 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "20"
+        },
+        {
+          "id": "B",
+          "texto": "10"
+        },
+        {
+          "id": "C",
+          "texto": "16"
+        },
+        {
+          "id": "D",
+          "texto": "15"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 72,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 2 x 1?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "1"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 73,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 5 x 2?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "11"
+        },
+        {
+          "id": "B",
+          "texto": "10"
+        },
+        {
+          "id": "C",
+          "texto": "5"
+        },
+        {
+          "id": "D",
+          "texto": "8"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 74,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 4 x 1?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "4"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "7"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 75,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 5 x 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "14"
+        },
+        {
+          "id": "B",
+          "texto": "20"
+        },
+        {
+          "id": "C",
+          "texto": "15"
+        },
+        {
+          "id": "D",
+          "texto": "12"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 76,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 4 x 4?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "12"
+        },
+        {
+          "id": "B",
+          "texto": "20"
+        },
+        {
+          "id": "C",
+          "texto": "17"
+        },
+        {
+          "id": "D",
+          "texto": "16"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 77,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 1 x 5?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "10"
+        },
+        {
+          "id": "B",
+          "texto": "6"
+        },
+        {
+          "id": "C",
+          "texto": "4"
+        },
+        {
+          "id": "D",
+          "texto": "5"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 78,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 1 x 4?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "6"
+        },
+        {
+          "id": "D",
+          "texto": "8"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 79,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 3 x 1?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "4"
+        },
+        {
+          "id": "D",
+          "texto": "3"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 80,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 5 x 1?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "10"
+        },
+        {
+          "id": "B",
+          "texto": "7"
+        },
+        {
+          "id": "C",
+          "texto": "5"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 81,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 3 x 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "9"
+        },
+        {
+          "id": "B",
+          "texto": "10"
+        },
+        {
+          "id": "C",
+          "texto": "11"
+        },
+        {
+          "id": "D",
+          "texto": "8"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 82,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 5 x 4?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "16"
+        },
+        {
+          "id": "B",
+          "texto": "15"
+        },
+        {
+          "id": "C",
+          "texto": "21"
+        },
+        {
+          "id": "D",
+          "texto": "20"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 83,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 1 x 3?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "4"
+        },
+        {
+          "id": "D",
+          "texto": "3"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 84,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 2 x 4?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "7"
+        },
+        {
+          "id": "B",
+          "texto": "8"
+        },
+        {
+          "id": "C",
+          "texto": "9"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 85,
+      "tipo": "multipla_escolha",
+      "tema": "multiplicacao",
+      "pergunta": "Quanto é 1 x 2?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "5"
+        },
+        {
+          "id": "B",
+          "texto": "2"
+        },
+        {
+          "id": "C",
+          "texto": "1"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 86,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 14 ___ 6 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 87,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 134 ___ 800 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 88,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 663 ___ 269 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 89,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 114 ___ 176 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 90,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 438 ___ 575 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 91,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 585 ___ 10 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 92,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 125 ___ 10 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 93,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 978 ___ 905 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 94,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 717 ___ 717 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "igual"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 95,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 935 ___ 935 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "igual"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 96,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 140 ___ 163 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 97,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 47 ___ 24 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 98,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 566 ___ 607 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 99,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 161 ___ 161 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "igual"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 100,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 66 ___ 451 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 101,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 20 ___ 53 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 102,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 21 ___ 384 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "menor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 103,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 931 ___ 367 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 104,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 225 ___ 225 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "igual"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 105,
+      "tipo": "multipla_escolha",
+      "tema": "comparacao",
+      "pergunta": "Qual sinal completa corretamente: 709 ___ 256 ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": ">"
+        },
+        {
+          "id": "B",
+          "texto": "<"
+        },
+        {
+          "id": "C",
+          "texto": "="
+        },
+        {
+          "id": "D",
+          "texto": "maior"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 106,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 684?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "684"
+        },
+        {
+          "id": "B",
+          "texto": "693"
+        },
+        {
+          "id": "C",
+          "texto": "683"
+        },
+        {
+          "id": "D",
+          "texto": "685"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 107,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 821?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "821"
+        },
+        {
+          "id": "B",
+          "texto": "820"
+        },
+        {
+          "id": "C",
+          "texto": "822"
+        },
+        {
+          "id": "D",
+          "texto": "830"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 108,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 275?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "264"
+        },
+        {
+          "id": "B",
+          "texto": "275"
+        },
+        {
+          "id": "C",
+          "texto": "274"
+        },
+        {
+          "id": "D",
+          "texto": "284"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 109,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 838?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "849"
+        },
+        {
+          "id": "B",
+          "texto": "829"
+        },
+        {
+          "id": "C",
+          "texto": "839"
+        },
+        {
+          "id": "D",
+          "texto": "837"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 110,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 410?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "411"
+        },
+        {
+          "id": "B",
+          "texto": "401"
+        },
+        {
+          "id": "C",
+          "texto": "410"
+        },
+        {
+          "id": "D",
+          "texto": "409"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 111,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 697?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "698"
+        },
+        {
+          "id": "B",
+          "texto": "697"
+        },
+        {
+          "id": "C",
+          "texto": "688"
+        },
+        {
+          "id": "D",
+          "texto": "696"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 112,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 41?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "30"
+        },
+        {
+          "id": "B",
+          "texto": "40"
+        },
+        {
+          "id": "C",
+          "texto": "42"
+        },
+        {
+          "id": "D",
+          "texto": "50"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 113,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 396?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "397"
+        },
+        {
+          "id": "B",
+          "texto": "396"
+        },
+        {
+          "id": "C",
+          "texto": "385"
+        },
+        {
+          "id": "D",
+          "texto": "395"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 114,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 374?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "385"
+        },
+        {
+          "id": "B",
+          "texto": "375"
+        },
+        {
+          "id": "C",
+          "texto": "365"
+        },
+        {
+          "id": "D",
+          "texto": "373"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 115,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 739?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "740"
+        },
+        {
+          "id": "B",
+          "texto": "738"
+        },
+        {
+          "id": "C",
+          "texto": "739"
+        },
+        {
+          "id": "D",
+          "texto": "750"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 116,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 569?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "568"
+        },
+        {
+          "id": "B",
+          "texto": "578"
+        },
+        {
+          "id": "C",
+          "texto": "558"
+        },
+        {
+          "id": "D",
+          "texto": "570"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 117,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 417?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "416"
+        },
+        {
+          "id": "B",
+          "texto": "418"
+        },
+        {
+          "id": "C",
+          "texto": "417"
+        },
+        {
+          "id": "D",
+          "texto": "426"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 118,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 478?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "478"
+        },
+        {
+          "id": "B",
+          "texto": "479"
+        },
+        {
+          "id": "C",
+          "texto": "477"
+        },
+        {
+          "id": "D",
+          "texto": "469"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 119,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 676?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "685"
+        },
+        {
+          "id": "B",
+          "texto": "677"
+        },
+        {
+          "id": "C",
+          "texto": "676"
+        },
+        {
+          "id": "D",
+          "texto": "675"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 120,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 232?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "232"
+        },
+        {
+          "id": "B",
+          "texto": "231"
+        },
+        {
+          "id": "C",
+          "texto": "241"
+        },
+        {
+          "id": "D",
+          "texto": "233"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 121,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 468?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "459"
+        },
+        {
+          "id": "B",
+          "texto": "469"
+        },
+        {
+          "id": "C",
+          "texto": "468"
+        },
+        {
+          "id": "D",
+          "texto": "479"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 122,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 153?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "152"
+        },
+        {
+          "id": "B",
+          "texto": "142"
+        },
+        {
+          "id": "C",
+          "texto": "153"
+        },
+        {
+          "id": "D",
+          "texto": "162"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 123,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o antecessor de 53?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "52"
+        },
+        {
+          "id": "B",
+          "texto": "62"
+        },
+        {
+          "id": "C",
+          "texto": "42"
+        },
+        {
+          "id": "D",
+          "texto": "54"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 124,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 974?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "975"
+        },
+        {
+          "id": "B",
+          "texto": "985"
+        },
+        {
+          "id": "C",
+          "texto": "973"
+        },
+        {
+          "id": "D",
+          "texto": "974"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 125,
+      "tipo": "multipla_escolha",
+      "tema": "antecessor_sucessor",
+      "pergunta": "Qual é o sucessor de 462?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "473"
+        },
+        {
+          "id": "B",
+          "texto": "463"
+        },
+        {
+          "id": "C",
+          "texto": "461"
+        },
+        {
+          "id": "D",
+          "texto": "462"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 126,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "89"
+        },
+        {
+          "id": "B",
+          "texto": "460"
+        },
+        {
+          "id": "C",
+          "texto": "740"
+        },
+        {
+          "id": "D",
+          "texto": "302"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 127,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "229"
+        },
+        {
+          "id": "B",
+          "texto": "434"
+        },
+        {
+          "id": "C",
+          "texto": "75"
+        },
+        {
+          "id": "D",
+          "texto": "733"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 128,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "16"
+        },
+        {
+          "id": "B",
+          "texto": "498"
+        },
+        {
+          "id": "C",
+          "texto": "370"
+        },
+        {
+          "id": "D",
+          "texto": "975"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 129,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "408"
+        },
+        {
+          "id": "B",
+          "texto": "354"
+        },
+        {
+          "id": "C",
+          "texto": "694"
+        },
+        {
+          "id": "D",
+          "texto": "39"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 130,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "276"
+        },
+        {
+          "id": "B",
+          "texto": "196"
+        },
+        {
+          "id": "C",
+          "texto": "61"
+        },
+        {
+          "id": "D",
+          "texto": "398"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 131,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "984"
+        },
+        {
+          "id": "B",
+          "texto": "780"
+        },
+        {
+          "id": "C",
+          "texto": "861"
+        },
+        {
+          "id": "D",
+          "texto": "294"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 132,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "139"
+        },
+        {
+          "id": "B",
+          "texto": "127"
+        },
+        {
+          "id": "C",
+          "texto": "494"
+        },
+        {
+          "id": "D",
+          "texto": "695"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 133,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "120"
+        },
+        {
+          "id": "B",
+          "texto": "961"
+        },
+        {
+          "id": "C",
+          "texto": "602"
+        },
+        {
+          "id": "D",
+          "texto": "36"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 134,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "416"
+        },
+        {
+          "id": "B",
+          "texto": "213"
+        },
+        {
+          "id": "C",
+          "texto": "974"
+        },
+        {
+          "id": "D",
+          "texto": "742"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 135,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "825"
+        },
+        {
+          "id": "B",
+          "texto": "811"
+        },
+        {
+          "id": "C",
+          "texto": "52"
+        },
+        {
+          "id": "D",
+          "texto": "589"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 136,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "456"
+        },
+        {
+          "id": "B",
+          "texto": "758"
+        },
+        {
+          "id": "C",
+          "texto": "486"
+        },
+        {
+          "id": "D",
+          "texto": "855"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 137,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "882"
+        },
+        {
+          "id": "B",
+          "texto": "340"
+        },
+        {
+          "id": "C",
+          "texto": "261"
+        },
+        {
+          "id": "D",
+          "texto": "860"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 138,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "912"
+        },
+        {
+          "id": "B",
+          "texto": "471"
+        },
+        {
+          "id": "C",
+          "texto": "259"
+        },
+        {
+          "id": "D",
+          "texto": "295"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 139,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é ímpar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "593"
+        },
+        {
+          "id": "B",
+          "texto": "634"
+        },
+        {
+          "id": "C",
+          "texto": "398"
+        },
+        {
+          "id": "D",
+          "texto": "694"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 140,
+      "tipo": "multipla_escolha",
+      "tema": "pares_impares",
+      "pergunta": "Qual destes números é par?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "373"
+        },
+        {
+          "id": "B",
+          "texto": "227"
+        },
+        {
+          "id": "C",
+          "texto": "826"
+        },
+        {
+          "id": "D",
+          "texto": "509"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 141,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 580, o algarismo 5 representa quantas centenas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "5"
+        },
+        {
+          "id": "B",
+          "texto": "6"
+        },
+        {
+          "id": "C",
+          "texto": "500"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 142,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 463, o algarismo 4 representa quantas centenas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "4"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "400"
+        },
+        {
+          "id": "D",
+          "texto": "3"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 143,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 674, o algarismo 6 representa quantas centenas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "7"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "600"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 144,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 618, o algarismo 6 representa quantas centenas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "6"
+        },
+        {
+          "id": "B",
+          "texto": "7"
+        },
+        {
+          "id": "C",
+          "texto": "5"
+        },
+        {
+          "id": "D",
+          "texto": "600"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 145,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 598, o algarismo 5 representa quantas centenas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "6"
+        },
+        {
+          "id": "B",
+          "texto": "5"
+        },
+        {
+          "id": "C",
+          "texto": "500"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 146,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 624, o algarismo 6 está na posição de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centena"
+        },
+        {
+          "id": "B",
+          "texto": "Dezena"
+        },
+        {
+          "id": "C",
+          "texto": "Unidade"
+        },
+        {
+          "id": "D",
+          "texto": "Milhar"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 147,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 924, o algarismo 9 está na posição de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centena"
+        },
+        {
+          "id": "B",
+          "texto": "Dezena"
+        },
+        {
+          "id": "C",
+          "texto": "Unidade"
+        },
+        {
+          "id": "D",
+          "texto": "Milhar"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 148,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 184, o algarismo 4 está na posição de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centena"
+        },
+        {
+          "id": "B",
+          "texto": "Dezena"
+        },
+        {
+          "id": "C",
+          "texto": "Unidade"
+        },
+        {
+          "id": "D",
+          "texto": "Milhar"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 149,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 371, o algarismo 3 está na posição de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centena"
+        },
+        {
+          "id": "B",
+          "texto": "Dezena"
+        },
+        {
+          "id": "C",
+          "texto": "Unidade"
+        },
+        {
+          "id": "D",
+          "texto": "Milhar"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 150,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "No número 852, o algarismo 8 está na posição de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centena"
+        },
+        {
+          "id": "B",
+          "texto": "Dezena"
+        },
+        {
+          "id": "C",
+          "texto": "Unidade"
+        },
+        {
+          "id": "D",
+          "texto": "Milhar"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 151,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "O número 571 pode ser decomposto em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "500 + 10 + 7"
+        },
+        {
+          "id": "B",
+          "texto": "700 + 50 + 1"
+        },
+        {
+          "id": "C",
+          "texto": "5 + 7 + 1"
+        },
+        {
+          "id": "D",
+          "texto": "500 + 70 + 1"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 152,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "O número 290 pode ser decomposto em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "900 + 20 + 0"
+        },
+        {
+          "id": "B",
+          "texto": "200 + 0 + 9"
+        },
+        {
+          "id": "C",
+          "texto": "200 + 90 + 0"
+        },
+        {
+          "id": "D",
+          "texto": "2 + 9 + 0"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 153,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "O número 231 pode ser decomposto em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2 + 3 + 1"
+        },
+        {
+          "id": "B",
+          "texto": "200 + 30 + 1"
+        },
+        {
+          "id": "C",
+          "texto": "300 + 20 + 1"
+        },
+        {
+          "id": "D",
+          "texto": "200 + 10 + 3"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 154,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "O número 967 pode ser decomposto em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "900 + 60 + 7"
+        },
+        {
+          "id": "B",
+          "texto": "600 + 90 + 7"
+        },
+        {
+          "id": "C",
+          "texto": "9 + 6 + 7"
+        },
+        {
+          "id": "D",
+          "texto": "900 + 70 + 6"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 155,
+      "tipo": "multipla_escolha",
+      "tema": "decomposicao",
+      "pergunta": "O número 381 pode ser decomposto em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "800 + 30 + 1"
+        },
+        {
+          "id": "B",
+          "texto": "300 + 10 + 8"
+        },
+        {
+          "id": "C",
+          "texto": "300 + 80 + 1"
+        },
+        {
+          "id": "D",
+          "texto": "3 + 8 + 1"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 156,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 561?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quinhentos e sessenta e dois"
+        },
+        {
+          "id": "B",
+          "texto": "Quinhentos e dezesseis"
+        },
+        {
+          "id": "C",
+          "texto": "Quinhentos e sessenta"
+        },
+        {
+          "id": "D",
+          "texto": "Quinhentos e sessenta e um"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 157,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 823?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Oitocentos e vinte e dois"
+        },
+        {
+          "id": "B",
+          "texto": "Oitocentos e vinte e três"
+        },
+        {
+          "id": "C",
+          "texto": "Oitocentos e vinte e quatro"
+        },
+        {
+          "id": "D",
+          "texto": "Oitocentos e trinta e dois"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 158,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 535?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quinhentos e trinta e seis"
+        },
+        {
+          "id": "B",
+          "texto": "Quinhentos e cinquenta e três"
+        },
+        {
+          "id": "C",
+          "texto": "Quinhentos e trinta e cinco"
+        },
+        {
+          "id": "D",
+          "texto": "Quinhentos e trinta e quatro"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 159,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 161?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cento e sessenta e dois"
+        },
+        {
+          "id": "B",
+          "texto": "Cento e sessenta"
+        },
+        {
+          "id": "C",
+          "texto": "Cento e sessenta e um"
+        },
+        {
+          "id": "D",
+          "texto": "Cento e dezesseis"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 160,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 805?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Oitocentos e seis"
+        },
+        {
+          "id": "B",
+          "texto": "Oitocentos e cinco"
+        },
+        {
+          "id": "C",
+          "texto": "Oitocentos e quatro"
+        },
+        {
+          "id": "D",
+          "texto": "Oitocentos e cinquenta"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 161,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 712?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Setecentos e treze"
+        },
+        {
+          "id": "B",
+          "texto": "Setecentos e onze"
+        },
+        {
+          "id": "C",
+          "texto": "Setecentos e doze"
+        },
+        {
+          "id": "D",
+          "texto": "Setecentos e vinte e um"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 162,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 334?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trezentos e trinta e três"
+        },
+        {
+          "id": "B",
+          "texto": "Trezentos e trinta e cinco"
+        },
+        {
+          "id": "C",
+          "texto": "Trezentos e quarenta e três"
+        },
+        {
+          "id": "D",
+          "texto": "Trezentos e trinta e quatro"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 163,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 631?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Seiscentos e trinta e um"
+        },
+        {
+          "id": "B",
+          "texto": "Seiscentos e trinta e dois"
+        },
+        {
+          "id": "C",
+          "texto": "Seiscentos e treze"
+        },
+        {
+          "id": "D",
+          "texto": "Seiscentos e trinta"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 164,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 750?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Setecentos e cinquenta"
+        },
+        {
+          "id": "B",
+          "texto": "Setecentos e cinquenta e um"
+        },
+        {
+          "id": "C",
+          "texto": "Setecentos e quarenta e nove"
+        },
+        {
+          "id": "D",
+          "texto": "Setecentos e cinco"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 165,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 428?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quatrocentos e vinte e oito"
+        },
+        {
+          "id": "B",
+          "texto": "Quatrocentos e vinte e sete"
+        },
+        {
+          "id": "C",
+          "texto": "Quatrocentos e vinte e nove"
+        },
+        {
+          "id": "D",
+          "texto": "Quatrocentos e oitenta e dois"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 166,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 395?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trezentos e noventa e seis"
+        },
+        {
+          "id": "B",
+          "texto": "Trezentos e cinquenta e nove"
+        },
+        {
+          "id": "C",
+          "texto": "Trezentos e noventa e cinco"
+        },
+        {
+          "id": "D",
+          "texto": "Trezentos e noventa e quatro"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 167,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 358?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trezentos e cinquenta e nove"
+        },
+        {
+          "id": "B",
+          "texto": "Trezentos e cinquenta e sete"
+        },
+        {
+          "id": "C",
+          "texto": "Trezentos e oitenta e cinco"
+        },
+        {
+          "id": "D",
+          "texto": "Trezentos e cinquenta e oito"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 168,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 523?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quinhentos e vinte e três"
+        },
+        {
+          "id": "B",
+          "texto": "Quinhentos e vinte e dois"
+        },
+        {
+          "id": "C",
+          "texto": "Quinhentos e trinta e dois"
+        },
+        {
+          "id": "D",
+          "texto": "Quinhentos e vinte e quatro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 169,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 878?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Oitocentos e setenta e oito"
+        },
+        {
+          "id": "B",
+          "texto": "Oitocentos e setenta e nove"
+        },
+        {
+          "id": "C",
+          "texto": "Oitocentos e setenta e sete"
+        },
+        {
+          "id": "D",
+          "texto": "Oitocentos e oitenta e sete"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 170,
+      "tipo": "multipla_escolha",
+      "tema": "numero_por_extenso",
+      "pergunta": "Como se escreve por extenso o número 815?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Oitocentos e catorze"
+        },
+        {
+          "id": "B",
+          "texto": "Oitocentos e quinze"
+        },
+        {
+          "id": "C",
+          "texto": "Oitocentos e dezesseis"
+        },
+        {
+          "id": "D",
+          "texto": "Oitocentos e cinquenta e um"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 171,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem depois de 320?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "320"
+        },
+        {
+          "id": "B",
+          "texto": "311"
+        },
+        {
+          "id": "C",
+          "texto": "319"
+        },
+        {
+          "id": "D",
+          "texto": "321"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 172,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem depois de 665?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "666"
+        },
+        {
+          "id": "B",
+          "texto": "665"
+        },
+        {
+          "id": "C",
+          "texto": "656"
+        },
+        {
+          "id": "D",
+          "texto": "676"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 173,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem depois de 485?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "485"
+        },
+        {
+          "id": "B",
+          "texto": "484"
+        },
+        {
+          "id": "C",
+          "texto": "486"
+        },
+        {
+          "id": "D",
+          "texto": "496"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 174,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem depois de 886?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "886"
+        },
+        {
+          "id": "B",
+          "texto": "885"
+        },
+        {
+          "id": "C",
+          "texto": "887"
+        },
+        {
+          "id": "D",
+          "texto": "877"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 175,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem antes de 745?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "744"
+        },
+        {
+          "id": "B",
+          "texto": "745"
+        },
+        {
+          "id": "C",
+          "texto": "734"
+        },
+        {
+          "id": "D",
+          "texto": "746"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 176,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem antes de 567?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "566"
+        },
+        {
+          "id": "B",
+          "texto": "568"
+        },
+        {
+          "id": "C",
+          "texto": "576"
+        },
+        {
+          "id": "D",
+          "texto": "567"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 177,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem antes de 241?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "242"
+        },
+        {
+          "id": "B",
+          "texto": "240"
+        },
+        {
+          "id": "C",
+          "texto": "241"
+        },
+        {
+          "id": "D",
+          "texto": "250"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 178,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem depois de 509?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "508"
+        },
+        {
+          "id": "B",
+          "texto": "509"
+        },
+        {
+          "id": "C",
+          "texto": "500"
+        },
+        {
+          "id": "D",
+          "texto": "510"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 179,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem antes de 540?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "529"
+        },
+        {
+          "id": "B",
+          "texto": "539"
+        },
+        {
+          "id": "C",
+          "texto": "540"
+        },
+        {
+          "id": "D",
+          "texto": "541"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 180,
+      "tipo": "multipla_escolha",
+      "tema": "sequencia",
+      "pergunta": "Qual número vem antes de 78?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "79"
+        },
+        {
+          "id": "B",
+          "texto": "87"
+        },
+        {
+          "id": "C",
+          "texto": "78"
+        },
+        {
+          "id": "D",
+          "texto": "77"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 181,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕐",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1 hora"
+        },
+        {
+          "id": "B",
+          "texto": "1 hora e meia"
+        },
+        {
+          "id": "C",
+          "texto": "2 horas e meia"
+        },
+        {
+          "id": "D",
+          "texto": "2 horas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 182,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕑",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "3 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "3 horas"
+        },
+        {
+          "id": "D",
+          "texto": "2 horas"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 183,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕓",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "4 horas"
+        },
+        {
+          "id": "B",
+          "texto": "5 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "5 horas"
+        },
+        {
+          "id": "D",
+          "texto": "4 horas e meia"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 184,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕕",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "7 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "6 horas"
+        },
+        {
+          "id": "C",
+          "texto": "7 horas"
+        },
+        {
+          "id": "D",
+          "texto": "6 horas e meia"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 185,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕗",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "8 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "9 horas"
+        },
+        {
+          "id": "C",
+          "texto": "8 horas"
+        },
+        {
+          "id": "D",
+          "texto": "9 horas e meia"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 186,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕙",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "11 horas"
+        },
+        {
+          "id": "B",
+          "texto": "10 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "10 horas"
+        },
+        {
+          "id": "D",
+          "texto": "11 horas e meia"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 187,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕛",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "11 horas"
+        },
+        {
+          "id": "B",
+          "texto": "12 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "11 horas e meia"
+        },
+        {
+          "id": "D",
+          "texto": "12 horas"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 188,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕝",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "3 horas"
+        },
+        {
+          "id": "C",
+          "texto": "2 horas"
+        },
+        {
+          "id": "D",
+          "texto": "2 horas e meia"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 189,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕟",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "5 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "4 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "4 horas"
+        },
+        {
+          "id": "D",
+          "texto": "5 horas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 190,
+      "tipo": "imagem_texto",
+      "tema": "medida_tempo",
+      "imagem": "🕡",
+      "pergunta": "Que horas o relógio está marcando?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "6 horas e meia"
+        },
+        {
+          "id": "B",
+          "texto": "7 horas e meia"
+        },
+        {
+          "id": "C",
+          "texto": "7 horas"
+        },
+        {
+          "id": "D",
+          "texto": "6 horas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 191,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Qual destes é um mês do ano?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Segunda-feira"
+        },
+        {
+          "id": "B",
+          "texto": "Verão"
+        },
+        {
+          "id": "C",
+          "texto": "Dezembro"
+        },
+        {
+          "id": "D",
+          "texto": "Semana"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 192,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Quantos dias tem o mês de abril?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "28"
+        },
+        {
+          "id": "B",
+          "texto": "29"
+        },
+        {
+          "id": "C",
+          "texto": "30"
+        },
+        {
+          "id": "D",
+          "texto": "31"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 193,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Qual destes é uma estação do ano?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fevereiro"
+        },
+        {
+          "id": "B",
+          "texto": "Sexta-feira"
+        },
+        {
+          "id": "C",
+          "texto": "Verão"
+        },
+        {
+          "id": "D",
+          "texto": "Ano"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 194,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Qual é o último mês do ano?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Dezembro"
+        },
+        {
+          "id": "B",
+          "texto": "Novembro"
+        },
+        {
+          "id": "C",
+          "texto": "Janeiro"
+        },
+        {
+          "id": "D",
+          "texto": "Outubro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 195,
+      "tipo": "multipla_escolha",
+      "tema": "calendario",
+      "pergunta": "Quantas semanas tem, aproximadamente, um mês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "6"
+        },
+        {
+          "id": "D",
+          "texto": "8"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 196,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_100.jpg",
+        "img/nota_20.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 110"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 115"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 120"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 130"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 197,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_50.jpg",
+        "img/nota_10.jpg",
+        "img/moeda_1.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 60"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 61"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 65"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 70"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 198,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota2.png",
+        "img/nota2.png"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo, por extenso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Três reais"
+        },
+        {
+          "id": "B",
+          "texto": "Quatro reais"
+        },
+        {
+          "id": "C",
+          "texto": "Cinco reais"
+        },
+        {
+          "id": "D",
+          "texto": "Dois reais"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 199,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_20.jpg",
+        "img/nota_20.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "R$ 35"
+        },
+        {
+          "id": "B",
+          "texto": "R$ 38"
+        },
+        {
+          "id": "C",
+          "texto": "R$ 40"
+        },
+        {
+          "id": "D",
+          "texto": "R$ 45"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 200,
+      "tipo": "imagem_texto",
+      "tema": "sistema_monetario",
+      "imagens": [
+        "img/nota_5.jpg",
+        "img/nota_5.jpg",
+        "img/nota_5.jpg"
+      ],
+      "pergunta": "Observe as imagens e responda: quanto vale ao todo, por extenso?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Doze reais"
+        },
+        {
+          "id": "B",
+          "texto": "Quatorze reais"
+        },
+        {
+          "id": "C",
+          "texto": "Quinze reais"
+        },
+        {
+          "id": "D",
+          "texto": "Vinte reais"
+        }
+      ],
+      "resposta": "C"
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Revisão da Gabi 🎉</title>
+  <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+  <div class="clouds" aria-hidden="true">
+    <span class="cloud cloud1">☁️</span>
+    <span class="cloud cloud2">☁️</span>
+    <span class="cloud cloud3">☁️</span>
+  </div>
+
+  <!-- TELA INICIAL -->
+  <main id="home-screen" class="screen active">
+    <header class="home-header">
+      <h1><span class="wiggle">🎓</span> Revisão para a Prova <span class="wiggle">✨</span></h1>
+      <p>Escolha uma matéria e vamos praticar juntos!</p>
+    </header>
+    <section id="cards-container" class="cards-grid"></section>
+  </main>
+
+  <!-- TELA DO QUESTIONÁRIO -->
+  <section id="quiz-screen" class="screen">
+    <div class="quiz-topbar">
+      <button id="btn-back" class="icon-btn" title="Voltar ao início">⬅️</button>
+      <h2 id="quiz-title">Matéria</h2>
+      <div class="score-pill">⭐ <span id="score-display">0</span></div>
+    </div>
+
+    <div class="progress-bar-outer">
+      <div id="progress-bar-inner" class="progress-bar-inner"></div>
+    </div>
+    <p id="question-counter" class="question-counter">Pergunta 1 de 10</p>
+
+    <div id="question-card" class="question-card">
+      <div id="question-image" class="question-image"></div>
+      <p id="question-text" class="question-text">Pergunta aqui</p>
+
+      <button id="btn-listen" class="listen-btn" style="display:none;">🔊 Ouvir palavra</button>
+
+      <div id="alternatives-container" class="alternatives-container"></div>
+
+      <button id="btn-confirm" class="confirm-btn" style="display:none;">Confirmar ✅</button>
+
+      <p id="feedback-message" class="feedback-message"></p>
+
+      <button id="btn-next" class="next-btn" style="display:none;">Próxima ➡️</button>
+    </div>
+  </section>
+
+  <!-- TELA DE RESULTADO -->
+  <section id="result-screen" class="screen">
+    <div class="result-card">
+      <div id="result-emoji" class="result-emoji">🏆</div>
+      <h2 id="result-title">Muito bem!</h2>
+      <p id="result-score">Você acertou 8 de 10 perguntas</p>
+      <div class="result-buttons">
+        <button id="btn-retry" class="action-btn">🔁 Refazer</button>
+        <button id="btn-home" class="action-btn primary">🏠 Início</button>
+      </div>
+    </div>
+    <div id="confetti-layer" class="confetti-layer" aria-hidden="true"></div>
+  </section>
+
+  <script src="js/app.js"></script>
+</body>
+</html>

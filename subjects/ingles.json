@@ -1,0 +1,137 @@
+{
+  "titulo": "Inglês - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "animais",
+      "pergunta": "Como se diz \"Cachorro\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "Cat"},
+        {"id": "B", "texto": "Dog"},
+        {"id": "C", "texto": "Bird"},
+        {"id": "D", "texto": "Fish"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "cores",
+      "pergunta": "Como se diz \"Vermelho\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "Blue"},
+        {"id": "B", "texto": "Green"},
+        {"id": "C", "texto": "Red"},
+        {"id": "D", "texto": "Yellow"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "cumprimentos",
+      "pergunta": "Como se cumprimenta alguém dizendo \"Olá\"?",
+      "alternativas": [
+        {"id": "A", "texto": "Bye"},
+        {"id": "B", "texto": "Hello"},
+        {"id": "C", "texto": "Thanks"},
+        {"id": "D", "texto": "Sorry"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "numeros",
+      "pergunta": "Como se diz \"Um\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "Two"},
+        {"id": "B", "texto": "One"},
+        {"id": "C", "texto": "Three"},
+        {"id": "D", "texto": "Four"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 5,
+      "tipo": "multipla_escolha",
+      "tema": "animais",
+      "pergunta": "Como se diz \"Gato\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "Dog"},
+        {"id": "B", "texto": "Cat"},
+        {"id": "C", "texto": "Cow"},
+        {"id": "D", "texto": "Pig"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 6,
+      "tipo": "imagem_texto",
+      "tema": "animais",
+      "imagem": "🐟",
+      "pergunta": "What is this in English?",
+      "alternativas": [
+        {"id": "A", "texto": "Bird"},
+        {"id": "B", "texto": "Fish"},
+        {"id": "C", "texto": "Frog"},
+        {"id": "D", "texto": "Bear"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "cumprimentos",
+      "pergunta": "Como se diz \"Obrigado\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "Please"},
+        {"id": "B", "texto": "Sorry"},
+        {"id": "C", "texto": "Thank you"},
+        {"id": "D", "texto": "Hello"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 8,
+      "tipo": "multipla_escolha",
+      "tema": "cores",
+      "pergunta": "Como se diz \"Azul\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "Blue"},
+        {"id": "B", "texto": "Black"},
+        {"id": "C", "texto": "Brown"},
+        {"id": "D", "texto": "White"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 9,
+      "tipo": "imagem_texto",
+      "tema": "natureza",
+      "imagem": "☀️",
+      "pergunta": "How do you say this in English?",
+      "alternativas": [
+        {"id": "A", "texto": "Moon"},
+        {"id": "B", "texto": "Sun"},
+        {"id": "C", "texto": "Star"},
+        {"id": "D", "texto": "Rain"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "numeros",
+      "pergunta": "Como se diz \"Dois\" em inglês?",
+      "alternativas": [
+        {"id": "A", "texto": "One"},
+        {"id": "B", "texto": "Two"},
+        {"id": "C", "texto": "Three"},
+        {"id": "D", "texto": "Five"}
+      ],
+      "resposta": "B"
+    }
+  ]
+}

@@ -1,0 +1,135 @@
+{
+  "titulo": "Religião - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "valores",
+      "pergunta": "O que devemos fazer quando alguém está triste?",
+      "alternativas": [
+        {"id": "A", "texto": "Ignorar"},
+        {"id": "B", "texto": "Ajudar e confortar"},
+        {"id": "C", "texto": "Rir"},
+        {"id": "D", "texto": "Fugir"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "respeito",
+      "pergunta": "Respeitar as diferenças entre as pessoas é importante porque:",
+      "alternativas": [
+        {"id": "A", "texto": "Todos são iguais em valor"},
+        {"id": "B", "texto": "Só alguns merecem respeito"},
+        {"id": "C", "texto": "Não é importante"},
+        {"id": "D", "texto": "Devemos rir dos outros"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "valores",
+      "pergunta": "Um bom valor para se ter é:",
+      "alternativas": [
+        {"id": "A", "texto": "Egoísmo"},
+        {"id": "B", "texto": "Generosidade"},
+        {"id": "C", "texto": "Mentira"},
+        {"id": "D", "texto": "Raiva"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "gentileza",
+      "pergunta": "O que significa ser gentil?",
+      "alternativas": [
+        {"id": "A", "texto": "Machucar os outros"},
+        {"id": "B", "texto": "Tratar bem as pessoas"},
+        {"id": "C", "texto": "Ignorar todos"},
+        {"id": "D", "texto": "Gritar"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 5,
+      "tipo": "multipla_escolha",
+      "tema": "solidariedade",
+      "pergunta": "Compartilhar com os colegas é um sinal de:",
+      "alternativas": [
+        {"id": "A", "texto": "Solidariedade"},
+        {"id": "B", "texto": "Egoísmo"},
+        {"id": "C", "texto": "Raiva"},
+        {"id": "D", "texto": "Preguiça"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 6,
+      "tipo": "multipla_escolha",
+      "tema": "solidariedade",
+      "pergunta": "Como podemos ajudar o próximo?",
+      "alternativas": [
+        {"id": "A", "texto": "Sendo solidários"},
+        {"id": "B", "texto": "Sendo indiferentes"},
+        {"id": "C", "texto": "Brigando"},
+        {"id": "D", "texto": "Escondendo as coisas"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "perdao",
+      "pergunta": "O perdão é importante porque:",
+      "alternativas": [
+        {"id": "A", "texto": "Ajuda a fazer as pazes"},
+        {"id": "B", "texto": "Machuca mais"},
+        {"id": "C", "texto": "Não serve para nada"},
+        {"id": "D", "texto": "É proibido"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 8,
+      "tipo": "multipla_escolha",
+      "tema": "diversidade",
+      "pergunta": "Cada família pode ter tradições e crenças:",
+      "alternativas": [
+        {"id": "A", "texto": "Iguais para todos"},
+        {"id": "B", "texto": "Diferentes, e devemos respeitar"},
+        {"id": "C", "texto": "Proibidas"},
+        {"id": "D", "texto": "Que não importam"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 9,
+      "tipo": "multipla_escolha",
+      "tema": "gratidao",
+      "pergunta": "Um exemplo de gratidão é:",
+      "alternativas": [
+        {"id": "A", "texto": "Dizer obrigado"},
+        {"id": "B", "texto": "Ignorar quem ajudou"},
+        {"id": "C", "texto": "Reclamar"},
+        {"id": "D", "texto": "Brigar"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "amizade",
+      "pergunta": "A amizade é baseada em:",
+      "alternativas": [
+        {"id": "A", "texto": "Respeito e confiança"},
+        {"id": "B", "texto": "Brigas"},
+        {"id": "C", "texto": "Mentiras"},
+        {"id": "D", "texto": "Egoísmo"}
+      ],
+      "resposta": "A"
+    }
+  ]
+}

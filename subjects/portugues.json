@@ -1,0 +1,5307 @@
+{
+  "titulo": "Português - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "vogais",
+      "pergunta": "Qual destas letras é uma vogal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "B"
+        },
+        {
+          "id": "B",
+          "texto": "C"
+        },
+        {
+          "id": "C",
+          "texto": "A"
+        },
+        {
+          "id": "D",
+          "texto": "D"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra CASA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1"
+        },
+        {
+          "id": "B",
+          "texto": "2"
+        },
+        {
+          "id": "C",
+          "texto": "3"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "plural",
+      "pergunta": "Qual é o plural de GATO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gatos"
+        },
+        {
+          "id": "B",
+          "texto": "Gato"
+        },
+        {
+          "id": "C",
+          "texto": "Gata"
+        },
+        {
+          "id": "D",
+          "texto": "Gatoo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ortografia",
+      "pergunta": "Assinale a palavra escrita corretamente:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Jendela"
+        },
+        {
+          "id": "B",
+          "texto": "Janela"
+        },
+        {
+          "id": "C",
+          "texto": "Janella"
+        },
+        {
+          "id": "D",
+          "texto": "Ginela"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 5,
+      "tipo": "multipla_escolha",
+      "tema": "vogais",
+      "pergunta": "Qual destas palavras começa com a letra B?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Bola"
+        },
+        {
+          "id": "B",
+          "texto": "Rato"
+        },
+        {
+          "id": "C",
+          "texto": "Sapo"
+        },
+        {
+          "id": "D",
+          "texto": "Lua"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 6,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de MENINO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Menina"
+        },
+        {
+          "id": "B",
+          "texto": "Menino"
+        },
+        {
+          "id": "C",
+          "texto": "Meninos"
+        },
+        {
+          "id": "D",
+          "texto": "Menu"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas letras tem a palavra SOL?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "3"
+        },
+        {
+          "id": "C",
+          "texto": "4"
+        },
+        {
+          "id": "D",
+          "texto": "5"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 8,
+      "tipo": "multipla_escolha",
+      "tema": "frases",
+      "pergunta": "Qual destas é uma frase com sentido completo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O gato"
+        },
+        {
+          "id": "B",
+          "texto": "correndo"
+        },
+        {
+          "id": "C",
+          "texto": "O gato correu."
+        },
+        {
+          "id": "D",
+          "texto": "e"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 9,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário (antônimo) de GRANDE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Enorme"
+        },
+        {
+          "id": "B",
+          "texto": "Pequeno"
+        },
+        {
+          "id": "C",
+          "texto": "Alto"
+        },
+        {
+          "id": "D",
+          "texto": "Forte"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "rimas",
+      "pergunta": "Qual destas palavras rima com PATO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gato"
+        },
+        {
+          "id": "B",
+          "texto": "Bola"
+        },
+        {
+          "id": "C",
+          "texto": "Mesa"
+        },
+        {
+          "id": "D",
+          "texto": "Flor"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 11,
+      "tipo": "imagem_texto",
+      "tema": "ortografia",
+      "imagem": "🐱",
+      "pergunta": "Como se escreve o nome deste animal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gato"
+        },
+        {
+          "id": "B",
+          "texto": "Cato"
+        },
+        {
+          "id": "C",
+          "texto": "Gatu"
+        },
+        {
+          "id": "D",
+          "texto": "Ghato"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 12,
+      "tipo": "imagem_texto",
+      "tema": "ortografia",
+      "imagem": "🌙",
+      "pergunta": "Como se escreve o nome desta imagem?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lua"
+        },
+        {
+          "id": "B",
+          "texto": "Lla"
+        },
+        {
+          "id": "C",
+          "texto": "Rua"
+        },
+        {
+          "id": "D",
+          "texto": "Luar"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 13,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Léo tem um cachorro chamado Bilu. Bilu adora correr no parque. Qual é o nome do cachorro de Léo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Rex"
+        },
+        {
+          "id": "B",
+          "texto": "Bilu"
+        },
+        {
+          "id": "C",
+          "texto": "Tom"
+        },
+        {
+          "id": "D",
+          "texto": "Bob"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 14,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Marina foi ao mercado comprar frutas. Ela comprou maçãs e bananas. O que Marina comprou?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carne e peixe"
+        },
+        {
+          "id": "B",
+          "texto": "Maçãs e bananas"
+        },
+        {
+          "id": "C",
+          "texto": "Pão e leite"
+        },
+        {
+          "id": "D",
+          "texto": "Arroz e feijão"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 15,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "O sol estava forte, então Pedro colocou um chapéu antes de sair de casa. Por que Pedro usou chapéu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque estava frio"
+        },
+        {
+          "id": "B",
+          "texto": "Porque o sol estava forte"
+        },
+        {
+          "id": "C",
+          "texto": "Porque ia chover"
+        },
+        {
+          "id": "D",
+          "texto": "Porque estava escuro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 16,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Ana ganhou uma bicicleta nova no seu aniversário. Ela ficou muito feliz e saiu para andar com os amigos. O que Ana ganhou?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma boneca"
+        },
+        {
+          "id": "B",
+          "texto": "Um livro"
+        },
+        {
+          "id": "C",
+          "texto": "Uma bicicleta"
+        },
+        {
+          "id": "D",
+          "texto": "Uma bola"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 17,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "No zoológico, as crianças viram um leão, uma girafa e um elefante. Depois foram tomar sorvete. Onde as crianças estavam?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Na escola"
+        },
+        {
+          "id": "B",
+          "texto": "No zoológico"
+        },
+        {
+          "id": "C",
+          "texto": "Na praia"
+        },
+        {
+          "id": "D",
+          "texto": "No mercado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 18,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Chovia muito e Rafael não pôde brincar no quintal. Ele ficou em casa lendo um livro. Por que Rafael ficou em casa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque estava doente"
+        },
+        {
+          "id": "B",
+          "texto": "Porque chovia muito"
+        },
+        {
+          "id": "C",
+          "texto": "Porque estava com sono"
+        },
+        {
+          "id": "D",
+          "texto": "Porque não tinha brinquedos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 19,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Beatriz plantou uma sementinha no jardim e regava todos os dias. Depois de duas semanas, nasceu uma flor linda. O que aconteceu depois de duas semanas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A semente secou"
+        },
+        {
+          "id": "B",
+          "texto": "Nasceu uma flor"
+        },
+        {
+          "id": "C",
+          "texto": "A planta morreu"
+        },
+        {
+          "id": "D",
+          "texto": "Nada aconteceu"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 20,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Tiago acordou cedo, escovou os dentes e tomou café da manhã antes de ir para a escola. O que Tiago fez antes de ir para a escola?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Jogou bola"
+        },
+        {
+          "id": "B",
+          "texto": "Escovou os dentes e tomou café"
+        },
+        {
+          "id": "C",
+          "texto": "Foi dormir"
+        },
+        {
+          "id": "D",
+          "texto": "Assistiu televisão"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 21,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "No fim de semana, a família de Sofia foi à praia. Eles construíram um castelo de areia. O que a família construiu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma casa"
+        },
+        {
+          "id": "B",
+          "texto": "Um castelo de areia"
+        },
+        {
+          "id": "C",
+          "texto": "Um barco"
+        },
+        {
+          "id": "D",
+          "texto": "Uma pipa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 22,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Gabriel esqueceu o guarda-chuva em casa e acabou se molhando na chuva. O que aconteceu com Gabriel?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ele se molhou"
+        },
+        {
+          "id": "B",
+          "texto": "Ele ficou seco"
+        },
+        {
+          "id": "C",
+          "texto": "Ele não saiu de casa"
+        },
+        {
+          "id": "D",
+          "texto": "Ele usou o guarda-chuva"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 23,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "A professora pediu para os alunos guardarem os brinquedos antes do recreio. Todos ajudaram a arrumar a sala. O que a professora pediu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para brincar mais"
+        },
+        {
+          "id": "B",
+          "texto": "Para guardar os brinquedos"
+        },
+        {
+          "id": "C",
+          "texto": "Para desenhar"
+        },
+        {
+          "id": "D",
+          "texto": "Para dormir"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 24,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Lucas tem medo de escuro, por isso dorme com uma luz acesa no quarto. Por que Lucas dorme com a luz acesa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque gosta de ler"
+        },
+        {
+          "id": "B",
+          "texto": "Porque tem medo de escuro"
+        },
+        {
+          "id": "C",
+          "texto": "Porque está calor"
+        },
+        {
+          "id": "D",
+          "texto": "Porque é dia"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 25,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "No aquário, Clara viu peixes coloridos, tubarões pequenos e uma tartaruga marinha. Onde Clara estava?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No zoológico"
+        },
+        {
+          "id": "B",
+          "texto": "No aquário"
+        },
+        {
+          "id": "C",
+          "texto": "No circo"
+        },
+        {
+          "id": "D",
+          "texto": "No parque"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 26,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Todos os dias, Vitor caminha com seu cachorro pela manhã antes da escola. O que Vitor faz pela manhã?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Caminha com o cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "Assiste TV"
+        },
+        {
+          "id": "C",
+          "texto": "Vai ao cinema"
+        },
+        {
+          "id": "D",
+          "texto": "Dorme até tarde"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 27,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Era o aniversário de Laura, e seus amigos cantaram parabéns e comeram bolo de chocolate. Qual bolo eles comeram?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Bolo de cenoura"
+        },
+        {
+          "id": "B",
+          "texto": "Bolo de chocolate"
+        },
+        {
+          "id": "C",
+          "texto": "Bolo de morango"
+        },
+        {
+          "id": "D",
+          "texto": "Bolo de fubá"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 28,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "O gato de Enzo subiu na árvore e não conseguia descer sozinho. O bombeiro precisou ajudar. Quem ajudou o gato a descer?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O veterinário"
+        },
+        {
+          "id": "B",
+          "texto": "O bombeiro"
+        },
+        {
+          "id": "C",
+          "texto": "O professor"
+        },
+        {
+          "id": "D",
+          "texto": "O médico"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 29,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Durante o inverno, as pessoas usam casacos e cachecóis para se proteger do frio. Por que as pessoas usam casacos no inverno?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para nadar"
+        },
+        {
+          "id": "B",
+          "texto": "Para se proteger do frio"
+        },
+        {
+          "id": "C",
+          "texto": "Para brincar"
+        },
+        {
+          "id": "D",
+          "texto": "Para dormir"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 30,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Júlia adora desenhar. Todos os dias, depois da escola, ela pega seus lápis de cor e faz um novo desenho. O que Júlia faz depois da escola?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Joga videogame"
+        },
+        {
+          "id": "B",
+          "texto": "Desenha"
+        },
+        {
+          "id": "C",
+          "texto": "Estuda inglês"
+        },
+        {
+          "id": "D",
+          "texto": "Cozinha"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 31,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "No circo, os palhaços fizeram todo mundo rir, e depois um mágico fez um coelho aparecer do chapéu. O que o mágico fez aparecer?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um coelho"
+        },
+        {
+          "id": "B",
+          "texto": "Um pássaro"
+        },
+        {
+          "id": "C",
+          "texto": "Uma pomba"
+        },
+        {
+          "id": "D",
+          "texto": "Um gato"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 32,
+      "tipo": "multipla_escolha",
+      "tema": "interpretacao",
+      "pergunta": "Miguel plantou uma árvore no quintal da sua casa para comemorar seu aniversário de 8 anos. O que Miguel fez para comemorar?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Comprou um brinquedo"
+        },
+        {
+          "id": "B",
+          "texto": "Plantou uma árvore"
+        },
+        {
+          "id": "C",
+          "texto": "Fez uma festa grande"
+        },
+        {
+          "id": "D",
+          "texto": "Viajou"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 33,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: BOLA, ABELHA, CASA, DADO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Bola"
+        },
+        {
+          "id": "B",
+          "texto": "Abelha"
+        },
+        {
+          "id": "C",
+          "texto": "Casa"
+        },
+        {
+          "id": "D",
+          "texto": "Dado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 34,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual letra vem depois de C no alfabeto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "B"
+        },
+        {
+          "id": "B",
+          "texto": "D"
+        },
+        {
+          "id": "C",
+          "texto": "E"
+        },
+        {
+          "id": "D",
+          "texto": "A"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 35,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual letra vem antes de F no alfabeto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "G"
+        },
+        {
+          "id": "B",
+          "texto": "D"
+        },
+        {
+          "id": "C",
+          "texto": "E"
+        },
+        {
+          "id": "D",
+          "texto": "H"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 36,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: GATO, CAVALO, RATO, SAPO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gato"
+        },
+        {
+          "id": "B",
+          "texto": "Cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "Rato"
+        },
+        {
+          "id": "D",
+          "texto": "Sapo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 37,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem por último em ordem alfabética: MESA, CADEIRA, ARMÁRIO, SOFÁ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mesa"
+        },
+        {
+          "id": "B",
+          "texto": "Cadeira"
+        },
+        {
+          "id": "C",
+          "texto": "Armário"
+        },
+        {
+          "id": "D",
+          "texto": "Sofá"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 38,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Quantas letras tem o alfabeto da Língua Portuguesa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "24"
+        },
+        {
+          "id": "B",
+          "texto": "26"
+        },
+        {
+          "id": "C",
+          "texto": "28"
+        },
+        {
+          "id": "D",
+          "texto": "23"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 39,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual é a primeira letra do alfabeto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Z"
+        },
+        {
+          "id": "B",
+          "texto": "B"
+        },
+        {
+          "id": "C",
+          "texto": "A"
+        },
+        {
+          "id": "D",
+          "texto": "J"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 40,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual é a última letra do alfabeto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Y"
+        },
+        {
+          "id": "B",
+          "texto": "Z"
+        },
+        {
+          "id": "C",
+          "texto": "X"
+        },
+        {
+          "id": "D",
+          "texto": "W"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 41,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: PATO, OVO, LUA, MESA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pato"
+        },
+        {
+          "id": "B",
+          "texto": "Ovo"
+        },
+        {
+          "id": "C",
+          "texto": "Lua"
+        },
+        {
+          "id": "D",
+          "texto": "Mesa"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 42,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual letra vem entre a M e a O no alfabeto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "N"
+        },
+        {
+          "id": "B",
+          "texto": "L"
+        },
+        {
+          "id": "C",
+          "texto": "P"
+        },
+        {
+          "id": "D",
+          "texto": "K"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 43,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas sequências está em ordem alfabética?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "C, A, B"
+        },
+        {
+          "id": "B",
+          "texto": "A, B, C"
+        },
+        {
+          "id": "C",
+          "texto": "B, C, A"
+        },
+        {
+          "id": "D",
+          "texto": "C, B, A"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 44,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem depois de BOLA em ordem alfabética?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Abelha"
+        },
+        {
+          "id": "B",
+          "texto": "Casa"
+        },
+        {
+          "id": "C",
+          "texto": "Anel"
+        },
+        {
+          "id": "D",
+          "texto": "Amor"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 45,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem antes de SAPO em ordem alfabética?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tatu"
+        },
+        {
+          "id": "B",
+          "texto": "Urso"
+        },
+        {
+          "id": "C",
+          "texto": "Rato"
+        },
+        {
+          "id": "D",
+          "texto": "Vaca"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 46,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Complete a sequência: A, B, C, __, E",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "D"
+        },
+        {
+          "id": "B",
+          "texto": "F"
+        },
+        {
+          "id": "C",
+          "texto": "G"
+        },
+        {
+          "id": "D",
+          "texto": "C"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 47,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Complete a sequência: J, K, __, M",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "N"
+        },
+        {
+          "id": "B",
+          "texto": "I"
+        },
+        {
+          "id": "C",
+          "texto": "L"
+        },
+        {
+          "id": "D",
+          "texto": "O"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 48,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: ESCOLA, CASA, IGREJA, HOSPITAL?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Escola"
+        },
+        {
+          "id": "B",
+          "texto": "Casa"
+        },
+        {
+          "id": "C",
+          "texto": "Igreja"
+        },
+        {
+          "id": "D",
+          "texto": "Hospital"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 49,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Qual destas palavras vem por último em ordem alfabética: FLOR, ÁRVORE, GALHO, FOLHA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Flor"
+        },
+        {
+          "id": "B",
+          "texto": "Árvore"
+        },
+        {
+          "id": "C",
+          "texto": "Galho"
+        },
+        {
+          "id": "D",
+          "texto": "Folha"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 50,
+      "tipo": "multipla_escolha",
+      "tema": "ordem_alfabetica",
+      "pergunta": "Em um dicionário, as palavras aparecem organizadas em qual ordem?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ordem de tamanho"
+        },
+        {
+          "id": "B",
+          "texto": "Ordem alfabética"
+        },
+        {
+          "id": "C",
+          "texto": "Ordem de cor"
+        },
+        {
+          "id": "D",
+          "texto": "Ordem aleatória"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 51,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Qual é a separação correta em sílabas da palavra CACHORRO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "CA-CHOR-RO"
+        },
+        {
+          "id": "B",
+          "texto": "CACH-OR-RO"
+        },
+        {
+          "id": "C",
+          "texto": "CA-CHO-RRO"
+        },
+        {
+          "id": "D",
+          "texto": "CAC-HOR-RO"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 52,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra BORBOLETA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "5"
+        },
+        {
+          "id": "D",
+          "texto": "2"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 53,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Qual é a separação correta da palavra ABACAXI?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A-BA-CA-XI"
+        },
+        {
+          "id": "B",
+          "texto": "AB-ACA-XI"
+        },
+        {
+          "id": "C",
+          "texto": "ABA-CA-XI"
+        },
+        {
+          "id": "D",
+          "texto": "A-BAC-AXI"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 54,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra PÉ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1"
+        },
+        {
+          "id": "B",
+          "texto": "2"
+        },
+        {
+          "id": "C",
+          "texto": "3"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 55,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra GUARDA-CHUVA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "5"
+        },
+        {
+          "id": "D",
+          "texto": "2"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 56,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Qual é a separação correta da palavra ELEFANTE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "E-LE-FAN-TE"
+        },
+        {
+          "id": "B",
+          "texto": "EL-E-FANTE"
+        },
+        {
+          "id": "C",
+          "texto": "ELE-FAN-TE"
+        },
+        {
+          "id": "D",
+          "texto": "E-LEF-ANTE"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 57,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra SOL?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1"
+        },
+        {
+          "id": "B",
+          "texto": "2"
+        },
+        {
+          "id": "C",
+          "texto": "3"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 58,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra COMPUTADOR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "3"
+        },
+        {
+          "id": "B",
+          "texto": "4"
+        },
+        {
+          "id": "C",
+          "texto": "5"
+        },
+        {
+          "id": "D",
+          "texto": "6"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 59,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Qual é a separação correta da palavra JANELA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "JA-NE-LA"
+        },
+        {
+          "id": "B",
+          "texto": "JAN-E-LA"
+        },
+        {
+          "id": "C",
+          "texto": "J-ANE-LA"
+        },
+        {
+          "id": "D",
+          "texto": "JANE-LA"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 60,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Palavras com apenas uma sílaba são chamadas de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Dissílabas"
+        },
+        {
+          "id": "B",
+          "texto": "Trissílabas"
+        },
+        {
+          "id": "C",
+          "texto": "Monossílabas"
+        },
+        {
+          "id": "D",
+          "texto": "Polissílabas"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 61,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Palavras com duas sílabas são chamadas de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Monossílabas"
+        },
+        {
+          "id": "B",
+          "texto": "Dissílabas"
+        },
+        {
+          "id": "C",
+          "texto": "Trissílabas"
+        },
+        {
+          "id": "D",
+          "texto": "Polissílabas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 62,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Palavras com três sílabas são chamadas de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Monossílabas"
+        },
+        {
+          "id": "B",
+          "texto": "Dissílabas"
+        },
+        {
+          "id": "C",
+          "texto": "Trissílabas"
+        },
+        {
+          "id": "D",
+          "texto": "Polissílabas"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 63,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Palavras com quatro ou mais sílabas são chamadas de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Monossílabas"
+        },
+        {
+          "id": "B",
+          "texto": "Dissílabas"
+        },
+        {
+          "id": "C",
+          "texto": "Trissílabas"
+        },
+        {
+          "id": "D",
+          "texto": "Polissílabas"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 64,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra ESCOLA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "2"
+        },
+        {
+          "id": "B",
+          "texto": "3"
+        },
+        {
+          "id": "C",
+          "texto": "4"
+        },
+        {
+          "id": "D",
+          "texto": "1"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 65,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Qual é a separação correta da palavra PIPOCA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "PI-PO-CA"
+        },
+        {
+          "id": "B",
+          "texto": "PIP-O-CA"
+        },
+        {
+          "id": "C",
+          "texto": "PIPO-CA"
+        },
+        {
+          "id": "D",
+          "texto": "P-IPOCA"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 66,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra CHAVE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1"
+        },
+        {
+          "id": "B",
+          "texto": "2"
+        },
+        {
+          "id": "C",
+          "texto": "3"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 67,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Qual é a separação correta da palavra TELEVISÃO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "TE-LE-VI-SÃO"
+        },
+        {
+          "id": "B",
+          "texto": "TEL-E-VI-SÃO"
+        },
+        {
+          "id": "C",
+          "texto": "TELE-VI-SÃO"
+        },
+        {
+          "id": "D",
+          "texto": "TE-LEV-I-SÃO"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 68,
+      "tipo": "multipla_escolha",
+      "tema": "silabas",
+      "pergunta": "Quantas sílabas tem a palavra FLOR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "1"
+        },
+        {
+          "id": "B",
+          "texto": "2"
+        },
+        {
+          "id": "C",
+          "texto": "3"
+        },
+        {
+          "id": "D",
+          "texto": "4"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 69,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que FELIZ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Triste"
+        },
+        {
+          "id": "B",
+          "texto": "Alegre"
+        },
+        {
+          "id": "C",
+          "texto": "Bravo"
+        },
+        {
+          "id": "D",
+          "texto": "Cansado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 70,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que BONITO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Feio"
+        },
+        {
+          "id": "B",
+          "texto": "Lindo"
+        },
+        {
+          "id": "C",
+          "texto": "Grande"
+        },
+        {
+          "id": "D",
+          "texto": "Pequeno"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 71,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que RÁPIDO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Veloz"
+        },
+        {
+          "id": "B",
+          "texto": "Lento"
+        },
+        {
+          "id": "C",
+          "texto": "Devagar"
+        },
+        {
+          "id": "D",
+          "texto": "Parado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 72,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que CASA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carro"
+        },
+        {
+          "id": "B",
+          "texto": "Lar"
+        },
+        {
+          "id": "C",
+          "texto": "Rua"
+        },
+        {
+          "id": "D",
+          "texto": "Escola"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 73,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que GRANDE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pequeno"
+        },
+        {
+          "id": "B",
+          "texto": "Enorme"
+        },
+        {
+          "id": "C",
+          "texto": "Baixo"
+        },
+        {
+          "id": "D",
+          "texto": "Fino"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 74,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que CORAJOSO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Medroso"
+        },
+        {
+          "id": "B",
+          "texto": "Valente"
+        },
+        {
+          "id": "C",
+          "texto": "Fraco"
+        },
+        {
+          "id": "D",
+          "texto": "Tímido"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 75,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que COMEÇAR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Terminar"
+        },
+        {
+          "id": "B",
+          "texto": "Parar"
+        },
+        {
+          "id": "C",
+          "texto": "Iniciar"
+        },
+        {
+          "id": "D",
+          "texto": "Acabar"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 76,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que TRISTE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Feliz"
+        },
+        {
+          "id": "B",
+          "texto": "Chateado"
+        },
+        {
+          "id": "C",
+          "texto": "Contente"
+        },
+        {
+          "id": "D",
+          "texto": "Animado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 77,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que PEQUENO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Grande"
+        },
+        {
+          "id": "B",
+          "texto": "Diminuto"
+        },
+        {
+          "id": "C",
+          "texto": "Enorme"
+        },
+        {
+          "id": "D",
+          "texto": "Gigante"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 78,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que GRITAR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sussurrar"
+        },
+        {
+          "id": "B",
+          "texto": "Berrar"
+        },
+        {
+          "id": "C",
+          "texto": "Cochichar"
+        },
+        {
+          "id": "D",
+          "texto": "Calar"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 79,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que AMIGO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Inimigo"
+        },
+        {
+          "id": "B",
+          "texto": "Colega"
+        },
+        {
+          "id": "C",
+          "texto": "Estranho"
+        },
+        {
+          "id": "D",
+          "texto": "Desconhecido"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 80,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que BRAVO (com raiva)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Calmo"
+        },
+        {
+          "id": "B",
+          "texto": "Zangado"
+        },
+        {
+          "id": "C",
+          "texto": "Feliz"
+        },
+        {
+          "id": "D",
+          "texto": "Tranquilo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 81,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que OLHAR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ouvir"
+        },
+        {
+          "id": "B",
+          "texto": "Ver"
+        },
+        {
+          "id": "C",
+          "texto": "Cheirar"
+        },
+        {
+          "id": "D",
+          "texto": "Tocar"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 82,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que FALAR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Calar"
+        },
+        {
+          "id": "B",
+          "texto": "Dizer"
+        },
+        {
+          "id": "C",
+          "texto": "Ouvir"
+        },
+        {
+          "id": "D",
+          "texto": "Escrever"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 83,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que BELO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Feio"
+        },
+        {
+          "id": "B",
+          "texto": "Formoso"
+        },
+        {
+          "id": "C",
+          "texto": "Ruim"
+        },
+        {
+          "id": "D",
+          "texto": "Estranho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 84,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que ANDAR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Parar"
+        },
+        {
+          "id": "B",
+          "texto": "Caminhar"
+        },
+        {
+          "id": "C",
+          "texto": "Sentar"
+        },
+        {
+          "id": "D",
+          "texto": "Deitar"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 85,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que MEDO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Coragem"
+        },
+        {
+          "id": "B",
+          "texto": "Pavor"
+        },
+        {
+          "id": "C",
+          "texto": "Alegria"
+        },
+        {
+          "id": "D",
+          "texto": "Calma"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 86,
+      "tipo": "multipla_escolha",
+      "tema": "sinonimos",
+      "pergunta": "Qual palavra tem o mesmo significado que FORTE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fraco"
+        },
+        {
+          "id": "B",
+          "texto": "Robusto"
+        },
+        {
+          "id": "C",
+          "texto": "Frágil"
+        },
+        {
+          "id": "D",
+          "texto": "Mole"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 87,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de QUENTE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Frio"
+        },
+        {
+          "id": "B",
+          "texto": "Morno"
+        },
+        {
+          "id": "C",
+          "texto": "Quente"
+        },
+        {
+          "id": "D",
+          "texto": "Fervendo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 88,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de ALTO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Grande"
+        },
+        {
+          "id": "B",
+          "texto": "Baixo"
+        },
+        {
+          "id": "C",
+          "texto": "Largo"
+        },
+        {
+          "id": "D",
+          "texto": "Comprido"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 89,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de FORTE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fraco"
+        },
+        {
+          "id": "B",
+          "texto": "Robusto"
+        },
+        {
+          "id": "C",
+          "texto": "Poderoso"
+        },
+        {
+          "id": "D",
+          "texto": "Grande"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 90,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de RÁPIDO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Veloz"
+        },
+        {
+          "id": "B",
+          "texto": "Ligeiro"
+        },
+        {
+          "id": "C",
+          "texto": "Lento"
+        },
+        {
+          "id": "D",
+          "texto": "Ágil"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 91,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de CLARO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Escuro"
+        },
+        {
+          "id": "B",
+          "texto": "Brilhante"
+        },
+        {
+          "id": "C",
+          "texto": "Iluminado"
+        },
+        {
+          "id": "D",
+          "texto": "Aceso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 92,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de FELIZ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Alegre"
+        },
+        {
+          "id": "B",
+          "texto": "Contente"
+        },
+        {
+          "id": "C",
+          "texto": "Triste"
+        },
+        {
+          "id": "D",
+          "texto": "Animado"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 93,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de GORDO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Magro"
+        },
+        {
+          "id": "B",
+          "texto": "Grande"
+        },
+        {
+          "id": "C",
+          "texto": "Alto"
+        },
+        {
+          "id": "D",
+          "texto": "Pesado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 94,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de VELHO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Idoso"
+        },
+        {
+          "id": "B",
+          "texto": "Antigo"
+        },
+        {
+          "id": "C",
+          "texto": "Novo"
+        },
+        {
+          "id": "D",
+          "texto": "Maduro"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 95,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de LIMPO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sujo"
+        },
+        {
+          "id": "B",
+          "texto": "Puro"
+        },
+        {
+          "id": "C",
+          "texto": "Lavado"
+        },
+        {
+          "id": "D",
+          "texto": "Novo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 96,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de ABRIR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fechar"
+        },
+        {
+          "id": "B",
+          "texto": "Entrar"
+        },
+        {
+          "id": "C",
+          "texto": "Sair"
+        },
+        {
+          "id": "D",
+          "texto": "Abrir"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 97,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de SUBIR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Andar"
+        },
+        {
+          "id": "B",
+          "texto": "Descer"
+        },
+        {
+          "id": "C",
+          "texto": "Correr"
+        },
+        {
+          "id": "D",
+          "texto": "Pular"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 98,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de DIA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Manhã"
+        },
+        {
+          "id": "B",
+          "texto": "Noite"
+        },
+        {
+          "id": "C",
+          "texto": "Tarde"
+        },
+        {
+          "id": "D",
+          "texto": "Sol"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 99,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de DENTRO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fora"
+        },
+        {
+          "id": "B",
+          "texto": "Perto"
+        },
+        {
+          "id": "C",
+          "texto": "Longe"
+        },
+        {
+          "id": "D",
+          "texto": "Meio"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 100,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de CHEIO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vazio"
+        },
+        {
+          "id": "B",
+          "texto": "Cheio"
+        },
+        {
+          "id": "C",
+          "texto": "Repleto"
+        },
+        {
+          "id": "D",
+          "texto": "Completo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 101,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de FÁCIL?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Simples"
+        },
+        {
+          "id": "B",
+          "texto": "Difícil"
+        },
+        {
+          "id": "C",
+          "texto": "Rápido"
+        },
+        {
+          "id": "D",
+          "texto": "Leve"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 102,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de RICO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pobre"
+        },
+        {
+          "id": "B",
+          "texto": "Bonito"
+        },
+        {
+          "id": "C",
+          "texto": "Forte"
+        },
+        {
+          "id": "D",
+          "texto": "Feliz"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 103,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de DOCE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Saboroso"
+        },
+        {
+          "id": "B",
+          "texto": "Amargo"
+        },
+        {
+          "id": "C",
+          "texto": "Gostoso"
+        },
+        {
+          "id": "D",
+          "texto": "Suave"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 104,
+      "tipo": "multipla_escolha",
+      "tema": "antonimos",
+      "pergunta": "Qual é o contrário de PERTO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Longe"
+        },
+        {
+          "id": "B",
+          "texto": "Junto"
+        },
+        {
+          "id": "C",
+          "texto": "Perto"
+        },
+        {
+          "id": "D",
+          "texto": "Ao lado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 105,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual destas frases está escrita corretamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "a menina brincou no parque."
+        },
+        {
+          "id": "B",
+          "texto": "A menina brincou no parque."
+        },
+        {
+          "id": "C",
+          "texto": "A Menina brincou No Parque."
+        },
+        {
+          "id": "D",
+          "texto": "a Menina Brincou no parque."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 106,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Devemos usar letra maiúscula:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No meio das palavras"
+        },
+        {
+          "id": "B",
+          "texto": "No início de frases"
+        },
+        {
+          "id": "C",
+          "texto": "Só em números"
+        },
+        {
+          "id": "D",
+          "texto": "Nunca"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 107,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual nome está escrito corretamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "maria"
+        },
+        {
+          "id": "B",
+          "texto": "Maria"
+        },
+        {
+          "id": "C",
+          "texto": "mARIA"
+        },
+        {
+          "id": "D",
+          "texto": "mari a"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 108,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Os nomes de pessoas devem começar com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Letra minúscula"
+        },
+        {
+          "id": "B",
+          "texto": "Letra maiúscula"
+        },
+        {
+          "id": "C",
+          "texto": "Número"
+        },
+        {
+          "id": "D",
+          "texto": "Símbolo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 109,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual destas palavras precisa de letra maiúscula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "brasil"
+        },
+        {
+          "id": "C",
+          "texto": "mesa"
+        },
+        {
+          "id": "D",
+          "texto": "cadeira"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 110,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Assinale a frase corretamente escrita:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "joão foi à escola."
+        },
+        {
+          "id": "B",
+          "texto": "João foi à escola."
+        },
+        {
+          "id": "C",
+          "texto": "João Foi À Escola."
+        },
+        {
+          "id": "D",
+          "texto": "joão Foi à escola."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 111,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Os nomes de cidades e países começam com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Letra minúscula"
+        },
+        {
+          "id": "B",
+          "texto": "Letra maiúscula"
+        },
+        {
+          "id": "C",
+          "texto": "Ponto de interrogação"
+        },
+        {
+          "id": "D",
+          "texto": "Vírgula"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 112,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual está correto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pedro mora em são paulo."
+        },
+        {
+          "id": "B",
+          "texto": "Pedro mora em São Paulo."
+        },
+        {
+          "id": "C",
+          "texto": "pedro mora em São paulo."
+        },
+        {
+          "id": "D",
+          "texto": "Pedro Mora Em São Paulo."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 113,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Toda frase deve começar com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Letra minúscula"
+        },
+        {
+          "id": "B",
+          "texto": "Letra maiúscula"
+        },
+        {
+          "id": "C",
+          "texto": "Número"
+        },
+        {
+          "id": "D",
+          "texto": "Vírgula"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 114,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual destes é um exemplo correto de nome próprio com maiúscula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ana"
+        },
+        {
+          "id": "B",
+          "texto": "Ana"
+        },
+        {
+          "id": "C",
+          "texto": "aNa"
+        },
+        {
+          "id": "D",
+          "texto": "anA"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 115,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Assinale a alternativa correta:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "o brasil é um país lindo."
+        },
+        {
+          "id": "B",
+          "texto": "O Brasil é um país lindo."
+        },
+        {
+          "id": "C",
+          "texto": "O brasil é um País lindo."
+        },
+        {
+          "id": "D",
+          "texto": "o Brasil é um país Lindo."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 116,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual frase está escrita com o uso correto das letras maiúsculas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "meu amigo se chama Lucas."
+        },
+        {
+          "id": "B",
+          "texto": "Meu amigo se chama lucas."
+        },
+        {
+          "id": "C",
+          "texto": "Meu amigo se chama Lucas."
+        },
+        {
+          "id": "D",
+          "texto": "Meu Amigo se chama Lucas."
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 117,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Depois de um ponto final, a próxima frase deve começar com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Letra minúscula"
+        },
+        {
+          "id": "B",
+          "texto": "Letra maiúscula"
+        },
+        {
+          "id": "C",
+          "texto": "Número"
+        },
+        {
+          "id": "D",
+          "texto": "Espaço apenas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 118,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual nome de rio está escrito corretamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "rio amazonas"
+        },
+        {
+          "id": "B",
+          "texto": "Rio Amazonas"
+        },
+        {
+          "id": "C",
+          "texto": "Rio amazonas"
+        },
+        {
+          "id": "D",
+          "texto": "rio Amazonas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 119,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual está escrito corretamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Minha professora se chama carla."
+        },
+        {
+          "id": "B",
+          "texto": "minha professora se chama Carla."
+        },
+        {
+          "id": "C",
+          "texto": "Minha professora se chama Carla."
+        },
+        {
+          "id": "D",
+          "texto": "minha Professora se Chama carla."
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 120,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Os dias da semana e meses do ano, em português, geralmente são escritos com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Letra maiúscula sempre"
+        },
+        {
+          "id": "B",
+          "texto": "Letra minúscula"
+        },
+        {
+          "id": "C",
+          "texto": "Só números"
+        },
+        {
+          "id": "D",
+          "texto": "Símbolos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 121,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Qual frase está correta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "hoje é Segunda-feira."
+        },
+        {
+          "id": "B",
+          "texto": "Hoje é segunda-feira."
+        },
+        {
+          "id": "C",
+          "texto": "Hoje é Segunda-Feira."
+        },
+        {
+          "id": "D",
+          "texto": "hoje é segunda-Feira."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 122,
+      "tipo": "multipla_escolha",
+      "tema": "maiuscula",
+      "pergunta": "Assinale a opção com o uso correto da letra maiúscula:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "eu moro no Brasil."
+        },
+        {
+          "id": "B",
+          "texto": "Eu moro no brasil."
+        },
+        {
+          "id": "C",
+          "texto": "Eu moro no Brasil."
+        },
+        {
+          "id": "D",
+          "texto": "eu Moro no brasil."
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 123,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Você já fez a lição de casa?'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "C",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "D",
+          "texto": "Negativa"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 124,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Que dia lindo!'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "C",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "D",
+          "texto": "Negativa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 125,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Eu gosto de sorvete.'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "C",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "D",
+          "texto": "Imperativa"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 126,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Não vou à festa hoje.'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "B",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "C",
+          "texto": "Negativa"
+        },
+        {
+          "id": "D",
+          "texto": "Exclamativa"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 127,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Feche a porta, por favor.'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "C",
+          "texto": "Imperativa"
+        },
+        {
+          "id": "D",
+          "texto": "Afirmativa"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 128,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual sinal de pontuação indica uma frase interrogativa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "!"
+        },
+        {
+          "id": "B",
+          "texto": "?"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ","
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 129,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual sinal de pontuação indica uma frase exclamativa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "?"
+        },
+        {
+          "id": "B",
+          "texto": "!"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ":"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 130,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual destas é uma frase interrogativa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O cachorro late."
+        },
+        {
+          "id": "B",
+          "texto": "Que susto!"
+        },
+        {
+          "id": "C",
+          "texto": "Onde você mora?"
+        },
+        {
+          "id": "D",
+          "texto": "Eu como pão."
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 131,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual destas é uma frase exclamativa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Como isso é incrível!"
+        },
+        {
+          "id": "B",
+          "texto": "Você vem amanhã?"
+        },
+        {
+          "id": "C",
+          "texto": "Eu vou à escola."
+        },
+        {
+          "id": "D",
+          "texto": "Ele não gosta de chuva."
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 132,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual destas é uma frase afirmativa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vamos brincar?"
+        },
+        {
+          "id": "B",
+          "texto": "Que legal!"
+        },
+        {
+          "id": "C",
+          "texto": "Eu adoro férias."
+        },
+        {
+          "id": "D",
+          "texto": "Não quero mais."
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 133,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual destas é uma frase que dá uma ordem (imperativa)?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Feche a janela!"
+        },
+        {
+          "id": "B",
+          "texto": "Você fechou a janela?"
+        },
+        {
+          "id": "C",
+          "texto": "A janela está aberta."
+        },
+        {
+          "id": "D",
+          "texto": "Que janela bonita!"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 134,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Qual é o seu nome?'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "B",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "C",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "D",
+          "texto": "Imperativa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 135,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'Que medo eu senti!'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "C",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "D",
+          "texto": "Negativa"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 136,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Uma frase que faz uma pergunta é chamada de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "B",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "C",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "D",
+          "texto": "Imperativa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 137,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Uma frase que expressa surpresa ou emoção é chamada de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "C",
+          "texto": "Negativa"
+        },
+        {
+          "id": "D",
+          "texto": "Afirmativa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 138,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual destas frases termina com ponto de interrogação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que dia é hoje?"
+        },
+        {
+          "id": "B",
+          "texto": "Hoje é sexta-feira."
+        },
+        {
+          "id": "C",
+          "texto": "Que alegria!"
+        },
+        {
+          "id": "D",
+          "texto": "Vamos, corra!"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 139,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Qual destas frases termina com ponto de exclamação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Onde fica sua casa?"
+        },
+        {
+          "id": "B",
+          "texto": "Parabéns pelo seu aniversário!"
+        },
+        {
+          "id": "C",
+          "texto": "Minha casa é grande."
+        },
+        {
+          "id": "D",
+          "texto": "Eu moro perto da escola."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 140,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_frase",
+      "pergunta": "Que tipo de frase é: 'A lua brilha no céu.'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Interrogativa"
+        },
+        {
+          "id": "B",
+          "texto": "Exclamativa"
+        },
+        {
+          "id": "C",
+          "texto": "Afirmativa"
+        },
+        {
+          "id": "D",
+          "texto": "Imperativa"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 141,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação usamos no final de uma pergunta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "!"
+        },
+        {
+          "id": "B",
+          "texto": "?"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ","
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 142,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação usamos no final de uma frase de emoção ou surpresa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "?"
+        },
+        {
+          "id": "B",
+          "texto": "!"
+        },
+        {
+          "id": "C",
+          "texto": ":"
+        },
+        {
+          "id": "D",
+          "texto": ","
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 143,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação usamos para terminar uma frase afirmativa comum?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "."
+        },
+        {
+          "id": "B",
+          "texto": "?"
+        },
+        {
+          "id": "C",
+          "texto": "!"
+        },
+        {
+          "id": "D",
+          "texto": ":"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 144,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal usamos para separar itens em uma lista, como 'Comprei maçã, banana e uva'?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ponto final"
+        },
+        {
+          "id": "B",
+          "texto": "Vírgula"
+        },
+        {
+          "id": "C",
+          "texto": "Dois pontos"
+        },
+        {
+          "id": "D",
+          "texto": "Interrogação"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 145,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação é este: ' , ' ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ponto de exclamação"
+        },
+        {
+          "id": "B",
+          "texto": "Vírgula"
+        },
+        {
+          "id": "C",
+          "texto": "Dois pontos"
+        },
+        {
+          "id": "D",
+          "texto": "Travessão"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 146,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação é este: ' ? ' ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ponto de interrogação"
+        },
+        {
+          "id": "B",
+          "texto": "Ponto final"
+        },
+        {
+          "id": "C",
+          "texto": "Vírgula"
+        },
+        {
+          "id": "D",
+          "texto": "Travessão"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 147,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação é este: ' ! ' ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ponto de interrogação"
+        },
+        {
+          "id": "B",
+          "texto": "Ponto de exclamação"
+        },
+        {
+          "id": "C",
+          "texto": "Vírgula"
+        },
+        {
+          "id": "D",
+          "texto": "Dois pontos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 148,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação é este: ' : ' ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Dois pontos"
+        },
+        {
+          "id": "B",
+          "texto": "Vírgula"
+        },
+        {
+          "id": "C",
+          "texto": "Ponto final"
+        },
+        {
+          "id": "D",
+          "texto": "Travessão"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 149,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal de pontuação é este: ' - ' ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Travessão"
+        },
+        {
+          "id": "B",
+          "texto": "Vírgula"
+        },
+        {
+          "id": "C",
+          "texto": "Ponto final"
+        },
+        {
+          "id": "D",
+          "texto": "Interrogação"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 150,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Usamos os dois pontos ( : ) geralmente para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Terminar uma pergunta"
+        },
+        {
+          "id": "B",
+          "texto": "Introduzir uma explicação ou fala"
+        },
+        {
+          "id": "C",
+          "texto": "Separar palavras iguais"
+        },
+        {
+          "id": "D",
+          "texto": "Nada, não se usa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 151,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Complete com o sinal correto: 'Você quer brincar___'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "!"
+        },
+        {
+          "id": "B",
+          "texto": "?"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ","
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 152,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Complete com o sinal correto: 'Que dia maravilhoso___'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "?"
+        },
+        {
+          "id": "B",
+          "texto": "!"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ","
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 153,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Complete com o sinal correto: 'Eu me chamo Ana___'",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "!"
+        },
+        {
+          "id": "B",
+          "texto": "?"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ","
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 154,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "O travessão ( - ) é muito usado para indicar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fala de um personagem em um diálogo"
+        },
+        {
+          "id": "B",
+          "texto": "O final de uma pergunta"
+        },
+        {
+          "id": "C",
+          "texto": "Uma lista de números"
+        },
+        {
+          "id": "D",
+          "texto": "Uma emoção forte"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 155,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual frase está pontuada corretamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Você gosta de futebol."
+        },
+        {
+          "id": "B",
+          "texto": "Você gosta de futebol?"
+        },
+        {
+          "id": "C",
+          "texto": "Você gosta de futebol!"
+        },
+        {
+          "id": "D",
+          "texto": "Você gosta de futebol:"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 156,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual frase está pontuada corretamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que susto?"
+        },
+        {
+          "id": "B",
+          "texto": "Que susto!"
+        },
+        {
+          "id": "C",
+          "texto": "Que susto:"
+        },
+        {
+          "id": "D",
+          "texto": "Que susto,"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 157,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Na frase 'Comprei lápis, borracha e caderno.', para que serve a vírgula?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para terminar a frase"
+        },
+        {
+          "id": "B",
+          "texto": "Para separar os itens da lista"
+        },
+        {
+          "id": "C",
+          "texto": "Para fazer uma pergunta"
+        },
+        {
+          "id": "D",
+          "texto": "Para mostrar surpresa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 158,
+      "tipo": "multipla_escolha",
+      "tema": "pontuacao",
+      "pergunta": "Qual sinal devemos usar ao final de uma frase declarativa simples, como 'O céu está azul'?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "!"
+        },
+        {
+          "id": "B",
+          "texto": "?"
+        },
+        {
+          "id": "C",
+          "texto": "."
+        },
+        {
+          "id": "D",
+          "texto": ":"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 159,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é um nome próprio?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cidade"
+        },
+        {
+          "id": "B",
+          "texto": "Brasil"
+        },
+        {
+          "id": "C",
+          "texto": "menino"
+        },
+        {
+          "id": "D",
+          "texto": "cachorro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 160,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é um nome comum?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Maria"
+        },
+        {
+          "id": "B",
+          "texto": "cadeira"
+        },
+        {
+          "id": "C",
+          "texto": "João"
+        },
+        {
+          "id": "D",
+          "texto": "Brasil"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 161,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Nomes próprios servem para nomear:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Coisas em geral"
+        },
+        {
+          "id": "B",
+          "texto": "Pessoas, lugares e animais específicos"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas números"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas cores"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 162,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas é uma lista apenas de nomes comuns?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "mesa, cadeira, livro"
+        },
+        {
+          "id": "B",
+          "texto": "Maria, João, Pedro"
+        },
+        {
+          "id": "C",
+          "texto": "Brasil, São Paulo"
+        },
+        {
+          "id": "D",
+          "texto": "Rex, Bolinha"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 163,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas é uma lista apenas de nomes próprios?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro, gato, pássaro"
+        },
+        {
+          "id": "B",
+          "texto": "Ana, Carlos, Beatriz"
+        },
+        {
+          "id": "C",
+          "texto": "mesa, porta, janela"
+        },
+        {
+          "id": "D",
+          "texto": "flor, árvore, folha"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 164,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Nomes próprios sempre começam com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Letra minúscula"
+        },
+        {
+          "id": "B",
+          "texto": "Letra maiúscula"
+        },
+        {
+          "id": "C",
+          "texto": "Número"
+        },
+        {
+          "id": "D",
+          "texto": "Ponto"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 165,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é o nome próprio de uma pessoa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "menina"
+        },
+        {
+          "id": "B",
+          "texto": "Juliana"
+        },
+        {
+          "id": "C",
+          "texto": "professora"
+        },
+        {
+          "id": "D",
+          "texto": "aluno"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 166,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é um nome comum de animal?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Rex"
+        },
+        {
+          "id": "B",
+          "texto": "Totó"
+        },
+        {
+          "id": "C",
+          "texto": "cachorro"
+        },
+        {
+          "id": "D",
+          "texto": "Bidu"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 167,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é o nome próprio de uma cidade?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cidade"
+        },
+        {
+          "id": "B",
+          "texto": "Curitiba"
+        },
+        {
+          "id": "C",
+          "texto": "bairro"
+        },
+        {
+          "id": "D",
+          "texto": "rua"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 168,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "'Escola' é um nome:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Próprio"
+        },
+        {
+          "id": "B",
+          "texto": "Comum"
+        },
+        {
+          "id": "C",
+          "texto": "Estranho"
+        },
+        {
+          "id": "D",
+          "texto": "Verbo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 169,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "'Brasil' é um nome:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Comum"
+        },
+        {
+          "id": "B",
+          "texto": "Próprio"
+        },
+        {
+          "id": "C",
+          "texto": "Verbo"
+        },
+        {
+          "id": "D",
+          "texto": "Adjetivo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 170,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é o nome próprio de um rio?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "rio"
+        },
+        {
+          "id": "B",
+          "texto": "Amazonas"
+        },
+        {
+          "id": "C",
+          "texto": "água"
+        },
+        {
+          "id": "D",
+          "texto": "peixe"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 171,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Nomes comuns nomeiam de forma geral:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma pessoa específica"
+        },
+        {
+          "id": "B",
+          "texto": "Seres, objetos e lugares em geral"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas números"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas sentimentos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 172,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas frases tem um nome próprio?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O menino correu."
+        },
+        {
+          "id": "B",
+          "texto": "Pedro correu."
+        },
+        {
+          "id": "C",
+          "texto": "A criança correu."
+        },
+        {
+          "id": "D",
+          "texto": "O aluno correu."
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 173,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras NÃO é um nome próprio?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fernanda"
+        },
+        {
+          "id": "B",
+          "texto": "Rio de Janeiro"
+        },
+        {
+          "id": "C",
+          "texto": "cidade"
+        },
+        {
+          "id": "D",
+          "texto": "Brasil"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 174,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "Qual destas palavras é um nome próprio de país?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "país"
+        },
+        {
+          "id": "B",
+          "texto": "Portugal"
+        },
+        {
+          "id": "C",
+          "texto": "continente"
+        },
+        {
+          "id": "D",
+          "texto": "nação"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 175,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "'Gato' é um nome:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Próprio"
+        },
+        {
+          "id": "B",
+          "texto": "Comum"
+        },
+        {
+          "id": "C",
+          "texto": "Verbo"
+        },
+        {
+          "id": "D",
+          "texto": "Pronome"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 176,
+      "tipo": "multipla_escolha",
+      "tema": "nomes_proprios_comuns",
+      "pergunta": "'Totó' (nome de um cachorro) é um nome:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Comum"
+        },
+        {
+          "id": "B",
+          "texto": "Próprio"
+        },
+        {
+          "id": "C",
+          "texto": "Verbo"
+        },
+        {
+          "id": "D",
+          "texto": "Adjetivo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 177,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de CACHORRO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cachorra"
+        },
+        {
+          "id": "B",
+          "texto": "Cachorro"
+        },
+        {
+          "id": "C",
+          "texto": "Cachorros"
+        },
+        {
+          "id": "D",
+          "texto": "Cachorrinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 178,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o masculino de GALINHA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Galo"
+        },
+        {
+          "id": "B",
+          "texto": "Galinho"
+        },
+        {
+          "id": "C",
+          "texto": "Galinha"
+        },
+        {
+          "id": "D",
+          "texto": "Pintinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 179,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de PROFESSOR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Professor"
+        },
+        {
+          "id": "B",
+          "texto": "Professora"
+        },
+        {
+          "id": "C",
+          "texto": "Professoras"
+        },
+        {
+          "id": "D",
+          "texto": "Professorzinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 180,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o masculino de ATRIZ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ator"
+        },
+        {
+          "id": "B",
+          "texto": "Atriz"
+        },
+        {
+          "id": "C",
+          "texto": "Atrizes"
+        },
+        {
+          "id": "D",
+          "texto": "Atorista"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 181,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de REI?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Rei"
+        },
+        {
+          "id": "B",
+          "texto": "Rainha"
+        },
+        {
+          "id": "C",
+          "texto": "Reis"
+        },
+        {
+          "id": "D",
+          "texto": "Reizinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 182,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o masculino de MENINA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Menina"
+        },
+        {
+          "id": "B",
+          "texto": "Menino"
+        },
+        {
+          "id": "C",
+          "texto": "Meninas"
+        },
+        {
+          "id": "D",
+          "texto": "Menininha"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 183,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de LEÃO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Leoa"
+        },
+        {
+          "id": "B",
+          "texto": "Leão"
+        },
+        {
+          "id": "C",
+          "texto": "Leões"
+        },
+        {
+          "id": "D",
+          "texto": "Leãozinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 184,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de GATO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Gato"
+        },
+        {
+          "id": "B",
+          "texto": "Gata"
+        },
+        {
+          "id": "C",
+          "texto": "Gatos"
+        },
+        {
+          "id": "D",
+          "texto": "Gatinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 185,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de PATO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pato"
+        },
+        {
+          "id": "B",
+          "texto": "Pata"
+        },
+        {
+          "id": "C",
+          "texto": "Patinho"
+        },
+        {
+          "id": "D",
+          "texto": "Patos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 186,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o masculino de ÉGUA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cavalo"
+        },
+        {
+          "id": "B",
+          "texto": "Égua"
+        },
+        {
+          "id": "C",
+          "texto": "Potro"
+        },
+        {
+          "id": "D",
+          "texto": "Bezerro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 187,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de HOMEM?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Homem"
+        },
+        {
+          "id": "B",
+          "texto": "Mulher"
+        },
+        {
+          "id": "C",
+          "texto": "Homens"
+        },
+        {
+          "id": "D",
+          "texto": "Homenzinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 188,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de ATOR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Atriz"
+        },
+        {
+          "id": "B",
+          "texto": "Ator"
+        },
+        {
+          "id": "C",
+          "texto": "Atores"
+        },
+        {
+          "id": "D",
+          "texto": "Atorzinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 189,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o masculino de VACA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Boi"
+        },
+        {
+          "id": "B",
+          "texto": "Vaca"
+        },
+        {
+          "id": "C",
+          "texto": "Vaquinha"
+        },
+        {
+          "id": "D",
+          "texto": "Bezerra"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 190,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de TIO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tio"
+        },
+        {
+          "id": "B",
+          "texto": "Tia"
+        },
+        {
+          "id": "C",
+          "texto": "Tios"
+        },
+        {
+          "id": "D",
+          "texto": "Tiazinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 191,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de CAVALO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Égua"
+        },
+        {
+          "id": "B",
+          "texto": "Cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "Cavalinho"
+        },
+        {
+          "id": "D",
+          "texto": "Potro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 192,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o masculino de IRMÃ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Irmão"
+        },
+        {
+          "id": "B",
+          "texto": "Irmã"
+        },
+        {
+          "id": "C",
+          "texto": "Irmãs"
+        },
+        {
+          "id": "D",
+          "texto": "Irmãozinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 193,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de AVÔ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Avô"
+        },
+        {
+          "id": "B",
+          "texto": "Avó"
+        },
+        {
+          "id": "C",
+          "texto": "Avôs"
+        },
+        {
+          "id": "D",
+          "texto": "Avozinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 194,
+      "tipo": "multipla_escolha",
+      "tema": "genero",
+      "pergunta": "Qual é o feminino de PRÍNCIPE?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Príncipe"
+        },
+        {
+          "id": "B",
+          "texto": "Princesa"
+        },
+        {
+          "id": "C",
+          "texto": "Princesas"
+        },
+        {
+          "id": "D",
+          "texto": "Príncipes"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 195,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de FLOR?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Flor"
+        },
+        {
+          "id": "B",
+          "texto": "Flores"
+        },
+        {
+          "id": "C",
+          "texto": "Florzinha"
+        },
+        {
+          "id": "D",
+          "texto": "Floral"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 196,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de PÃO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pães"
+        },
+        {
+          "id": "B",
+          "texto": "Pãos"
+        },
+        {
+          "id": "C",
+          "texto": "Pão"
+        },
+        {
+          "id": "D",
+          "texto": "Paãos"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 197,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de CADEIRA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cadeiras"
+        },
+        {
+          "id": "B",
+          "texto": "Cadeira"
+        },
+        {
+          "id": "C",
+          "texto": "Cadeirão"
+        },
+        {
+          "id": "D",
+          "texto": "Cadeirinha"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 198,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de ANIMAL?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Animais"
+        },
+        {
+          "id": "B",
+          "texto": "Animals"
+        },
+        {
+          "id": "C",
+          "texto": "Animales"
+        },
+        {
+          "id": "D",
+          "texto": "Animal"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 199,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de LÁPIS?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lápis"
+        },
+        {
+          "id": "B",
+          "texto": "Lápises"
+        },
+        {
+          "id": "C",
+          "texto": "Lapiz"
+        },
+        {
+          "id": "D",
+          "texto": "Lápi"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 200,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o singular de CASAS?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Casas"
+        },
+        {
+          "id": "B",
+          "texto": "Casa"
+        },
+        {
+          "id": "C",
+          "texto": "Casinha"
+        },
+        {
+          "id": "D",
+          "texto": "Casarão"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 201,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o singular de LIVROS?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Livros"
+        },
+        {
+          "id": "B",
+          "texto": "Livro"
+        },
+        {
+          "id": "C",
+          "texto": "Livrinho"
+        },
+        {
+          "id": "D",
+          "texto": "Livraria"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 202,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de MÃO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mãos"
+        },
+        {
+          "id": "B",
+          "texto": "Mãoss"
+        },
+        {
+          "id": "C",
+          "texto": "Mão"
+        },
+        {
+          "id": "D",
+          "texto": "Mãozinha"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 203,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de LIÇÃO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lições"
+        },
+        {
+          "id": "B",
+          "texto": "Lição"
+        },
+        {
+          "id": "C",
+          "texto": "Liçãos"
+        },
+        {
+          "id": "D",
+          "texto": "Lisões"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 204,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o singular de FLORES?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Flores"
+        },
+        {
+          "id": "B",
+          "texto": "Flor"
+        },
+        {
+          "id": "C",
+          "texto": "Florzinha"
+        },
+        {
+          "id": "D",
+          "texto": "Floreira"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 205,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de BALÃO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Balões"
+        },
+        {
+          "id": "B",
+          "texto": "Balãos"
+        },
+        {
+          "id": "C",
+          "texto": "Balão"
+        },
+        {
+          "id": "D",
+          "texto": "Baloins"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 206,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de JANELA?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Janelas"
+        },
+        {
+          "id": "B",
+          "texto": "Janela"
+        },
+        {
+          "id": "C",
+          "texto": "Janelão"
+        },
+        {
+          "id": "D",
+          "texto": "Janelinha"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 207,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o singular de BONECAS?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Bonecas"
+        },
+        {
+          "id": "B",
+          "texto": "Boneca"
+        },
+        {
+          "id": "C",
+          "texto": "Bonequinha"
+        },
+        {
+          "id": "D",
+          "texto": "Bonecão"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 208,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de PAPEL?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Papéis"
+        },
+        {
+          "id": "B",
+          "texto": "Papels"
+        },
+        {
+          "id": "C",
+          "texto": "Papel"
+        },
+        {
+          "id": "D",
+          "texto": "Papelzinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 209,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o singular de ÁRVORES?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Árvores"
+        },
+        {
+          "id": "B",
+          "texto": "Árvore"
+        },
+        {
+          "id": "C",
+          "texto": "Arvorezinha"
+        },
+        {
+          "id": "D",
+          "texto": "Arvoredo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 210,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de RATO?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ratos"
+        },
+        {
+          "id": "B",
+          "texto": "Ratoss"
+        },
+        {
+          "id": "C",
+          "texto": "Rato"
+        },
+        {
+          "id": "D",
+          "texto": "Ratozinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 211,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o plural de NARIZ?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Narizes"
+        },
+        {
+          "id": "B",
+          "texto": "Narizs"
+        },
+        {
+          "id": "C",
+          "texto": "Nariz"
+        },
+        {
+          "id": "D",
+          "texto": "Narises"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 212,
+      "tipo": "multipla_escolha",
+      "tema": "singular_plural",
+      "pergunta": "Qual é o singular de PÉS?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pés"
+        },
+        {
+          "id": "B",
+          "texto": "Pé"
+        },
+        {
+          "id": "C",
+          "texto": "Pézinho"
+        },
+        {
+          "id": "D",
+          "texto": "Pezão"
+        }
+      ],
+      "resposta": "B"
+    }
+  ]
+}

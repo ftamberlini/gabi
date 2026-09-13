@@ -1,0 +1,145 @@
+{
+  "titulo": "Ditado - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "casa",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Caza"},
+        {"id": "B", "texto": "Casa"},
+        {"id": "C", "texto": "Caça"},
+        {"id": "D", "texto": "Cassa"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 2,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "bola",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Bolla"},
+        {"id": "B", "texto": "Bulla"},
+        {"id": "C", "texto": "Bola"},
+        {"id": "D", "texto": "Voa"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 3,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "gato",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Gatto"},
+        {"id": "B", "texto": "Gato"},
+        {"id": "C", "texto": "Ghato"},
+        {"id": "D", "texto": "Catu"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "sol",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Ssol"},
+        {"id": "B", "texto": "Sou"},
+        {"id": "C", "texto": "Sol"},
+        {"id": "D", "texto": "Col"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 5,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "lua",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Rua"},
+        {"id": "B", "texto": "Lua"},
+        {"id": "C", "texto": "Lla"},
+        {"id": "D", "texto": "Luah"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 6,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "pato",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Patto"},
+        {"id": "B", "texto": "Bato"},
+        {"id": "C", "texto": "Pato"},
+        {"id": "D", "texto": "Pattu"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 7,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "mesa",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Meza"},
+        {"id": "B", "texto": "Messa"},
+        {"id": "C", "texto": "Mesa"},
+        {"id": "D", "texto": "Mesah"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 8,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "flor",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Flor"},
+        {"id": "B", "texto": "Flô"},
+        {"id": "C", "texto": "Floor"},
+        {"id": "D", "texto": "Flôr"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 9,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "livro",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Livru"},
+        {"id": "B", "texto": "Livro"},
+        {"id": "C", "texto": "Libro"},
+        {"id": "D", "texto": "Livo"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 10,
+      "tipo": "ditado",
+      "tema": "palavras_simples",
+      "palavra": "sapo",
+      "pergunta": "Ouça com atenção e marque a forma correta da palavra:",
+      "alternativas": [
+        {"id": "A", "texto": "Sapo"},
+        {"id": "B", "texto": "Ssapo"},
+        {"id": "C", "texto": "Çapo"},
+        {"id": "D", "texto": "Zapo"}
+      ],
+      "resposta": "A"
+    }
+  ]
+}

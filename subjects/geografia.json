@@ -1,0 +1,530 @@
+{
+  "titulo": "Geografia - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "servico_publico",
+      "imagem": "img/local_escola.png",
+      "pergunta": "Qual destes é um serviço público?",
+      "alternativas": [
+        {"id": "A", "texto": "Videogame"},
+        {"id": "B", "texto": "Escola pública"},
+        {"id": "C", "texto": "Brinquedo"},
+        {"id": "D", "texto": "Loja de doces"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "servico_publico",
+      "imagem": "img/local_escola.png",
+      "pergunta": "A escola pública é um lugar onde as crianças podem:",
+      "alternativas": [
+        {"id": "A", "texto": "Estudar"},
+        {"id": "B", "texto": "Comprar roupas"},
+        {"id": "C", "texto": "Consertar carros"},
+        {"id": "D", "texto": "Fabricar móveis"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "servico_publico",
+      "pergunta": "A água que chega às casas é importante para:",
+      "alternativas": [
+        {"id": "A", "texto": "Apenas brincar"},
+        {"id": "B", "texto": "Beber, cozinhar e tomar banho"},
+        {"id": "C", "texto": "Fazer brinquedos"},
+        {"id": "D", "texto": "Pintar paredes"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servico_publico",
+      "imagem": "img/servico_luz.png",
+      "pergunta": "A luz elétrica permite que possamos:",
+      "alternativas": [
+        {"id": "A", "texto": "Ligar uma lâmpada"},
+        {"id": "B", "texto": "Fazer chover"},
+        {"id": "C", "texto": "Criar rios"},
+        {"id": "D", "texto": "Plantar árvores"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 5,
+      "tipo": "multipla_escolha",
+      "tema": "servico_publico",
+      "pergunta": "Qual destes é um transporte público?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/transporte_bicicleta.png", "texto": "Bicicleta particular"},
+        {"id": "B", "imagem": "img/transporte_moto.png", "texto": "Moto particular"},
+        {"id": "C", "imagem": "img/transporte_onibus.png", "texto": "Ônibus"},
+        {"id": "D", "imagem": "img/transporte_carro.png", "texto": "Carro particular"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 6,
+      "tipo": "imagem_texto",
+      "tema": "servico_publico",
+      "imagem": "img/local_escola.png",
+      "pergunta": "O que esta imagem representa?",
+      "alternativas": [
+        {"id": "A", "texto": "Escola pública"},
+        {"id": "B", "texto": "Fábrica"},
+        {"id": "C", "texto": "Aeroporto"},
+        {"id": "D", "texto": "Loja"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "servico_publico",
+      "pergunta": "A água encanada que chega até as casas está relacionada a qual serviço?",
+      "alternativas": [
+        {"id": "A", "texto": "Transporte"},
+        {"id": "B", "texto": "Abastecimento de água"},
+        {"id": "C", "texto": "Educação"},
+        {"id": "D", "texto": "Comércio"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 8,
+      "tipo": "imagem_texto",
+      "tema": "servico_publico",
+      "imagem": "img/transporte_onibus.png",
+      "pergunta": "O que esta imagem representa?",
+      "alternativas": [
+        {"id": "A", "texto": "Transporte público"},
+        {"id": "B", "texto": "Transporte aéreo"},
+        {"id": "C", "texto": "Uma fábrica"},
+        {"id": "D", "texto": "Uma casa"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 9,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/residencial.png",
+      "pergunta": "Um bairro com muitas casas e prédios onde as pessoas moram é principalmente:",
+      "alternativas": [
+        {"id": "A", "texto": "Industrial"},
+        {"id": "B", "texto": "Comercial"},
+        {"id": "C", "texto": "Residencial"},
+        {"id": "D", "texto": "Rural"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/comercial.png",
+      "pergunta": "Um bairro com muitas lojas e mercados é principalmente:",
+      "alternativas": [
+        {"id": "A", "texto": "Comercial"},
+        {"id": "B", "texto": "Residencial"},
+        {"id": "C", "texto": "Industrial"},
+        {"id": "D", "texto": "Florestal"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 11,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/industrial.png",
+      "pergunta": "Um bairro com muitas fábricas é principalmente:",
+      "alternativas": [
+        {"id": "A", "texto": "Residencial"},
+        {"id": "B", "texto": "Industrial"},
+        {"id": "C", "texto": "Comercial"},
+        {"id": "D", "texto": "Escolar"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 12,
+      "tipo": "imagem_texto",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/residencial.png",
+      "pergunta": "Esse lugar lembra qual tipo de bairro?",
+      "alternativas": [
+        {"id": "A", "texto": "Comercial"},
+        {"id": "B", "texto": "Industrial"},
+        {"id": "C", "texto": "Residencial"},
+        {"id": "D", "texto": "Portuário"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 13,
+      "tipo": "imagem_texto",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/comercial.png",
+      "pergunta": "Esse lugar lembra qual tipo de bairro?",
+      "alternativas": [
+        {"id": "A", "texto": "Residencial"},
+        {"id": "B", "texto": "Comercial"},
+        {"id": "C", "texto": "Industrial"},
+        {"id": "D", "texto": "Rural"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 14,
+      "tipo": "imagem_texto",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/industrial.png",
+      "pergunta": "Esse lugar lembra qual tipo de bairro?",
+      "alternativas": [
+        {"id": "A", "texto": "Industrial"},
+        {"id": "B", "texto": "Residencial"},
+        {"id": "C", "texto": "Comercial"},
+        {"id": "D", "texto": "Escolar"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 15,
+      "tipo": "multipla_escolha",
+      "tema": "transportes",
+      "pergunta": "Qual destes é um transporte terrestre?",
+      "alternativas": [
+        {"id": "A", "texto": "Avião"},
+        {"id": "B", "texto": "Navio"},
+        {"id": "C", "texto": "Ônibus"},
+        {"id": "D", "texto": "Barco"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 16,
+      "tipo": "multipla_escolha",
+      "tema": "transportes",
+      "pergunta": "Qual destes é um transporte aéreo?",
+      "alternativas": [
+        {"id": "A", "texto": "Trem"},
+        {"id": "B", "texto": "Avião"},
+        {"id": "C", "texto": "Navio"},
+        {"id": "D", "texto": "Carro"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 17,
+      "tipo": "multipla_escolha",
+      "tema": "transportes",
+      "pergunta": "Qual destes é um transporte aquático?",
+      "alternativas": [
+        {"id": "A", "texto": "Bicicleta"},
+        {"id": "B", "texto": "Avião"},
+        {"id": "C", "texto": "Ônibus"},
+        {"id": "D", "texto": "Barco"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 18,
+      "tipo": "imagem_texto",
+      "tema": "transportes",
+      "imagem": "img/transporte_carro.png",
+      "pergunta": "O carro é um transporte:",
+      "alternativas": [
+        {"id": "A", "texto": "Aquático"},
+        {"id": "B", "texto": "Aéreo"},
+        {"id": "C", "texto": "Terrestre"},
+        {"id": "D", "texto": "Espacial"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 19,
+      "tipo": "imagem_texto",
+      "tema": "transportes",
+      "imagem": "img/transporte_aviao.png",
+      "pergunta": "O avião é um transporte:",
+      "alternativas": [
+        {"id": "A", "texto": "Terrestre"},
+        {"id": "B", "texto": "Aquático"},
+        {"id": "C", "texto": "Aéreo"},
+        {"id": "D", "texto": "Ferroviário"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 20,
+      "tipo": "imagem_texto",
+      "tema": "transportes",
+      "imagem": "img/transporte_navio.png",
+      "pergunta": "O navio é um transporte:",
+      "alternativas": [
+        {"id": "A", "texto": "Aéreo"},
+        {"id": "B", "texto": "Terrestre"},
+        {"id": "C", "texto": "Aquático"},
+        {"id": "D", "texto": "Rodoviário"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 21,
+      "tipo": "imagem_texto",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/comercial_residencial.png",
+      "pergunta": "Esse lugar lembra qual tipo de bairro?",
+      "alternativas": [
+        {"id": "A", "texto": "Industrial"},
+        {"id": "B", "texto": "Residencial"},
+        {"id": "C", "texto": "Comercial"},
+        {"id": "D", "texto": "Comercial e Residencial"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 22,
+      "tipo": "multipla_resposta",
+      "tema": "servico_publico",
+      "pergunta": "Marque todas as imagens que representam serviços públicos de saneamento (cuidam da limpeza e da saúde da cidade):",
+      "alternativas": [
+        {"id": "A", "imagem": "img/servico_coleta_lixto.png", "texto": "Coleta de lixo"},
+        {"id": "B", "imagem": "img/transporte_carro.png", "texto": "Carro particular"},
+        {"id": "C", "imagem": "img/servico_esgoto.png", "texto": "Rede de esgoto"},
+        {"id": "D", "imagem": "img/local_mercado.png", "texto": "Mercado"}
+      ],
+      "respostas": ["A", "C"]
+    },
+    {
+      "id": 23,
+      "tipo": "multipla_resposta",
+      "tema": "servico_publico",
+      "pergunta": "Marque todas as imagens que representam serviços públicos ligados à segurança e à iluminação da cidade:",
+      "alternativas": [
+        {"id": "A", "imagem": "img/servico_luz.png", "texto": "Iluminação pública"},
+        {"id": "B", "imagem": "img/local_farmacia.png", "texto": "Farmácia"},
+        {"id": "C", "imagem": "img/servico_seguranca.png", "texto": "Segurança pública"},
+        {"id": "D", "imagem": "img/comercial.png", "texto": "Bairro comercial"}
+      ],
+      "respostas": ["A", "C"]
+    },
+    {
+      "id": 24,
+      "tipo": "multipla_resposta",
+      "tema": "servico_publico",
+      "pergunta": "Marque todas as imagens que mostram serviços públicos oferecidos pela prefeitura para toda a população:",
+      "alternativas": [
+        {"id": "A", "imagem": "img/servico_coleta_lixto.png", "texto": "Coleta de lixo"},
+        {"id": "B", "imagem": "img/servico_luz.png", "texto": "Iluminação pública"},
+        {"id": "C", "imagem": "img/transporte_moto.png", "texto": "Moto particular"},
+        {"id": "D", "imagem": "img/servico_seguranca.png", "texto": "Segurança pública"}
+      ],
+      "respostas": ["A", "B", "D"]
+    },
+    {
+      "id": 25,
+      "tipo": "multipla_resposta",
+      "tema": "transportes",
+      "pergunta": "Marque todas as imagens que mostram transportes públicos (usados por várias pessoas ao mesmo tempo):",
+      "alternativas": [
+        {"id": "A", "imagem": "img/transporte_onibus.png", "texto": "Ônibus"},
+        {"id": "B", "imagem": "img/transporte_metro.png", "texto": "Metrô"},
+        {"id": "C", "imagem": "img/transporte_carro.png", "texto": "Carro particular"},
+        {"id": "D", "imagem": "img/transporte_bicicleta.png", "texto": "Bicicleta"},
+        {"id": "E", "imagem": "img/transporte_trem.png", "texto": "Trem"},
+        {"id": "F", "imagem": "img/transporte_moto.png", "texto": "Moto particular"}
+      ],
+      "respostas": ["A", "B", "E"]
+    },
+    {
+      "id": 26,
+      "tipo": "multipla_resposta",
+      "tema": "transportes",
+      "pergunta": "Marque todas as imagens que mostram transportes aéreos:",
+      "alternativas": [
+        {"id": "A", "imagem": "img/transporte_aviao.png", "texto": "Avião"},
+        {"id": "B", "imagem": "img/transporte_navio.png", "texto": "Navio"},
+        {"id": "C", "imagem": "img/transporte_helicoptero.png", "texto": "Helicóptero"},
+        {"id": "D", "imagem": "img/transporte_onibus.png", "texto": "Ônibus"}
+      ],
+      "respostas": ["A", "C"]
+    },
+    {
+      "id": 27,
+      "tipo": "multipla_resposta",
+      "tema": "transportes",
+      "pergunta": "Marque todas as imagens que mostram transportes terrestres:",
+      "alternativas": [
+        {"id": "A", "imagem": "img/transporte_carro.png", "texto": "Carro"},
+        {"id": "B", "imagem": "img/transporte_barco.png", "texto": "Barco"},
+        {"id": "C", "imagem": "img/transporte_bicicleta.png", "texto": "Bicicleta"},
+        {"id": "D", "imagem": "img/transporte_aviao.png", "texto": "Avião"},
+        {"id": "E", "imagem": "img/transporte_moto.png", "texto": "Moto"},
+        {"id": "F", "imagem": "img/transporte_trem.png", "texto": "Trem"}
+      ],
+      "respostas": ["A", "C", "E", "F"]
+    },
+    {
+      "id": 28,
+      "tipo": "multipla_resposta",
+      "tema": "transportes",
+      "pergunta": "Marque todas as imagens que mostram transportes aquáticos:",
+      "alternativas": [
+        {"id": "A", "imagem": "img/transporte_barco.png", "texto": "Barco"},
+        {"id": "B", "imagem": "img/transporte_caiaque.png", "texto": "Caiaque"},
+        {"id": "C", "imagem": "img/transporte_carro.png", "texto": "Carro"},
+        {"id": "D", "imagem": "img/transporte_navio.png", "texto": "Navio"},
+        {"id": "E", "imagem": "img/transporte_helicoptero.png", "texto": "Helicóptero"},
+        {"id": "F", "imagem": "img/transporte_barca.png", "texto": "Barca"}
+      ],
+      "respostas": ["A", "B", "D", "F"]
+    },
+    {
+      "id": 29,
+      "tipo": "completar_lacuna",
+      "tema": "atividades_economicas",
+      "imagem": "img/industrial.png",
+      "pergunta": "Na cidade, há profissionais que trabalham em _____ produzindo mercadorias.",
+      "alternativas": [
+        {"id": "A", "texto": "Escolas"},
+        {"id": "B", "texto": "Fábricas"},
+        {"id": "C", "texto": "Hospitais"},
+        {"id": "D", "texto": "Praças"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 30,
+      "tipo": "completar_lacuna",
+      "tema": "atividades_economicas",
+      "imagem": "img/local_mercado.png",
+      "pergunta": "Os _____ vendem mercadorias.",
+      "alternativas": [
+        {"id": "A", "texto": "Agricultores"},
+        {"id": "B", "texto": "Operários"},
+        {"id": "C", "texto": "Comerciantes"},
+        {"id": "D", "texto": "Professores"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 31,
+      "tipo": "completar_lacuna",
+      "tema": "atividades_economicas",
+      "imagem": "img/local_hospital.png",
+      "pergunta": "A _____ é quando uma pessoa oferece o seu trabalho para outra pessoa, como: médicos, professores, motoristas, etc.",
+      "alternativas": [
+        {"id": "A", "texto": "Indústria"},
+        {"id": "B", "texto": "Agricultura"},
+        {"id": "C", "texto": "Comércio"},
+        {"id": "D", "texto": "Prestação de serviço"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 32,
+      "tipo": "completar_lacuna",
+      "tema": "atividades_economicas",
+      "imagem": "img/comercial.png",
+      "pergunta": "O _____ é uma atividade comum nas cidades, onde as pessoas vendem e compram mercadorias.",
+      "alternativas": [
+        {"id": "A", "texto": "Indústria"},
+        {"id": "B", "texto": "Comércio"},
+        {"id": "C", "texto": "Prestação de serviço"},
+        {"id": "D", "texto": "Agricultura"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 33,
+      "tipo": "imagem_texto",
+      "tema": "servico_publico",
+      "imagem": "img/servico_coleta_lixto.png",
+      "pergunta": "Observe a imagem e selecione o nome do serviço público correspondente:",
+      "alternativas": [
+        {"id": "A", "texto": "Coleta de lixo"},
+        {"id": "B", "texto": "Rede de esgoto"},
+        {"id": "C", "texto": "Iluminação pública"},
+        {"id": "D", "texto": "Segurança pública"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 34,
+      "tipo": "imagem_texto",
+      "tema": "servico_publico",
+      "imagem": "img/servico_esgoto.png",
+      "pergunta": "Observe a imagem e selecione o nome do serviço público correspondente:",
+      "alternativas": [
+        {"id": "A", "texto": "Coleta de lixo"},
+        {"id": "B", "texto": "Rede de esgoto"},
+        {"id": "C", "texto": "Iluminação pública"},
+        {"id": "D", "texto": "Segurança pública"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 35,
+      "tipo": "imagem_texto",
+      "tema": "servico_publico",
+      "imagem": "img/servico_luz.png",
+      "pergunta": "Observe a imagem e selecione o nome do serviço público correspondente:",
+      "alternativas": [
+        {"id": "A", "texto": "Coleta de lixo"},
+        {"id": "B", "texto": "Rede de esgoto"},
+        {"id": "C", "texto": "Iluminação pública"},
+        {"id": "D", "texto": "Segurança pública"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 36,
+      "tipo": "imagem_texto",
+      "tema": "servico_publico",
+      "imagem": "img/servico_seguranca.png",
+      "pergunta": "Observe a imagem e selecione o nome do serviço público correspondente:",
+      "alternativas": [
+        {"id": "A", "texto": "Coleta de lixo"},
+        {"id": "B", "texto": "Rede de esgoto"},
+        {"id": "C", "texto": "Iluminação pública"},
+        {"id": "D", "texto": "Segurança pública"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 37,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/residencial.png",
+      "pergunta": "Nos bairros residenciais, há predomínio de :",
+      "alternativas": [
+        {"id": "A", "texto": "Fábricas"},
+        {"id": "B", "texto": "Lojas"},
+        {"id": "C", "texto": "Restaurantes"},
+        {"id": "D", "texto": "Moradias"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 38,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_de_bairros",
+      "imagem": "img/comercial.png",
+      "pergunta": "Nos bairros comerciais, há predomínio de :",
+      "alternativas": [
+        {"id": "A", "texto": "Fábricas"},
+        {"id": "B", "texto": "Lojas, restaurantes, farmácias"},
+        {"id": "C", "texto": "Plantações"},
+        {"id": "D", "texto": "Moradias"}
+      ],
+      "resposta": "B"
+    }
+  ]
+}

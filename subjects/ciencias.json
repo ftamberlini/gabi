@@ -1,0 +1,137 @@
+{
+  "titulo": "Ciências - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "sentidos",
+      "pergunta": "Quantos sentidos temos?",
+      "alternativas": [
+        {"id": "A", "texto": "3"},
+        {"id": "B", "texto": "5"},
+        {"id": "C", "texto": "7"},
+        {"id": "D", "texto": "2"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "corpo_humano",
+      "pergunta": "Qual órgão usamos para ver?",
+      "alternativas": [
+        {"id": "A", "texto": "Nariz"},
+        {"id": "B", "texto": "Olhos"},
+        {"id": "C", "texto": "Boca"},
+        {"id": "D", "texto": "Ouvido"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "corpo_humano",
+      "pergunta": "Qual órgão usamos para ouvir?",
+      "alternativas": [
+        {"id": "A", "texto": "Olhos"},
+        {"id": "B", "texto": "Ouvido"},
+        {"id": "C", "texto": "Pele"},
+        {"id": "D", "texto": "Língua"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "plantas",
+      "pergunta": "O que as plantas precisam para crescer?",
+      "alternativas": [
+        {"id": "A", "texto": "Água, luz e ar"},
+        {"id": "B", "texto": "Só água"},
+        {"id": "C", "texto": "Só terra"},
+        {"id": "D", "texto": "Nada"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 5,
+      "tipo": "imagem_texto",
+      "tema": "animais",
+      "imagem": "🐦",
+      "pergunta": "Qual é o grupo de animais que voam e têm penas?",
+      "alternativas": [
+        {"id": "A", "texto": "Mamíferos"},
+        {"id": "B", "texto": "Aves"},
+        {"id": "C", "texto": "Peixes"},
+        {"id": "D", "texto": "Répteis"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 6,
+      "tipo": "multipla_escolha",
+      "tema": "animais",
+      "pergunta": "Os peixes vivem principalmente:",
+      "alternativas": [
+        {"id": "A", "texto": "No ar"},
+        {"id": "B", "texto": "Na terra"},
+        {"id": "C", "texto": "Na água"},
+        {"id": "D", "texto": "No gelo"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "higiene",
+      "pergunta": "O que devemos fazer antes das refeições?",
+      "alternativas": [
+        {"id": "A", "texto": "Lavar as mãos"},
+        {"id": "B", "texto": "Correr"},
+        {"id": "C", "texto": "Dormir"},
+        {"id": "D", "texto": "Gritar"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 8,
+      "tipo": "imagem_texto",
+      "tema": "plantas",
+      "imagem": "🌳",
+      "pergunta": "O que é isto?",
+      "alternativas": [
+        {"id": "A", "texto": "Uma pedra"},
+        {"id": "B", "texto": "Uma árvore"},
+        {"id": "C", "texto": "Um animal"},
+        {"id": "D", "texto": "Uma nuvem"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 9,
+      "tipo": "multipla_escolha",
+      "tema": "natureza",
+      "pergunta": "Qual destas é uma fonte de luz natural?",
+      "alternativas": [
+        {"id": "A", "texto": "Lâmpada"},
+        {"id": "B", "texto": "Vela"},
+        {"id": "C", "texto": "Sol"},
+        {"id": "D", "texto": "Lanterna"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "meio_ambiente",
+      "pergunta": "O lixo reciclável deve ser:",
+      "alternativas": [
+        {"id": "A", "texto": "Jogado no rio"},
+        {"id": "B", "texto": "Separado corretamente"},
+        {"id": "C", "texto": "Queimado"},
+        {"id": "D", "texto": "Enterrado"}
+      ],
+      "resposta": "B"
+    }
+  ]
+}

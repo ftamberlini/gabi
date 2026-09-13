@@ -1,0 +1,5298 @@
+{
+  "titulo": "História - 2º Ano do Ensino Fundamental",
+  "questoes": [
+    {
+      "id": 1,
+      "tipo": "multipla_escolha",
+      "tema": "familia",
+      "pergunta": "Quem pode fazer parte da nossa família?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Só a mãe"
+        },
+        {
+          "id": "B",
+          "texto": "Pai, mãe, irmãos, avós"
+        },
+        {
+          "id": "C",
+          "texto": "Só os amigos"
+        },
+        {
+          "id": "D",
+          "texto": "Só o cachorro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 2,
+      "tipo": "multipla_escolha",
+      "tema": "passado_presente",
+      "pergunta": "Uma coisa que mudou muito com o passar do tempo é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O sol"
+        },
+        {
+          "id": "B",
+          "texto": "O telefone"
+        },
+        {
+          "id": "C",
+          "texto": "O céu"
+        },
+        {
+          "id": "D",
+          "texto": "A lua"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 3,
+      "tipo": "multipla_escolha",
+      "tema": "passado_presente",
+      "pergunta": "Antigamente as cartas eram enviadas pelo:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "E-mail"
+        },
+        {
+          "id": "B",
+          "texto": "Correio"
+        },
+        {
+          "id": "C",
+          "texto": "WhatsApp"
+        },
+        {
+          "id": "D",
+          "texto": "Redes sociais"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 4,
+      "tipo": "multipla_escolha",
+      "tema": "celebracoes",
+      "pergunta": "O que comemoramos no aniversário?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O dia em que nascemos"
+        },
+        {
+          "id": "B",
+          "texto": "O fim do ano"
+        },
+        {
+          "id": "C",
+          "texto": "O início da escola"
+        },
+        {
+          "id": "D",
+          "texto": "Um feriado religioso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 5,
+      "tipo": "multipla_escolha",
+      "tema": "comunidade",
+      "pergunta": "Quem ajuda a cuidar da nossa saúde?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O médico"
+        },
+        {
+          "id": "B",
+          "texto": "O padeiro"
+        },
+        {
+          "id": "C",
+          "texto": "O motorista"
+        },
+        {
+          "id": "D",
+          "texto": "O pintor"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 6,
+      "tipo": "multipla_escolha",
+      "tema": "passado_presente",
+      "pergunta": "As fotos antigas eram tiradas com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Celular"
+        },
+        {
+          "id": "B",
+          "texto": "Câmera fotográfica"
+        },
+        {
+          "id": "C",
+          "texto": "Computador"
+        },
+        {
+          "id": "D",
+          "texto": "Tablet"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 7,
+      "tipo": "multipla_escolha",
+      "tema": "tradicoes",
+      "pergunta": "O que é uma tradição de família?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Algo feito só uma vez"
+        },
+        {
+          "id": "B",
+          "texto": "Algo repetido e importante para a família"
+        },
+        {
+          "id": "C",
+          "texto": "Um segredo"
+        },
+        {
+          "id": "D",
+          "texto": "Um erro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 8,
+      "tipo": "imagem_texto",
+      "tema": "familia",
+      "imagem": "👵 👴",
+      "pergunta": "Quem são essas pessoas na família?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Avós"
+        },
+        {
+          "id": "B",
+          "texto": "Primos"
+        },
+        {
+          "id": "C",
+          "texto": "Vizinhos"
+        },
+        {
+          "id": "D",
+          "texto": "Professores"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 9,
+      "tipo": "imagem_texto",
+      "tema": "passado_presente",
+      "imagem": "📜",
+      "pergunta": "O que representa um documento muito antigo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma história do passado"
+        },
+        {
+          "id": "B",
+          "texto": "Um jogo"
+        },
+        {
+          "id": "C",
+          "texto": "Uma receita"
+        },
+        {
+          "id": "D",
+          "texto": "Um brinquedo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 10,
+      "tipo": "multipla_escolha",
+      "tema": "linha_do_tempo",
+      "pergunta": "O que é uma linha do tempo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma régua"
+        },
+        {
+          "id": "B",
+          "texto": "Uma forma de mostrar fatos em ordem"
+        },
+        {
+          "id": "C",
+          "texto": "Um relógio"
+        },
+        {
+          "id": "D",
+          "texto": "Um mapa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 11,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_palafita.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Palafita"
+        },
+        {
+          "id": "B",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "C",
+          "texto": "Prédio"
+        },
+        {
+          "id": "D",
+          "texto": "Oca"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 12,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Moradias construídas sobre estacas (pilares), para ficar protegidas da subida da água dos rios, são chamadas de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "texto": "Palafita"
+        },
+        {
+          "id": "C",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "D",
+          "texto": "Prédio"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 13,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "As palafitas são comuns em regiões:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muito secas e desérticas"
+        },
+        {
+          "id": "B",
+          "texto": "Alagadas, perto de rios"
+        },
+        {
+          "id": "C",
+          "texto": "Muito frias"
+        },
+        {
+          "id": "D",
+          "texto": "No topo das montanhas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 14,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra uma palafita?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_palafita.jpg",
+          "texto": "Palafita"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_predio.jpg",
+          "texto": "Prédio"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_oca.jpg",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_sobrado.jpg",
+          "texto": "Sobrado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 15,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Por que as casas do tipo palafita são construídas sobre estacas de madeira?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para ficar mais bonitas"
+        },
+        {
+          "id": "B",
+          "texto": "Para não serem alagadas quando o rio sobe"
+        },
+        {
+          "id": "C",
+          "texto": "Para ficar mais perto do céu"
+        },
+        {
+          "id": "D",
+          "texto": "Para economizar tijolos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 16,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Em qual região do Brasil é muito comum encontrar casas de palafita?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Amazônia"
+        },
+        {
+          "id": "B",
+          "texto": "Sul do Brasil"
+        },
+        {
+          "id": "C",
+          "texto": "No deserto"
+        },
+        {
+          "id": "D",
+          "texto": "Nas montanhas geladas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 17,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_predio.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Prédio"
+        },
+        {
+          "id": "B",
+          "texto": "Palafita"
+        },
+        {
+          "id": "C",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "texto": "Sítio"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 18,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "As construções altas, com vários andares e apartamentos, são chamadas de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrados"
+        },
+        {
+          "id": "B",
+          "texto": "Prédios"
+        },
+        {
+          "id": "C",
+          "texto": "Ocas"
+        },
+        {
+          "id": "D",
+          "texto": "Fazendas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 19,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Para subir aos andares mais altos de um prédio, geralmente usamos:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas as mãos"
+        },
+        {
+          "id": "B",
+          "texto": "Elevador ou escada"
+        },
+        {
+          "id": "C",
+          "texto": "Um barco"
+        },
+        {
+          "id": "D",
+          "texto": "Uma escada de corda"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 20,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra um prédio?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_casa_terrea.jpg",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_predio.jpg",
+          "texto": "Prédio"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_pau_a_pique.jpg",
+          "texto": "Casa de pau a pique"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_sitio_fazenda.jpg",
+          "texto": "Sítio ou fazenda"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 21,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Morar em um prédio significa que muitas famílias moram:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Na mesma casa"
+        },
+        {
+          "id": "B",
+          "texto": "No mesmo terreno, em apartamentos diferentes"
+        },
+        {
+          "id": "C",
+          "texto": "Debaixo d'água"
+        },
+        {
+          "id": "D",
+          "texto": "Em barracas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 22,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Os prédios são mais comuns em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Grandes cidades"
+        },
+        {
+          "id": "B",
+          "texto": "No meio da floresta"
+        },
+        {
+          "id": "C",
+          "texto": "Em cima dos rios"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas em fazendas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 23,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_casa_terrea.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "C",
+          "texto": "Prédio"
+        },
+        {
+          "id": "D",
+          "texto": "Oca"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 24,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Uma casa que tem só um andar (não tem escada para o andar de cima) é chamada de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "C",
+          "texto": "Prédio"
+        },
+        {
+          "id": "D",
+          "texto": "Oca"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 25,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual é a principal diferença entre uma casa térrea e um sobrado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A cor das paredes"
+        },
+        {
+          "id": "B",
+          "texto": "O número de andares"
+        },
+        {
+          "id": "C",
+          "texto": "O tamanho do quintal"
+        },
+        {
+          "id": "D",
+          "texto": "O tipo de telhado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 26,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra uma casa térrea?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_sobrado.jpg",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_oca.jpg",
+          "texto": "Oca"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_casa_terrea.jpg",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_predio.jpg",
+          "texto": "Prédio"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 27,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Em uma casa térrea, todos os cômodos ficam:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No mesmo andar"
+        },
+        {
+          "id": "B",
+          "texto": "Em andares diferentes"
+        },
+        {
+          "id": "C",
+          "texto": "Debaixo da terra"
+        },
+        {
+          "id": "D",
+          "texto": "Em cima de estacas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 28,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Uma casa térrea normalmente NÃO tem:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "B",
+          "texto": "Escada interna para outro andar"
+        },
+        {
+          "id": "C",
+          "texto": "Quarto"
+        },
+        {
+          "id": "D",
+          "texto": "Sala"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 29,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_sobrado.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "B",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "C",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "texto": "Palafita"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 30,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Uma casa que tem dois ou mais andares, ligados por uma escada dentro de casa, é chamada de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "B",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "C",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "texto": "Palafita"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 31,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Em um sobrado, para ir do andar de baixo para o andar de cima, usamos:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um elevador só"
+        },
+        {
+          "id": "B",
+          "texto": "A escada da casa"
+        },
+        {
+          "id": "C",
+          "texto": "Uma corda"
+        },
+        {
+          "id": "D",
+          "texto": "Uma palafita"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 32,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra um sobrado?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_sobrado.jpg",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_palafita.jpg",
+          "texto": "Palafita"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_sitio_fazenda.jpg",
+          "texto": "Sítio ou fazenda"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_pau_a_pique.jpg",
+          "texto": "Casa de pau a pique"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 33,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Uma casa de dois andares tem, no mínimo, quantos pavimentos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um"
+        },
+        {
+          "id": "B",
+          "texto": "Dois"
+        },
+        {
+          "id": "C",
+          "texto": "Três"
+        },
+        {
+          "id": "D",
+          "texto": "Quatro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 34,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "O contrário de uma casa térrea (um andar) é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Palafita"
+        },
+        {
+          "id": "B",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "C",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "texto": "Tenda"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 35,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_sitio_fazenda.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Prédio"
+        },
+        {
+          "id": "B",
+          "texto": "Sítio ou fazenda"
+        },
+        {
+          "id": "C",
+          "texto": "Palafita"
+        },
+        {
+          "id": "D",
+          "texto": "Oca"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 36,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Moradias que ficam na zona rural, geralmente com plantações e criação de animais, ficam em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Prédios"
+        },
+        {
+          "id": "B",
+          "texto": "Sítios e fazendas"
+        },
+        {
+          "id": "C",
+          "texto": "Palafitas"
+        },
+        {
+          "id": "D",
+          "texto": "Apartamentos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 37,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Em um sítio ou fazenda, é comum encontrar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Elevadores e muitos apartamentos"
+        },
+        {
+          "id": "B",
+          "texto": "Plantações, animais e um terreno grande"
+        },
+        {
+          "id": "C",
+          "texto": "Muitos prédios altos"
+        },
+        {
+          "id": "D",
+          "texto": "Rios com palafitas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 38,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra uma casa de sítio ou fazenda?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_predio.jpg",
+          "texto": "Prédio"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_sitio_fazenda.jpg",
+          "texto": "Sítio ou fazenda"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_oca.jpg",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_casa_terrea.jpg",
+          "texto": "Casa térrea"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 39,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "As pessoas que moram em fazendas geralmente trabalham com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Agricultura e criação de animais"
+        },
+        {
+          "id": "B",
+          "texto": "Apenas comércio em lojas"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas transporte de ônibus"
+        },
+        {
+          "id": "D",
+          "texto": "Construção de prédios"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 40,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Sítios e fazendas ficam geralmente:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No centro da cidade"
+        },
+        {
+          "id": "B",
+          "texto": "Na zona rural, no campo"
+        },
+        {
+          "id": "C",
+          "texto": "Dentro de rios"
+        },
+        {
+          "id": "D",
+          "texto": "Em cima de estacas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 41,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_oca.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "texto": "Oca"
+        },
+        {
+          "id": "C",
+          "texto": "Prédio"
+        },
+        {
+          "id": "D",
+          "texto": "Sítio"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 42,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "A moradia tradicional de muitos povos indígenas, feita de madeira, palha e cipó, é chamada de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "B",
+          "texto": "Oca"
+        },
+        {
+          "id": "C",
+          "texto": "Prédio"
+        },
+        {
+          "id": "D",
+          "texto": "Sítio"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 43,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "As ocas costumam ser habitadas por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas uma pessoa"
+        },
+        {
+          "id": "B",
+          "texto": "Várias famílias de uma mesma comunidade indígena"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas animais"
+        },
+        {
+          "id": "D",
+          "texto": "Ninguém, são museus"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 44,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra uma oca?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_pau_a_pique.jpg",
+          "texto": "Casa de pau a pique"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_sobrado.jpg",
+          "texto": "Sobrado"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_oca.jpg",
+          "texto": "Oca"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_palafita.jpg",
+          "texto": "Palafita"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 45,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "As ocas são construídas principalmente com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tijolos e cimento"
+        },
+        {
+          "id": "B",
+          "texto": "Madeira, palha e cipó"
+        },
+        {
+          "id": "C",
+          "texto": "Vidro e metal"
+        },
+        {
+          "id": "D",
+          "texto": "Plástico"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 46,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "As ocas fazem parte da cultura de quais povos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Povos indígenas"
+        },
+        {
+          "id": "B",
+          "texto": "Apenas europeus"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas moradores de prédios"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas fazendeiros"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 47,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "imagem": "img/moradia_pau_a_pique.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Casa de pau a pique"
+        },
+        {
+          "id": "B",
+          "texto": "Prédio"
+        },
+        {
+          "id": "C",
+          "texto": "Palafita"
+        },
+        {
+          "id": "D",
+          "texto": "Sobrado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 48,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "A casa feita com barro, madeira e capim, técnica muito antiga usada desde o Brasil Colonial, é chamada de casa de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pau a pique"
+        },
+        {
+          "id": "B",
+          "texto": "Prédio"
+        },
+        {
+          "id": "C",
+          "texto": "Palafita"
+        },
+        {
+          "id": "D",
+          "texto": "Sobrado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 49,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "A casa de pau a pique é feita principalmente com:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vidro e aço"
+        },
+        {
+          "id": "B",
+          "texto": "Barro (argila) e madeira"
+        },
+        {
+          "id": "C",
+          "texto": "Plástico"
+        },
+        {
+          "id": "D",
+          "texto": "Somente tijolos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 50,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas imagens mostra uma casa de pau a pique?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/moradia_pau_a_pique.jpg",
+          "texto": "Casa de pau a pique"
+        },
+        {
+          "id": "B",
+          "imagem": "img/moradia_predio.jpg",
+          "texto": "Prédio"
+        },
+        {
+          "id": "C",
+          "imagem": "img/moradia_casa_terrea.jpg",
+          "texto": "Casa térrea"
+        },
+        {
+          "id": "D",
+          "imagem": "img/moradia_sitio_fazenda.jpg",
+          "texto": "Sítio ou fazenda"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 51,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "A técnica de construção de pau a pique é considerada:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muito moderna"
+        },
+        {
+          "id": "B",
+          "texto": "Muito antiga, usada há muito tempo"
+        },
+        {
+          "id": "C",
+          "texto": "Impossível de fazer"
+        },
+        {
+          "id": "D",
+          "texto": "Feita só com máquinas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 52,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Casas de pau a pique ainda podem ser encontradas hoje, principalmente em:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Grandes centros de negócios"
+        },
+        {
+          "id": "B",
+          "texto": "Algumas áreas rurais do Brasil"
+        },
+        {
+          "id": "C",
+          "texto": "Dentro de rios"
+        },
+        {
+          "id": "D",
+          "texto": "No topo de prédios"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 53,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Para encontrar a casa de alguém, qual informação é mais útil?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A cor da casa"
+        },
+        {
+          "id": "B",
+          "texto": "O nome da rua e o número da casa"
+        },
+        {
+          "id": "C",
+          "texto": "O nome do cachorro do vizinho"
+        },
+        {
+          "id": "D",
+          "texto": "A cor do carro da família"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 54,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "O endereço de uma casa deve conter:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nome da rua, número, bairro e cidade"
+        },
+        {
+          "id": "B",
+          "texto": "Apenas a cor do portão"
+        },
+        {
+          "id": "C",
+          "texto": "O nome dos pais"
+        },
+        {
+          "id": "D",
+          "texto": "O time de futebol da família"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 55,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Qual destas informações NÃO ajuda a encontrar um endereço?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nome da rua"
+        },
+        {
+          "id": "B",
+          "texto": "Número da casa"
+        },
+        {
+          "id": "C",
+          "texto": "Cor da casa"
+        },
+        {
+          "id": "D",
+          "texto": "Nome da cidade"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 56,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "O número da casa serve para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Decorar a fachada"
+        },
+        {
+          "id": "B",
+          "texto": "Identificar exatamente qual casa é, na rua"
+        },
+        {
+          "id": "C",
+          "texto": "Mostrar quantas pessoas moram lá"
+        },
+        {
+          "id": "D",
+          "texto": "Indicar o preço da casa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 57,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "O bairro é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O nome da rua"
+        },
+        {
+          "id": "B",
+          "texto": "Uma parte/região da cidade onde fica a casa"
+        },
+        {
+          "id": "C",
+          "texto": "O nome do estado"
+        },
+        {
+          "id": "D",
+          "texto": "O nome do país"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 58,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Além da rua e do número, uma informação importante do endereço é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O nome do vizinho"
+        },
+        {
+          "id": "B",
+          "texto": "O bairro e a cidade"
+        },
+        {
+          "id": "C",
+          "texto": "A cor do telhado"
+        },
+        {
+          "id": "D",
+          "texto": "O time de futebol"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 59,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Se alguém perguntar 'Qual é o seu endereço?', a resposta correta é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "'Minha casa é amarela.'"
+        },
+        {
+          "id": "B",
+          "texto": "'Moro na Rua das Flores, número 25, bairro Jardim, cidade de São Paulo.'"
+        },
+        {
+          "id": "C",
+          "texto": "'Meu vizinho se chama João.'"
+        },
+        {
+          "id": "D",
+          "texto": "'Tenho um cachorro.'"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 60,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Para uma carta chegar até sua casa, o carteiro precisa saber:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A cor da porta"
+        },
+        {
+          "id": "B",
+          "texto": "O endereço completo (rua, número, bairro, cidade)"
+        },
+        {
+          "id": "C",
+          "texto": "O nome do seu animal de estimação"
+        },
+        {
+          "id": "D",
+          "texto": "A sua matéria favorita na escola"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 61,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Qual destas é uma informação de endereço?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "'Rua das Palmeiras'"
+        },
+        {
+          "id": "B",
+          "texto": "'Gosto de sorvete'"
+        },
+        {
+          "id": "C",
+          "texto": "'Meu cachorro se chama Bidu'"
+        },
+        {
+          "id": "D",
+          "texto": "'Minha cor favorita é azul'"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 62,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "O nome da cidade em um endereço serve para saber:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Em qual cidade a casa fica"
+        },
+        {
+          "id": "B",
+          "texto": "A cor da casa"
+        },
+        {
+          "id": "C",
+          "texto": "O nome do vizinho"
+        },
+        {
+          "id": "D",
+          "texto": "O time de futebol da família"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 63,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Duas casas na mesma rua são diferenciadas principalmente pelo:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Número da casa"
+        },
+        {
+          "id": "B",
+          "texto": "Nome do cachorro"
+        },
+        {
+          "id": "C",
+          "texto": "Cor do carro"
+        },
+        {
+          "id": "D",
+          "texto": "Nome da mãe"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 64,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Qual destas informações É útil para encontrar um endereço?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nome do bairro"
+        },
+        {
+          "id": "B",
+          "texto": "Cor da roupa que a pessoa usa"
+        },
+        {
+          "id": "C",
+          "texto": "Nome do animal de estimação"
+        },
+        {
+          "id": "D",
+          "texto": "Comida favorita"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 65,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Complete: 'Meu endereço é Rua Brasil, número 10, bairro Centro, cidade de...' O que falta dizer?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O nome da minha escola"
+        },
+        {
+          "id": "B",
+          "texto": "O nome da minha cidade"
+        },
+        {
+          "id": "C",
+          "texto": "A cor da minha casa"
+        },
+        {
+          "id": "D",
+          "texto": "O nome do meu vizinho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 66,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Marque a alternativa que apresenta um endereço completo:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "'Rua dos Ipês, 45, Bairro Flores, Curitiba'"
+        },
+        {
+          "id": "B",
+          "texto": "'Casa azul com portão branco'"
+        },
+        {
+          "id": "C",
+          "texto": "'Perto da casa do João'"
+        },
+        {
+          "id": "D",
+          "texto": "'Uma casa grande com jardim'"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 67,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Se você se perder, a informação mais importante para encontrar sua casa é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O nome do seu brinquedo favorito"
+        },
+        {
+          "id": "B",
+          "texto": "O endereço completo da sua casa"
+        },
+        {
+          "id": "C",
+          "texto": "A cor da sua roupa"
+        },
+        {
+          "id": "D",
+          "texto": "O nome da sua professora"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 68,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Qual destas NÃO deveria ser usada para descrever um endereço?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nome da rua"
+        },
+        {
+          "id": "B",
+          "texto": "Número da casa"
+        },
+        {
+          "id": "C",
+          "texto": "Nome do vizinho"
+        },
+        {
+          "id": "D",
+          "texto": "Nome do bairro"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 69,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "O que significa dizer que uma casa fica na 'Rua das Acácias, número 120'?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A casa é feita de acácias"
+        },
+        {
+          "id": "B",
+          "texto": "A casa fica na rua chamada Acácias, e é a de número 120"
+        },
+        {
+          "id": "C",
+          "texto": "A casa tem 120 janelas"
+        },
+        {
+          "id": "D",
+          "texto": "A casa tem 120 anos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 70,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Quando mudamos de casa, uma das coisas que mudam é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nosso nome"
+        },
+        {
+          "id": "B",
+          "texto": "Nosso endereço"
+        },
+        {
+          "id": "C",
+          "texto": "Nossa idade"
+        },
+        {
+          "id": "D",
+          "texto": "Nossa família"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 71,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Para localizar um lugar em um mapa ou aplicativo de celular, é preciso digitar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O endereço (rua, número, bairro, cidade)"
+        },
+        {
+          "id": "B",
+          "texto": "O nome do vizinho"
+        },
+        {
+          "id": "C",
+          "texto": "A cor da casa"
+        },
+        {
+          "id": "D",
+          "texto": "O time de futebol"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 72,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Qual destas frases mostra um endereço correto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "'Moro perto da praça'"
+        },
+        {
+          "id": "B",
+          "texto": "'Moro na casa amarela'"
+        },
+        {
+          "id": "C",
+          "texto": "'Moro na Rua Sete de Setembro, 88'"
+        },
+        {
+          "id": "D",
+          "texto": "'Moro do lado da casa do meu amigo'"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 73,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "O nome da rua e o número da casa ajudam a:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Saber a idade da casa"
+        },
+        {
+          "id": "B",
+          "texto": "Encontrar exatamente onde a casa fica"
+        },
+        {
+          "id": "C",
+          "texto": "Saber o nome dos moradores"
+        },
+        {
+          "id": "D",
+          "texto": "Saber a cor da casa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 74,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Se dois amigos moram na mesma rua, o que diferencia as casas deles é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O número da casa"
+        },
+        {
+          "id": "B",
+          "texto": "O nome da rua (é igual)"
+        },
+        {
+          "id": "C",
+          "texto": "A cidade (é igual)"
+        },
+        {
+          "id": "D",
+          "texto": "O bairro (é igual)"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 75,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Qual destas é a MELHOR forma de explicar onde você mora para alguém que não conhece a região?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "'Perto da minha escola'"
+        },
+        {
+          "id": "B",
+          "texto": "'Na casa com o cachorro no jardim'"
+        },
+        {
+          "id": "C",
+          "texto": "Dizendo o nome da rua, número, bairro e cidade"
+        },
+        {
+          "id": "D",
+          "texto": "'É uma casa grande'"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 76,
+      "tipo": "multipla_escolha",
+      "tema": "enderecos",
+      "pergunta": "Uma entrega (como uma encomenda) só chega certinho na sua casa se tiver:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O endereço completo e correto"
+        },
+        {
+          "id": "B",
+          "texto": "Apenas o nome da cidade"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas a cor da casa"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas o nome do bairro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 77,
+      "tipo": "imagem_texto",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Observe esta imagem. Ela mostra uma casa:",
+      "imagem": "img/paisagem_casa_antiga.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muito nova, construída ontem"
+        },
+        {
+          "id": "B",
+          "texto": "Antiga, de um tempo passado"
+        },
+        {
+          "id": "C",
+          "texto": "Que ainda não foi construída"
+        },
+        {
+          "id": "D",
+          "texto": "Igual a todas as casas modernas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 78,
+      "tipo": "imagem_texto",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Observe esta imagem. Ela mostra casas:",
+      "imagem": "img/paisagem_casa_nova.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muito antigas, de mais de 100 anos"
+        },
+        {
+          "id": "B",
+          "texto": "Modernas, mais novas"
+        },
+        {
+          "id": "C",
+          "texto": "Feitas de palha"
+        },
+        {
+          "id": "D",
+          "texto": "Construídas sobre a água"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 79,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Com o passar do tempo, as paisagens das cidades:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nunca mudam"
+        },
+        {
+          "id": "B",
+          "texto": "Podem mudar bastante"
+        },
+        {
+          "id": "C",
+          "texto": "Somem completamente"
+        },
+        {
+          "id": "D",
+          "texto": "Ficam sempre iguais"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 80,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Uma casa antiga, comparada com uma casa nova, geralmente tem:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Estilo, telhado e materiais diferentes das casas atuais"
+        },
+        {
+          "id": "B",
+          "texto": "Exatamente os mesmos materiais"
+        },
+        {
+          "id": "C",
+          "texto": "Sempre elevador"
+        },
+        {
+          "id": "D",
+          "texto": "Sempre mais andares"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 81,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "As ruas de antigamente, comparadas com as de hoje, muitas vezes:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Já tinham carros elétricos modernos"
+        },
+        {
+          "id": "B",
+          "texto": "Eram de terra ou pedra, sem asfalto"
+        },
+        {
+          "id": "C",
+          "texto": "Eram exatamente iguais às de hoje"
+        },
+        {
+          "id": "D",
+          "texto": "Tinham semáforos modernos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 82,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Um prédio moderno, cheio de vidro e concreto, é exemplo de uma construção:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muito antiga"
+        },
+        {
+          "id": "B",
+          "texto": "Atual, moderna"
+        },
+        {
+          "id": "C",
+          "texto": "Que já não existe mais"
+        },
+        {
+          "id": "D",
+          "texto": "Feita há centenas de anos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 83,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Fotografias antigas de uma cidade ajudam a:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Adivinhar o futuro"
+        },
+        {
+          "id": "B",
+          "texto": "Mostrar como a cidade era no passado"
+        },
+        {
+          "id": "C",
+          "texto": "Prever o clima"
+        },
+        {
+          "id": "D",
+          "texto": "Ensinar matemática"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 84,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Quando uma casa antiga é derrubada para construir um prédio novo, isso mostra:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que a cidade nunca muda"
+        },
+        {
+          "id": "B",
+          "texto": "Uma mudança na paisagem da cidade"
+        },
+        {
+          "id": "C",
+          "texto": "Que o prédio é mais antigo que a casa"
+        },
+        {
+          "id": "D",
+          "texto": "Nada de importante"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 85,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Comparando fotos antigas e atuais de uma mesma rua, podemos perceber:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que nada mudou"
+        },
+        {
+          "id": "B",
+          "texto": "As mudanças que aconteceram com o tempo"
+        },
+        {
+          "id": "C",
+          "texto": "Que a rua desapareceu"
+        },
+        {
+          "id": "D",
+          "texto": "Que só as cores mudaram"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 86,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Uma das razões para as paisagens das cidades mudarem é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A construção de novos prédios e casas"
+        },
+        {
+          "id": "B",
+          "texto": "Porque as fotos ficam borradas"
+        },
+        {
+          "id": "C",
+          "texto": "Porque as pessoas esquecem das ruas"
+        },
+        {
+          "id": "D",
+          "texto": "Porque os mapas somem"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 87,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Casas muito antigas, preservadas até hoje, podem se tornar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lixo"
+        },
+        {
+          "id": "B",
+          "texto": "Patrimônio histórico, importante para a memória da cidade"
+        },
+        {
+          "id": "C",
+          "texto": "Invisíveis"
+        },
+        {
+          "id": "D",
+          "texto": "Iguais às casas novas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 88,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "O que costuma ser diferente entre uma rua de 50 anos atrás e uma rua de hoje?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O nome das pessoas que passam"
+        },
+        {
+          "id": "B",
+          "texto": "O tipo de construções, carros e iluminação"
+        },
+        {
+          "id": "C",
+          "texto": "A existência do sol"
+        },
+        {
+          "id": "D",
+          "texto": "Nada muda nunca"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 89,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Ao observar uma foto antiga da cidade, notamos que as ruas geralmente tinham:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Menos carros e prédios do que hoje"
+        },
+        {
+          "id": "B",
+          "texto": "Mais carros do que hoje"
+        },
+        {
+          "id": "C",
+          "texto": "As mesmas construções de hoje"
+        },
+        {
+          "id": "D",
+          "texto": "Nenhuma casa"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 90,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Um exemplo de mudança na paisagem urbana é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma casa antiga dar lugar a um prédio novo"
+        },
+        {
+          "id": "B",
+          "texto": "O céu ficar azul"
+        },
+        {
+          "id": "C",
+          "texto": "As nuvens se moverem"
+        },
+        {
+          "id": "D",
+          "texto": "O sol nascer"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 91,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Uma casa antiga normalmente foi construída:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Há poucos dias"
+        },
+        {
+          "id": "B",
+          "texto": "Há muitos anos, no passado"
+        },
+        {
+          "id": "C",
+          "texto": "No futuro"
+        },
+        {
+          "id": "D",
+          "texto": "Ainda não foi construída"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 92,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "As casas e ruas mudam com o tempo principalmente por causa:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Do crescimento das cidades e de novas construções"
+        },
+        {
+          "id": "B",
+          "texto": "Da vontade dos pássaros"
+        },
+        {
+          "id": "C",
+          "texto": "Da cor do céu"
+        },
+        {
+          "id": "D",
+          "texto": "Do tamanho da lua"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 93,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Se compararmos uma foto de uma rua de terra, sem carros, com uma foto da mesma rua hoje, asfaltada e cheia de carros, isso mostra:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que a rua nunca existiu"
+        },
+        {
+          "id": "B",
+          "texto": "Uma mudança da paisagem ao longo do tempo"
+        },
+        {
+          "id": "C",
+          "texto": "Um erro na fotografia"
+        },
+        {
+          "id": "D",
+          "texto": "Que são ruas diferentes sempre"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 94,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Guardar fotos antigas da família e da cidade é importante porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ajuda a lembrar como as coisas eram no passado"
+        },
+        {
+          "id": "B",
+          "texto": "Não serve para nada"
+        },
+        {
+          "id": "C",
+          "texto": "Deixa a casa mais bagunçada"
+        },
+        {
+          "id": "D",
+          "texto": "Atrapalha o dia a dia"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 95,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Uma cidade que só tinha casas baixas e hoje tem muitos prédios altos passou por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nenhuma mudança"
+        },
+        {
+          "id": "B",
+          "texto": "Uma grande mudança na paisagem"
+        },
+        {
+          "id": "C",
+          "texto": "Uma diminuição de população"
+        },
+        {
+          "id": "D",
+          "texto": "Um congelamento no tempo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 96,
+      "tipo": "multipla_escolha",
+      "tema": "mudanca_paisagem",
+      "pergunta": "Quando os avós contam como era o bairro quando eram crianças, eles estão falando sobre:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O futuro"
+        },
+        {
+          "id": "B",
+          "texto": "Como era a paisagem no passado"
+        },
+        {
+          "id": "C",
+          "texto": "Um lugar que nunca existiu"
+        },
+        {
+          "id": "D",
+          "texto": "Um filme"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 97,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Em qual cômodo da casa geralmente preparamos a comida?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quarto"
+        },
+        {
+          "id": "B",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "C",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "D",
+          "texto": "Sala"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 98,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Em qual cômodo da casa costumamos dormir?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "B",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "Quarto"
+        },
+        {
+          "id": "D",
+          "texto": "Sala"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 99,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Em qual cômodo tomamos banho e escovamos os dentes?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quarto"
+        },
+        {
+          "id": "B",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "Sala"
+        },
+        {
+          "id": "D",
+          "texto": "Cozinha"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 100,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Em qual cômodo a família costuma se reunir para assistir TV ou receber visitas?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "B",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "C",
+          "texto": "Sala"
+        },
+        {
+          "id": "D",
+          "texto": "Quarto"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 101,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destes móveis geralmente fica no quarto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fogão"
+        },
+        {
+          "id": "B",
+          "texto": "Cama"
+        },
+        {
+          "id": "C",
+          "texto": "Vaso sanitário"
+        },
+        {
+          "id": "D",
+          "texto": "Sofá"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 102,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destes objetos geralmente fica na cozinha?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cama"
+        },
+        {
+          "id": "B",
+          "texto": "Fogão"
+        },
+        {
+          "id": "C",
+          "texto": "Chuveiro"
+        },
+        {
+          "id": "D",
+          "texto": "Televisão da sala"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 103,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destes objetos geralmente fica no banheiro?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Geladeira"
+        },
+        {
+          "id": "B",
+          "texto": "Guarda-roupa"
+        },
+        {
+          "id": "C",
+          "texto": "Chuveiro"
+        },
+        {
+          "id": "D",
+          "texto": "Sofá"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 104,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destes móveis geralmente fica na sala?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Vaso sanitário"
+        },
+        {
+          "id": "B",
+          "texto": "Sofá"
+        },
+        {
+          "id": "C",
+          "texto": "Fogão"
+        },
+        {
+          "id": "D",
+          "texto": "Cama"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 105,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Onde guardamos as roupas dentro de casa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No guarda-roupa do quarto"
+        },
+        {
+          "id": "B",
+          "texto": "Na pia do banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "No fogão da cozinha"
+        },
+        {
+          "id": "D",
+          "texto": "No sofá da sala"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 106,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Onde ficam a pia e a geladeira, geralmente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No quarto"
+        },
+        {
+          "id": "B",
+          "texto": "No banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "Na cozinha"
+        },
+        {
+          "id": "D",
+          "texto": "Na sala"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 107,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual cômodo é o lugar certo para escovar os dentes?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "B",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "Sala"
+        },
+        {
+          "id": "D",
+          "texto": "Quarto"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 108,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Em qual cômodo assistimos televisão em família?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "B",
+          "texto": "Sala"
+        },
+        {
+          "id": "C",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "D",
+          "texto": "Quarto"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 109,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Onde cozinhamos o almoço da família?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Na sala"
+        },
+        {
+          "id": "B",
+          "texto": "No quarto"
+        },
+        {
+          "id": "C",
+          "texto": "Na cozinha"
+        },
+        {
+          "id": "D",
+          "texto": "No banheiro"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 110,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destas atividades acontece no quarto?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinhar"
+        },
+        {
+          "id": "B",
+          "texto": "Dormir e descansar"
+        },
+        {
+          "id": "C",
+          "texto": "Tomar banho"
+        },
+        {
+          "id": "D",
+          "texto": "Assistir TV com visitas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 111,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destas atividades acontece no banheiro?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Dormir"
+        },
+        {
+          "id": "B",
+          "texto": "Tomar banho"
+        },
+        {
+          "id": "C",
+          "texto": "Cozinhar"
+        },
+        {
+          "id": "D",
+          "texto": "Receber visitas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 112,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destas atividades acontece na cozinha?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Preparar as refeições"
+        },
+        {
+          "id": "B",
+          "texto": "Dormir"
+        },
+        {
+          "id": "C",
+          "texto": "Tomar banho"
+        },
+        {
+          "id": "D",
+          "texto": "Assistir TV com a família"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 113,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Qual destas atividades acontece na sala?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinhar o jantar"
+        },
+        {
+          "id": "B",
+          "texto": "Receber visitas e assistir TV"
+        },
+        {
+          "id": "C",
+          "texto": "Tomar banho"
+        },
+        {
+          "id": "D",
+          "texto": "Guardar roupas no armário"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 114,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Uma casa precisa ter, no mínimo, estes cômodos básicos:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sala, quarto, cozinha e banheiro"
+        },
+        {
+          "id": "B",
+          "texto": "Apenas garagem"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas jardim"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas telhado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 115,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "O vaso sanitário e o chuveiro ficam em qual cômodo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quarto"
+        },
+        {
+          "id": "B",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "D",
+          "texto": "Sala"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 116,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "A cama e o guarda-roupa ficam em qual cômodo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "B",
+          "texto": "Sala"
+        },
+        {
+          "id": "C",
+          "texto": "Quarto"
+        },
+        {
+          "id": "D",
+          "texto": "Banheiro"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 117,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "O fogão e a geladeira ficam em qual cômodo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Quarto"
+        },
+        {
+          "id": "B",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "C",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "D",
+          "texto": "Sala"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 118,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "O sofá e a televisão da família geralmente ficam em qual cômodo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "B",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "C",
+          "texto": "Sala"
+        },
+        {
+          "id": "D",
+          "texto": "Quarto"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 119,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Se você quer descansar e dormir uma soneca, para qual cômodo deve ir?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinha"
+        },
+        {
+          "id": "B",
+          "texto": "Quarto"
+        },
+        {
+          "id": "C",
+          "texto": "Banheiro"
+        },
+        {
+          "id": "D",
+          "texto": "Sala (com visitas)"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 120,
+      "tipo": "multipla_escolha",
+      "tema": "partes_da_casa",
+      "pergunta": "Depois de brincar sujo no quintal, antes de comer, você deve ir ao banheiro para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Assistir TV"
+        },
+        {
+          "id": "B",
+          "texto": "Lavar as mãos"
+        },
+        {
+          "id": "C",
+          "texto": "Dormir"
+        },
+        {
+          "id": "D",
+          "texto": "Cozinhar"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 121,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "O que devemos fazer com o lixo de nossa casa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Jogar na rua"
+        },
+        {
+          "id": "B",
+          "texto": "Jogar no lugar certo (lixeira/coleta de lixo)"
+        },
+        {
+          "id": "C",
+          "texto": "Jogar no jardim do vizinho"
+        },
+        {
+          "id": "D",
+          "texto": "Deixar acumular na calçada"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 122,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Uma boa atitude com os vizinhos é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fazer muito barulho de madrugada"
+        },
+        {
+          "id": "B",
+          "texto": "Ser gentil e respeitoso"
+        },
+        {
+          "id": "C",
+          "texto": "Jogar lixo na casa deles"
+        },
+        {
+          "id": "D",
+          "texto": "Brigar sempre"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 123,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Manter a rua e a calçada limpas ajuda:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Só a nossa casa"
+        },
+        {
+          "id": "B",
+          "texto": "Toda a vizinhança"
+        },
+        {
+          "id": "C",
+          "texto": "Ninguém"
+        },
+        {
+          "id": "D",
+          "texto": "Só os animais"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 124,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Se encontramos o cachorro do vizinho perdido, o certo é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ignorar"
+        },
+        {
+          "id": "B",
+          "texto": "Ajudar a encontrar o dono"
+        },
+        {
+          "id": "C",
+          "texto": "Machucar o animal"
+        },
+        {
+          "id": "D",
+          "texto": "Levar embora escondido"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 125,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Cumprimentar os vizinhos com um 'bom dia' é uma atitude:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ruim"
+        },
+        {
+          "id": "B",
+          "texto": "Boa e educada"
+        },
+        {
+          "id": "C",
+          "texto": "Sem importância"
+        },
+        {
+          "id": "D",
+          "texto": "Errada"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 126,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Ajudar um vizinho idoso a carregar as compras é um exemplo de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Falta de educação"
+        },
+        {
+          "id": "B",
+          "texto": "Boa convivência"
+        },
+        {
+          "id": "C",
+          "texto": "Bagunça"
+        },
+        {
+          "id": "D",
+          "texto": "Desrespeito"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 127,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Cuidar do jardim e da frente da própria casa ajuda a deixar a rua:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mais suja"
+        },
+        {
+          "id": "B",
+          "texto": "Mais bonita e organizada"
+        },
+        {
+          "id": "C",
+          "texto": "Mais escura"
+        },
+        {
+          "id": "D",
+          "texto": "Mais perigosa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 128,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Se um vizinho pedir silêncio porque o bebê dele está dormindo, o certo é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aumentar o som"
+        },
+        {
+          "id": "B",
+          "texto": "Respeitar e diminuir o barulho"
+        },
+        {
+          "id": "C",
+          "texto": "Ignorar o pedido"
+        },
+        {
+          "id": "D",
+          "texto": "Rir da situação"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 129,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Separar o lixo reciclável do lixo comum é uma atitude:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sem importância"
+        },
+        {
+          "id": "B",
+          "texto": "Boa para o meio ambiente e a vizinhança"
+        },
+        {
+          "id": "C",
+          "texto": "Ruim"
+        },
+        {
+          "id": "D",
+          "texto": "Proibida"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 130,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Avisar os vizinhos sobre uma festa que você vai fazer é um exemplo de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Falta de respeito"
+        },
+        {
+          "id": "B",
+          "texto": "Boa convivência e educação"
+        },
+        {
+          "id": "C",
+          "texto": "Grosseria"
+        },
+        {
+          "id": "D",
+          "texto": "Bagunça"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 131,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Colocar som muito alto durante a noite, incomodando os vizinhos, é uma atitude:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Boa"
+        },
+        {
+          "id": "B",
+          "texto": "Ruim, que atrapalha a vizinhança"
+        },
+        {
+          "id": "C",
+          "texto": "Sem problema nenhum"
+        },
+        {
+          "id": "D",
+          "texto": "Recomendada"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 132,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Jogar lixo na rua ou no terreno do vizinho é uma atitude:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Correta"
+        },
+        {
+          "id": "B",
+          "texto": "Errada, que suja e prejudica a vizinhança"
+        },
+        {
+          "id": "C",
+          "texto": "Elegante"
+        },
+        {
+          "id": "D",
+          "texto": "Necessária"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 133,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Qual destas é uma atitude ruim na vizinhança?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cumprimentar os vizinhos"
+        },
+        {
+          "id": "B",
+          "texto": "Fazer barulho alto de madrugada"
+        },
+        {
+          "id": "C",
+          "texto": "Manter a calçada limpa"
+        },
+        {
+          "id": "D",
+          "texto": "Ajudar quem precisa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 134,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Deixar o lixo acumulado na calçada pode causar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um jardim bonito"
+        },
+        {
+          "id": "B",
+          "texto": "Mau cheiro e atrair insetos e ratos"
+        },
+        {
+          "id": "C",
+          "texto": "Nada de ruim"
+        },
+        {
+          "id": "D",
+          "texto": "Mais segurança"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 135,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Qual destas atitudes prejudica a convivência entre vizinhos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Respeitar o silêncio à noite"
+        },
+        {
+          "id": "B",
+          "texto": "Jogar lixo no quintal alheio"
+        },
+        {
+          "id": "C",
+          "texto": "Cumprimentar as pessoas"
+        },
+        {
+          "id": "D",
+          "texto": "Cuidar da própria casa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 136,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Fazer muito barulho com música alta o dia todo pode:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deixar todos felizes"
+        },
+        {
+          "id": "B",
+          "texto": "Incomodar quem precisa descansar ou estudar"
+        },
+        {
+          "id": "C",
+          "texto": "Ser sempre bem-vindo"
+        },
+        {
+          "id": "D",
+          "texto": "Ajudar os vizinhos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 137,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Sujar a rua com lixo é ruim porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deixa o ambiente sujo e pode causar doenças"
+        },
+        {
+          "id": "B",
+          "texto": "Deixa tudo mais bonito"
+        },
+        {
+          "id": "C",
+          "texto": "É uma atitude recomendada"
+        },
+        {
+          "id": "D",
+          "texto": "Ajuda o meio ambiente"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 138,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Uma vizinhança com muito barulho e lixo espalhado é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Agradável para todos"
+        },
+        {
+          "id": "B",
+          "texto": "Desagradável e prejudicial para a convivência"
+        },
+        {
+          "id": "C",
+          "texto": "Sempre segura"
+        },
+        {
+          "id": "D",
+          "texto": "Sinal de boa educação"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 139,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Se alguém joga lixo na rua, o certo a se fazer é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Fazer o mesmo"
+        },
+        {
+          "id": "B",
+          "texto": "Pedir para jogar o lixo no lugar certo"
+        },
+        {
+          "id": "C",
+          "texto": "Ignorar sempre"
+        },
+        {
+          "id": "D",
+          "texto": "Aplaudir"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 140,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Manter o volume da televisão ou do som muito alto durante a noite pode atrapalhar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ninguém"
+        },
+        {
+          "id": "B",
+          "texto": "O sono e o descanso dos vizinhos"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas quem está ouvindo"
+        },
+        {
+          "id": "D",
+          "texto": "Só os animais de estimação"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 141,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "A limpeza das ruas do bairro ajuda a:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deixar tudo mais sujo"
+        },
+        {
+          "id": "B",
+          "texto": "Manter a saúde e o bem-estar de todos"
+        },
+        {
+          "id": "C",
+          "texto": "Atrapalhar o trânsito"
+        },
+        {
+          "id": "D",
+          "texto": "Nada"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 142,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Varrer a calçada da frente de casa é um exemplo de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cuidado com a vizinhança"
+        },
+        {
+          "id": "B",
+          "texto": "Perda de tempo"
+        },
+        {
+          "id": "C",
+          "texto": "Atitude proibida"
+        },
+        {
+          "id": "D",
+          "texto": "Falta de educação"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 143,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Quando cada família cuida da limpeza da frente de sua casa, o resultado é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma rua mais suja"
+        },
+        {
+          "id": "B",
+          "texto": "Uma rua mais limpa e agradável para todos"
+        },
+        {
+          "id": "C",
+          "texto": "Mais lixo espalhado"
+        },
+        {
+          "id": "D",
+          "texto": "Mais barulho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 144,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Jogar lixo em rios e córregos pode causar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Água mais limpa"
+        },
+        {
+          "id": "B",
+          "texto": "Poluição e enchentes"
+        },
+        {
+          "id": "C",
+          "texto": "Peixes mais saudáveis"
+        },
+        {
+          "id": "D",
+          "texto": "Nada de ruim"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 145,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Uma boa forma de manter a vizinhança limpa é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Descartar o lixo corretamente"
+        },
+        {
+          "id": "B",
+          "texto": "Jogar tudo na calçada"
+        },
+        {
+          "id": "C",
+          "texto": "Queimar o lixo em qualquer lugar"
+        },
+        {
+          "id": "D",
+          "texto": "Deixar o lixo acumular"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 146,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "A coleta de lixo feita pela prefeitura ajuda a:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Sujar as ruas"
+        },
+        {
+          "id": "B",
+          "texto": "Manter a cidade limpa e organizada"
+        },
+        {
+          "id": "C",
+          "texto": "Aumentar o barulho"
+        },
+        {
+          "id": "D",
+          "texto": "Atrapalhar os vizinhos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 147,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Quando todos os vizinhos cuidam da limpeza e do silêncio, a convivência tende a ser:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pior"
+        },
+        {
+          "id": "B",
+          "texto": "Melhor e mais agradável"
+        },
+        {
+          "id": "C",
+          "texto": "Igual sempre"
+        },
+        {
+          "id": "D",
+          "texto": "Impossível"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 148,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Uma atitude de boa convivência relacionada à limpeza é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não jogar lixo nas ruas"
+        },
+        {
+          "id": "B",
+          "texto": "Jogar lixo pela janela"
+        },
+        {
+          "id": "C",
+          "texto": "Deixar entulho na calçada"
+        },
+        {
+          "id": "D",
+          "texto": "Queimar lixo no quintal do vizinho"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 149,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "O barulho excessivo e o lixo jogado fora do lugar são exemplos de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Boas atitudes na vizinhança"
+        },
+        {
+          "id": "B",
+          "texto": "Atitudes que prejudicam a boa convivência"
+        },
+        {
+          "id": "C",
+          "texto": "Regras obrigatórias"
+        },
+        {
+          "id": "D",
+          "texto": "Atitudes recomendadas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 150,
+      "tipo": "multipla_escolha",
+      "tema": "convivencia_vizinhanca",
+      "pergunta": "Para viver bem em comunidade, é importante:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Respeitar o espaço e o silêncio dos vizinhos, e manter a limpeza"
+        },
+        {
+          "id": "B",
+          "texto": "Fazer barulho sempre que quiser"
+        },
+        {
+          "id": "C",
+          "texto": "Jogar lixo onde for mais fácil"
+        },
+        {
+          "id": "D",
+          "texto": "Ignorar os vizinhos completamente"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 151,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Acessibilidade significa:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Dificultar a vida das pessoas"
+        },
+        {
+          "id": "B",
+          "texto": "Tornar lugares e serviços possíveis de usar por todas as pessoas, inclusive com deficiência"
+        },
+        {
+          "id": "C",
+          "texto": "Só existir em hospitais"
+        },
+        {
+          "id": "D",
+          "texto": "Não é importante"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 152,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Recursos de acessibilidade ajudam principalmente:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Só os adultos"
+        },
+        {
+          "id": "B",
+          "texto": "Pessoas com deficiência, idosos e outras pessoas com dificuldade de locomoção ou visão"
+        },
+        {
+          "id": "C",
+          "texto": "Só as crianças"
+        },
+        {
+          "id": "D",
+          "texto": "Ninguém"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 153,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Uma cidade acessível é aquela que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Só pensa em quem enxerga e anda bem"
+        },
+        {
+          "id": "B",
+          "texto": "Pensa em todas as pessoas, incluindo quem tem deficiência"
+        },
+        {
+          "id": "C",
+          "texto": "Não tem calçadas"
+        },
+        {
+          "id": "D",
+          "texto": "Proíbe cadeira de rodas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 154,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Qual destas é uma preocupação da acessibilidade?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deixar rampas e sinais só para quem já anda bem"
+        },
+        {
+          "id": "B",
+          "texto": "Garantir que pessoas com deficiência também consigam se locomover e usar os espaços"
+        },
+        {
+          "id": "C",
+          "texto": "Ignorar pessoas cegas ou com dificuldade de locomoção"
+        },
+        {
+          "id": "D",
+          "texto": "Construir só escadas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 155,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Pessoas com deficiência visual (que não enxergam ou enxergam pouco) podem ser ajudadas por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Escadas altas"
+        },
+        {
+          "id": "B",
+          "texto": "Textos em braile e sinais sonoros"
+        },
+        {
+          "id": "C",
+          "texto": "Portas muito estreitas"
+        },
+        {
+          "id": "D",
+          "texto": "Nenhum recurso especial"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 156,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Pessoas que usam cadeira de rodas são ajudadas principalmente por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Escadas"
+        },
+        {
+          "id": "B",
+          "texto": "Rampas de acesso"
+        },
+        {
+          "id": "C",
+          "texto": "Portas trancadas"
+        },
+        {
+          "id": "D",
+          "texto": "Degraus altos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 157,
+      "tipo": "imagem_texto",
+      "tema": "acessibilidade",
+      "pergunta": "Observe a imagem. O que ela mostra?",
+      "imagem": "img/acessibilidade_braile.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um teclado com números e letras em braile"
+        },
+        {
+          "id": "B",
+          "texto": "Um semáforo"
+        },
+        {
+          "id": "C",
+          "texto": "Uma rampa"
+        },
+        {
+          "id": "D",
+          "texto": "Uma calçada"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 158,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "O braile é um sistema de escrita usado por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pessoas surdas"
+        },
+        {
+          "id": "B",
+          "texto": "Pessoas cegas ou com baixa visão"
+        },
+        {
+          "id": "C",
+          "texto": "Pessoas com dificuldade de locomoção"
+        },
+        {
+          "id": "D",
+          "texto": "Todas as pessoas, sem exceção"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 159,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "O braile é lido através:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Da audição (ouvindo sons)"
+        },
+        {
+          "id": "B",
+          "texto": "Do tato (tocando pontinhos em relevo)"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas da visão"
+        },
+        {
+          "id": "D",
+          "texto": "Do olfato"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 160,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Em elevadores e caixas eletrônicos, os números em braile ajudam:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pessoas cegas a identificar os botões pelo toque"
+        },
+        {
+          "id": "B",
+          "texto": "Pessoas surdas a ouvir melhor"
+        },
+        {
+          "id": "C",
+          "texto": "Pessoas com pressa"
+        },
+        {
+          "id": "D",
+          "texto": "Ninguém"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 161,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "O braile é formado por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pontinhos em relevo, organizados em pequenos grupos"
+        },
+        {
+          "id": "B",
+          "texto": "Desenhos coloridos"
+        },
+        {
+          "id": "C",
+          "texto": "Sons"
+        },
+        {
+          "id": "D",
+          "texto": "Luzes piscando"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 162,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Um lugar acessível para pessoas cegas costuma ter:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas escadas altas"
+        },
+        {
+          "id": "B",
+          "texto": "Sinalização em braile"
+        },
+        {
+          "id": "C",
+          "texto": "Nenhuma sinalização"
+        },
+        {
+          "id": "D",
+          "texto": "Portas sempre fechadas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 163,
+      "tipo": "imagem_texto",
+      "tema": "acessibilidade",
+      "pergunta": "Observe a imagem. Este equipamento emite um sinal sonoro para ajudar:",
+      "imagem": "img/acessibilidade_sinal_sonoro.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pessoas com deficiência visual a atravessar a rua com segurança"
+        },
+        {
+          "id": "B",
+          "texto": "Motoristas a estacionar"
+        },
+        {
+          "id": "C",
+          "texto": "Pessoas a pegar ônibus"
+        },
+        {
+          "id": "D",
+          "texto": "Pessoas a jogar lixo no lugar certo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 164,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "O sinalizador sonoro em semáforos ajuda pessoas cegas a saberem:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que horas são"
+        },
+        {
+          "id": "B",
+          "texto": "Quando é seguro atravessar a rua"
+        },
+        {
+          "id": "C",
+          "texto": "Qual ônibus pegar"
+        },
+        {
+          "id": "D",
+          "texto": "Onde fica o banheiro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 165,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Ao ouvir o som do semáforo indicando a travessia, a pessoa com deficiência visual sabe que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Deve continuar andando na calçada"
+        },
+        {
+          "id": "B",
+          "texto": "Pode atravessar a rua com segurança"
+        },
+        {
+          "id": "C",
+          "texto": "Deve correr para o outro lado sem cuidado"
+        },
+        {
+          "id": "D",
+          "texto": "Está proibido de sair de casa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 166,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "O sinalizador sonoro é um exemplo de acessibilidade porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ajuda quem não enxerga bem a se orientar pelo som"
+        },
+        {
+          "id": "B",
+          "texto": "Serve apenas para decoração"
+        },
+        {
+          "id": "C",
+          "texto": "É usado só por motoristas"
+        },
+        {
+          "id": "D",
+          "texto": "Não ajuda ninguém"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 167,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Sem o sinalizador sonoro, uma pessoa cega teria mais dificuldade para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cozinhar em casa"
+        },
+        {
+          "id": "B",
+          "texto": "Saber quando é seguro atravessar a rua"
+        },
+        {
+          "id": "C",
+          "texto": "Assistir televisão"
+        },
+        {
+          "id": "D",
+          "texto": "Ler um livro em braile"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 168,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Além do som, muitos semáforos acessíveis também têm um botão para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Trocar de canal de TV"
+        },
+        {
+          "id": "B",
+          "texto": "Pedir a travessia de pedestres"
+        },
+        {
+          "id": "C",
+          "texto": "Chamar um táxi"
+        },
+        {
+          "id": "D",
+          "texto": "Pedir comida"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 169,
+      "tipo": "imagem_texto",
+      "tema": "acessibilidade",
+      "pergunta": "Observe a imagem. Essa parte da calçada, sem degrau, rebaixada até a rua, é chamada de:",
+      "imagem": "img/acessibilidade_guia_rebaixada.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Guia rebaixada"
+        },
+        {
+          "id": "B",
+          "texto": "Sinalizador sonoro"
+        },
+        {
+          "id": "C",
+          "texto": "Rampa de escada"
+        },
+        {
+          "id": "D",
+          "texto": "Prédio"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 170,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "A guia rebaixada serve para facilitar a passagem de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas bicicletas"
+        },
+        {
+          "id": "B",
+          "texto": "Cadeiras de rodas, carrinhos de bebê e pessoas com dificuldade de locomoção"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas carros"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas pássaros"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 171,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Sem a guia rebaixada, uma pessoa em cadeira de rodas teria dificuldade para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Assistir TV"
+        },
+        {
+          "id": "B",
+          "texto": "Passar da calçada para a rua"
+        },
+        {
+          "id": "C",
+          "texto": "Ler um livro"
+        },
+        {
+          "id": "D",
+          "texto": "Tomar banho"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 172,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "A guia rebaixada fica localizada:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No topo dos prédios"
+        },
+        {
+          "id": "B",
+          "texto": "Na esquina ou travessia, entre a calçada e a rua"
+        },
+        {
+          "id": "C",
+          "texto": "Dentro do banheiro"
+        },
+        {
+          "id": "D",
+          "texto": "No telhado das casas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 173,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Uma calçada acessível para carrinhos de bebê e cadeiras de rodas deve ter:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muitos degraus altos"
+        },
+        {
+          "id": "B",
+          "texto": "Guias rebaixadas nas esquinas"
+        },
+        {
+          "id": "C",
+          "texto": "Buracos"
+        },
+        {
+          "id": "D",
+          "texto": "Nenhuma rampa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 174,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "A guia rebaixada evita que as pessoas com dificuldade de locomoção precisem:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Subir e descer degraus altos para cruzar a rua"
+        },
+        {
+          "id": "B",
+          "texto": "Usar sinal sonoro"
+        },
+        {
+          "id": "C",
+          "texto": "Ler em braile"
+        },
+        {
+          "id": "D",
+          "texto": "Pegar elevador"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 175,
+      "tipo": "imagem_texto",
+      "tema": "acessibilidade",
+      "pergunta": "Observe a imagem. Essa inclinação suave, feita para substituir ou complementar a escada, é chamada de:",
+      "imagem": "img/acessibilidade_rampa.jpg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Escada"
+        },
+        {
+          "id": "B",
+          "texto": "Rampa de acesso"
+        },
+        {
+          "id": "C",
+          "texto": "Guia rebaixada"
+        },
+        {
+          "id": "D",
+          "texto": "Semáforo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 176,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "As rampas de acesso são muito importantes para:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pessoas em cadeira de rodas e carrinhos de bebê"
+        },
+        {
+          "id": "B",
+          "texto": "Apenas para decoração"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas para carros"
+        },
+        {
+          "id": "D",
+          "texto": "Ninguém precisa delas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 177,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Em prédios e escolas acessíveis, além das escadas, também deve haver:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas mais escadas"
+        },
+        {
+          "id": "B",
+          "texto": "Rampas de acesso"
+        },
+        {
+          "id": "C",
+          "texto": "Nenhum outro caminho"
+        },
+        {
+          "id": "D",
+          "texto": "Somente elevadores exclusivos para funcionários"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 178,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Uma rampa de acesso, comparada com uma escada, tem a vantagem de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ser mais difícil de usar"
+        },
+        {
+          "id": "B",
+          "texto": "Poder ser usada por cadeiras de rodas e carrinhos"
+        },
+        {
+          "id": "C",
+          "texto": "Ser mais alta"
+        },
+        {
+          "id": "D",
+          "texto": "Ter degraus"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 179,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Se uma pessoa em cadeira de rodas precisa entrar em um prédio, ela deve usar:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A escada"
+        },
+        {
+          "id": "B",
+          "texto": "A rampa de acesso"
+        },
+        {
+          "id": "C",
+          "texto": "A janela"
+        },
+        {
+          "id": "D",
+          "texto": "O telhado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 180,
+      "tipo": "multipla_escolha",
+      "tema": "acessibilidade",
+      "pergunta": "Rampas de acesso, guias rebaixadas, braile e sinal sonoro são todos exemplos de recursos de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Poluição"
+        },
+        {
+          "id": "B",
+          "texto": "Acessibilidade"
+        },
+        {
+          "id": "C",
+          "texto": "Trânsito proibido"
+        },
+        {
+          "id": "D",
+          "texto": "Decoração"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 181,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, para se comunicar à distância quando não se tinha telefone em casa, muitas pessoas usavam:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O orelhão (telefone público na rua)"
+        },
+        {
+          "id": "B",
+          "texto": "O WhatsApp"
+        },
+        {
+          "id": "C",
+          "texto": "O e-mail"
+        },
+        {
+          "id": "D",
+          "texto": "O celular"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 182,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje em dia, é raro ver orelhões nas ruas porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "As pessoas passaram a ter celulares"
+        },
+        {
+          "id": "B",
+          "texto": "Ninguém mais precisa se comunicar"
+        },
+        {
+          "id": "C",
+          "texto": "Os orelhões viraram parques"
+        },
+        {
+          "id": "D",
+          "texto": "As ruas desapareceram"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 183,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, as ruas eram iluminadas à noite por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lâmpadas de LED modernas"
+        },
+        {
+          "id": "B",
+          "texto": "Lampiões (luz a gás ou vela)"
+        },
+        {
+          "id": "C",
+          "texto": "Painéis solares"
+        },
+        {
+          "id": "D",
+          "texto": "Nenhuma luz"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 184,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje, a iluminação pública das ruas é feita principalmente por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lâmpadas elétricas"
+        },
+        {
+          "id": "B",
+          "texto": "Lampiões a gás"
+        },
+        {
+          "id": "C",
+          "texto": "Velas"
+        },
+        {
+          "id": "D",
+          "texto": "Fogueiras"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 185,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, em muitos lugares, a água usada pelas famílias vinha de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Torneiras com água encanada em casa"
+        },
+        {
+          "id": "B",
+          "texto": "Poços e chafarizes públicos"
+        },
+        {
+          "id": "C",
+          "texto": "Garrafas de plástico"
+        },
+        {
+          "id": "D",
+          "texto": "Água mineral engarrafada"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 186,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje, a água chega até a maioria das casas através de:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Poços cavados no quintal"
+        },
+        {
+          "id": "B",
+          "texto": "Um sistema de água encanada (tubulações)"
+        },
+        {
+          "id": "C",
+          "texto": "Baldes carregados do rio"
+        },
+        {
+          "id": "D",
+          "texto": "Chuva apenas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 187,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Um serviço de comunicação que praticamente não existe mais é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O telegrama"
+        },
+        {
+          "id": "B",
+          "texto": "O celular"
+        },
+        {
+          "id": "C",
+          "texto": "A internet"
+        },
+        {
+          "id": "D",
+          "texto": "O WhatsApp"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 188,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Um serviço que não existia há 30 anos e existe hoje é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O correio"
+        },
+        {
+          "id": "B",
+          "texto": "A internet nas escolas"
+        },
+        {
+          "id": "C",
+          "texto": "A coleta de lixo"
+        },
+        {
+          "id": "D",
+          "texto": "A iluminação pública"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 189,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, para saber notícias rapidamente, muitas famílias ouviam:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O rádio"
+        },
+        {
+          "id": "B",
+          "texto": "Vídeos na internet"
+        },
+        {
+          "id": "C",
+          "texto": "Podcasts"
+        },
+        {
+          "id": "D",
+          "texto": "Redes sociais"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 190,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje, além do rádio, muitas pessoas recebem notícias por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cartas"
+        },
+        {
+          "id": "B",
+          "texto": "Internet e redes sociais"
+        },
+        {
+          "id": "C",
+          "texto": "Telegramas"
+        },
+        {
+          "id": "D",
+          "texto": "Pombos-correio"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 191,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "O transporte público chamado 'bonde', puxado por cavalos ou elétrico, era comum:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apenas hoje em dia"
+        },
+        {
+          "id": "B",
+          "texto": "No passado, em muitas cidades"
+        },
+        {
+          "id": "C",
+          "texto": "Nunca existiu"
+        },
+        {
+          "id": "D",
+          "texto": "Só no futuro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 192,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje, no lugar dos bondes antigos, muitas cidades usam:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ônibus e metrôs modernos"
+        },
+        {
+          "id": "B",
+          "texto": "Carruagens"
+        },
+        {
+          "id": "C",
+          "texto": "Bicicletas apenas"
+        },
+        {
+          "id": "D",
+          "texto": "Nada, as pessoas só andam a pé"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 193,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Um serviço público de saúde que atende emergências rapidamente, e que é mais recente, é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O SAMU (atendimento móvel de urgência)"
+        },
+        {
+          "id": "B",
+          "texto": "O correio"
+        },
+        {
+          "id": "C",
+          "texto": "O telégrafo"
+        },
+        {
+          "id": "D",
+          "texto": "O lampião"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 194,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "A coleta seletiva de lixo (separar o lixo reciclável) é um serviço:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Que sempre existiu, desde o Brasil Colônia"
+        },
+        {
+          "id": "B",
+          "texto": "Relativamente novo, criado para cuidar do meio ambiente"
+        },
+        {
+          "id": "C",
+          "texto": "Que não existe em nenhum lugar"
+        },
+        {
+          "id": "D",
+          "texto": "Proibido por lei"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 195,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, era comum jogar o esgoto das casas diretamente:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Em redes de tratamento modernas"
+        },
+        {
+          "id": "B",
+          "texto": "Em valas ou rios, sem tratamento"
+        },
+        {
+          "id": "C",
+          "texto": "Em estações espaciais"
+        },
+        {
+          "id": "D",
+          "texto": "Em usinas nucleares"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 196,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje, muitas cidades contam com redes de esgoto que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tratam a água usada antes de devolvê-la à natureza"
+        },
+        {
+          "id": "B",
+          "texto": "Jogam tudo direto no rio sem cuidado"
+        },
+        {
+          "id": "C",
+          "texto": "Não existem mais"
+        },
+        {
+          "id": "D",
+          "texto": "Substituíram a água encanada"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 197,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Um exemplo de serviço público que existe hoje, mas não existia há 100 anos, é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A internet de alta velocidade"
+        },
+        {
+          "id": "B",
+          "texto": "O correio"
+        },
+        {
+          "id": "C",
+          "texto": "O mercado"
+        },
+        {
+          "id": "D",
+          "texto": "A escola"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 198,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "As cartas enviadas pelo correio, muito comuns no passado, hoje foram parcialmente substituídas por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pombos-correio"
+        },
+        {
+          "id": "B",
+          "texto": "E-mails e mensagens de celular"
+        },
+        {
+          "id": "C",
+          "texto": "Telegramas"
+        },
+        {
+          "id": "D",
+          "texto": "Nada, ainda são a única forma de comunicação"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 199,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, os telefones públicos (orelhões) eram muito usados porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nem todo mundo tinha telefone celular"
+        },
+        {
+          "id": "B",
+          "texto": "Todo mundo já tinha celular"
+        },
+        {
+          "id": "C",
+          "texto": "Não existiam telefones em lugar nenhum"
+        },
+        {
+          "id": "D",
+          "texto": "Eram proibidos"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 200,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Postos de vacinação organizados em grande escala pela cidade são um serviço público que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ajuda a proteger a saúde da população"
+        },
+        {
+          "id": "B",
+          "texto": "Não tem nenhuma utilidade"
+        },
+        {
+          "id": "C",
+          "texto": "Só existia no passado"
+        },
+        {
+          "id": "D",
+          "texto": "Serve apenas para adultos"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 201,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "No passado, muitas famílias buscavam água em poços porque:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Não existiam tubulações de água encanada em todas as casas"
+        },
+        {
+          "id": "B",
+          "texto": "Era mais rápido que abrir a torneira"
+        },
+        {
+          "id": "C",
+          "texto": "Era proibido usar torneira"
+        },
+        {
+          "id": "D",
+          "texto": "Não gostavam de água encanada"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 202,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Um serviço que ficou ultrapassado com a chegada dos celulares é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O orelhão nas ruas"
+        },
+        {
+          "id": "B",
+          "texto": "O hospital"
+        },
+        {
+          "id": "C",
+          "texto": "A escola"
+        },
+        {
+          "id": "D",
+          "texto": "O mercado"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 203,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "As primeiras formas de iluminação pública, antes da luz elétrica, incluíam:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lâmpadas de LED"
+        },
+        {
+          "id": "B",
+          "texto": "Lampiões movidos a óleo ou gás"
+        },
+        {
+          "id": "C",
+          "texto": "Painéis solares"
+        },
+        {
+          "id": "D",
+          "texto": "Sensores automáticos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 204,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "A internet nas escolas públicas é um exemplo de serviço que:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Já existia há centenas de anos"
+        },
+        {
+          "id": "B",
+          "texto": "É relativamente novo, criado nas últimas décadas"
+        },
+        {
+          "id": "C",
+          "texto": "Nunca existirá"
+        },
+        {
+          "id": "D",
+          "texto": "Foi proibido"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 205,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, sem caminhões de lixo, a coleta era feita, em alguns lugares, por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carroças puxadas por animais"
+        },
+        {
+          "id": "B",
+          "texto": "Aviões"
+        },
+        {
+          "id": "C",
+          "texto": "Drones"
+        },
+        {
+          "id": "D",
+          "texto": "Trens de alta velocidade"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 206,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Hoje, a coleta de lixo é feita principalmente por:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carroças puxadas por cavalo"
+        },
+        {
+          "id": "B",
+          "texto": "Caminhões de lixo"
+        },
+        {
+          "id": "C",
+          "texto": "Pombos-correio"
+        },
+        {
+          "id": "D",
+          "texto": "Bondes"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 207,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Um serviço de comunicação muito usado no passado, enviado por fios de telégrafo, era:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O telegrama"
+        },
+        {
+          "id": "B",
+          "texto": "A videochamada"
+        },
+        {
+          "id": "C",
+          "texto": "O podcast"
+        },
+        {
+          "id": "D",
+          "texto": "O e-mail"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 208,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Câmeras de monitoramento nas ruas, usadas para ajudar na segurança pública, são um serviço:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Muito antigo, que já existia há séculos"
+        },
+        {
+          "id": "B",
+          "texto": "Relativamente moderno, que se tornou comum com a tecnologia"
+        },
+        {
+          "id": "C",
+          "texto": "Que nunca existiu"
+        },
+        {
+          "id": "D",
+          "texto": "Proibido nas cidades"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 209,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Comparando o passado e o presente, um serviço público que ainda existe, mas mudou bastante, é:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O transporte público"
+        },
+        {
+          "id": "B",
+          "texto": "Nenhum, tudo é igual"
+        },
+        {
+          "id": "C",
+          "texto": "O telegrama"
+        },
+        {
+          "id": "D",
+          "texto": "O lampião a gás"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 210,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Estudar os serviços públicos do passado e do presente nos ajuda a entender:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Como a tecnologia e a cidade foram mudando com o tempo"
+        },
+        {
+          "id": "B",
+          "texto": "Nada de importante"
+        },
+        {
+          "id": "C",
+          "texto": "Apenas sobre o futuro"
+        },
+        {
+          "id": "D",
+          "texto": "Somente sobre outros países"
+        }
+      ],
+      "resposta": "A"
+    }
+  ]
+}
