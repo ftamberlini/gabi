@@ -503,3 +503,8 @@ button {
   .question-img.money-img { max-height: 60px; }
   .alt-img-btn img { height: 70px; }
 }
+
+/* Conjunto de inglês ativo */
+.cards-grid { grid-template-columns: minmax(0, 440px); justify-content: center; }
+.listen-btn:disabled { cursor: default; opacity: 0.75; }
+button:focus-visible { outline: 3px solid #443955; outline-offset: 4px; }

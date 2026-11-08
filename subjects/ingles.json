@@ -1,137 +1,1403 @@
 {
-  "titulo": "Inglês - 2º Ano do Ensino Fundamental",
+  "titulo": "Inglês — Good Foods e Animal Friends — 2º ano",
   "questoes": [
     {
       "id": 1,
       "tipo": "multipla_escolha",
-      "tema": "animais",
-      "pergunta": "Como se diz \"Cachorro\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Cat"},
-        {"id": "B", "texto": "Dog"},
-        {"id": "C", "texto": "Bird"},
-        {"id": "D", "texto": "Fish"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "rice"
+        },
+        {
+          "id": "C",
+          "texto": "apple"
+        },
+        {
+          "id": "D",
+          "texto": "orange"
+        }
       ],
-      "resposta": "B"
+      "resposta": "A",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/egg.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 2,
       "tipo": "multipla_escolha",
-      "tema": "cores",
-      "pergunta": "Como se diz \"Vermelho\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Blue"},
-        {"id": "B", "texto": "Green"},
-        {"id": "C", "texto": "Red"},
-        {"id": "D", "texto": "Yellow"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "rice"
+        },
+        {
+          "id": "C",
+          "texto": "apple"
+        },
+        {
+          "id": "D",
+          "texto": "orange"
+        }
       ],
-      "resposta": "C"
+      "resposta": "B",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/rice.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 3,
       "tipo": "multipla_escolha",
-      "tema": "cumprimentos",
-      "pergunta": "Como se cumprimenta alguém dizendo \"Olá\"?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Bye"},
-        {"id": "B", "texto": "Hello"},
-        {"id": "C", "texto": "Thanks"},
-        {"id": "D", "texto": "Sorry"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "rice"
+        },
+        {
+          "id": "C",
+          "texto": "apple"
+        },
+        {
+          "id": "D",
+          "texto": "orange"
+        }
       ],
-      "resposta": "B"
+      "resposta": "C",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/apple.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 4,
       "tipo": "multipla_escolha",
-      "tema": "numeros",
-      "pergunta": "Como se diz \"Um\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Two"},
-        {"id": "B", "texto": "One"},
-        {"id": "C", "texto": "Three"},
-        {"id": "D", "texto": "Four"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "rice"
+        },
+        {
+          "id": "C",
+          "texto": "apple"
+        },
+        {
+          "id": "D",
+          "texto": "orange"
+        }
       ],
-      "resposta": "B"
+      "resposta": "D",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/orange.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 5,
       "tipo": "multipla_escolha",
-      "tema": "animais",
-      "pergunta": "Como se diz \"Gato\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Dog"},
-        {"id": "B", "texto": "Cat"},
-        {"id": "C", "texto": "Cow"},
-        {"id": "D", "texto": "Pig"}
+        {
+          "id": "A",
+          "texto": "banana"
+        },
+        {
+          "id": "B",
+          "texto": "egg"
+        },
+        {
+          "id": "C",
+          "texto": "rice"
+        },
+        {
+          "id": "D",
+          "texto": "apple"
+        }
       ],
-      "resposta": "B"
+      "resposta": "A",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/banana.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 6,
-      "tipo": "imagem_texto",
-      "tema": "animais",
-      "imagem": "🐟",
-      "pergunta": "What is this in English?",
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Bird"},
-        {"id": "B", "texto": "Fish"},
-        {"id": "C", "texto": "Frog"},
-        {"id": "D", "texto": "Bear"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "bread"
+        },
+        {
+          "id": "C",
+          "texto": "rice"
+        },
+        {
+          "id": "D",
+          "texto": "apple"
+        }
       ],
-      "resposta": "B"
+      "resposta": "B",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/bread.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 7,
       "tipo": "multipla_escolha",
-      "tema": "cumprimentos",
-      "pergunta": "Como se diz \"Obrigado\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Please"},
-        {"id": "B", "texto": "Sorry"},
-        {"id": "C", "texto": "Thank you"},
-        {"id": "D", "texto": "Hello"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "rice"
+        },
+        {
+          "id": "C",
+          "texto": "carrot"
+        },
+        {
+          "id": "D",
+          "texto": "apple"
+        }
       ],
-      "resposta": "C"
+      "resposta": "C",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/carrot.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 8,
       "tipo": "multipla_escolha",
-      "tema": "cores",
-      "pergunta": "Como se diz \"Azul\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste alimento em inglês?",
       "alternativas": [
-        {"id": "A", "texto": "Blue"},
-        {"id": "B", "texto": "Black"},
-        {"id": "C", "texto": "Brown"},
-        {"id": "D", "texto": "White"}
+        {
+          "id": "A",
+          "texto": "egg"
+        },
+        {
+          "id": "B",
+          "texto": "rice"
+        },
+        {
+          "id": "C",
+          "texto": "apple"
+        },
+        {
+          "id": "D",
+          "texto": "pear"
+        }
       ],
-      "resposta": "A"
+      "resposta": "D",
+      "audio_texto": "What food is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/pear.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     },
     {
       "id": 9,
-      "tipo": "imagem_texto",
-      "tema": "natureza",
-      "imagem": "☀️",
-      "pergunta": "How do you say this in English?",
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
       "alternativas": [
-        {"id": "A", "texto": "Moon"},
-        {"id": "B", "texto": "Sun"},
-        {"id": "C", "texto": "Star"},
-        {"id": "D", "texto": "Rain"}
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "arroz"
+        },
+        {
+          "id": "C",
+          "texto": "maçã"
+        },
+        {
+          "id": "D",
+          "texto": "laranja"
+        }
       ],
-      "resposta": "B"
+      "resposta": "A",
+      "audio_texto": "egg",
+      "audio_idioma": "en-US"
     },
     {
       "id": 10,
       "tipo": "multipla_escolha",
-      "tema": "numeros",
-      "pergunta": "Como se diz \"Dois\" em inglês?",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
       "alternativas": [
-        {"id": "A", "texto": "One"},
-        {"id": "B", "texto": "Two"},
-        {"id": "C", "texto": "Three"},
-        {"id": "D", "texto": "Five"}
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "arroz"
+        },
+        {
+          "id": "C",
+          "texto": "maçã"
+        },
+        {
+          "id": "D",
+          "texto": "laranja"
+        }
       ],
-      "resposta": "B"
+      "resposta": "B",
+      "audio_texto": "rice",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 11,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "arroz"
+        },
+        {
+          "id": "C",
+          "texto": "maçã"
+        },
+        {
+          "id": "D",
+          "texto": "laranja"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "apple",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 12,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "arroz"
+        },
+        {
+          "id": "C",
+          "texto": "maçã"
+        },
+        {
+          "id": "D",
+          "texto": "laranja"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "orange",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 13,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "banana"
+        },
+        {
+          "id": "B",
+          "texto": "ovo"
+        },
+        {
+          "id": "C",
+          "texto": "arroz"
+        },
+        {
+          "id": "D",
+          "texto": "maçã"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "banana",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 14,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "pão"
+        },
+        {
+          "id": "C",
+          "texto": "arroz"
+        },
+        {
+          "id": "D",
+          "texto": "maçã"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "bread",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 15,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "arroz"
+        },
+        {
+          "id": "C",
+          "texto": "cenoura"
+        },
+        {
+          "id": "D",
+          "texto": "maçã"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "carrot",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 16,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "escuta",
+      "pergunta": "Ouça a palavra em inglês. Qual alimento você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ovo"
+        },
+        {
+          "id": "B",
+          "texto": "arroz"
+        },
+        {
+          "id": "C",
+          "texto": "maçã"
+        },
+        {
+          "id": "D",
+          "texto": "pera"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "pear",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 17,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ egg.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "an"
+        },
+        {
+          "id": "B",
+          "texto": "a"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "Complete with a or an. egg.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/egg.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 18,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ bowl of rice.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "an"
+        },
+        {
+          "id": "B",
+          "texto": "a"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "Complete with a or an. bowl of rice.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/rice.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 19,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ apple.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "an"
+        },
+        {
+          "id": "B",
+          "texto": "a"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "Complete with a or an. apple.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/apple.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 20,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ orange.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "a"
+        },
+        {
+          "id": "B",
+          "texto": "an"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "Complete with a or an. orange.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/orange.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 21,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ banana.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "a"
+        },
+        {
+          "id": "B",
+          "texto": "an"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "Complete with a or an. banana.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/banana.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 22,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ slice of bread.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "an"
+        },
+        {
+          "id": "B",
+          "texto": "a"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "Complete with a or an. slice of bread.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/bread.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 23,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ carrot.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "a"
+        },
+        {
+          "id": "B",
+          "texto": "an"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "Complete with a or an. carrot.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/carrot.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 24,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ pear.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "an"
+        },
+        {
+          "id": "B",
+          "texto": "a"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "Complete with a or an. pear.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/pear.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 25,
+      "tipo": "multipla_escolha",
+      "tema": "Good Foods",
+      "habilidade": "artigos",
+      "pergunta": "Complete com a ou an: ___ sandwich.",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "a"
+        },
+        {
+          "id": "B",
+          "texto": "an"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "Complete with a or an. sandwich.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/sandwich.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 26,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "horse"
+        },
+        {
+          "id": "B",
+          "texto": "dog"
+        },
+        {
+          "id": "C",
+          "texto": "cow"
+        },
+        {
+          "id": "D",
+          "texto": "rabbit"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/dog.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 27,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "dog"
+        },
+        {
+          "id": "B",
+          "texto": "cow"
+        },
+        {
+          "id": "C",
+          "texto": "horse"
+        },
+        {
+          "id": "D",
+          "texto": "rabbit"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/horse.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 28,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "dog"
+        },
+        {
+          "id": "B",
+          "texto": "horse"
+        },
+        {
+          "id": "C",
+          "texto": "rabbit"
+        },
+        {
+          "id": "D",
+          "texto": "cow"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/cow.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 29,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "rabbit"
+        },
+        {
+          "id": "B",
+          "texto": "dog"
+        },
+        {
+          "id": "C",
+          "texto": "horse"
+        },
+        {
+          "id": "D",
+          "texto": "cow"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/rabbit.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 30,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "dog"
+        },
+        {
+          "id": "B",
+          "texto": "sheep"
+        },
+        {
+          "id": "C",
+          "texto": "horse"
+        },
+        {
+          "id": "D",
+          "texto": "cow"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/sheep.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 31,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "dog"
+        },
+        {
+          "id": "B",
+          "texto": "horse"
+        },
+        {
+          "id": "C",
+          "texto": "goat"
+        },
+        {
+          "id": "D",
+          "texto": "cow"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/goat.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 32,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "vocabulario",
+      "pergunta": "Observe a figura. Qual é o nome deste animal em inglês?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "dog"
+        },
+        {
+          "id": "B",
+          "texto": "horse"
+        },
+        {
+          "id": "C",
+          "texto": "cow"
+        },
+        {
+          "id": "D",
+          "texto": "donkey"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "What animal is this?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/donkey.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 33,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "vaca"
+        },
+        {
+          "id": "D",
+          "texto": "coelho"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "dog",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 34,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "vaca"
+        },
+        {
+          "id": "D",
+          "texto": "coelho"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "horse",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 35,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "vaca"
+        },
+        {
+          "id": "D",
+          "texto": "coelho"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "cow",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 36,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "vaca"
+        },
+        {
+          "id": "D",
+          "texto": "coelho"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "rabbit",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 37,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "ovelha"
+        },
+        {
+          "id": "B",
+          "texto": "cachorro"
+        },
+        {
+          "id": "C",
+          "texto": "cavalo"
+        },
+        {
+          "id": "D",
+          "texto": "vaca"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "sheep",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 38,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "cabra"
+        },
+        {
+          "id": "C",
+          "texto": "cavalo"
+        },
+        {
+          "id": "D",
+          "texto": "vaca"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "goat",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 39,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "escuta",
+      "pergunta": "Ouça o nome em inglês. Qual animal você ouviu?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "cachorro"
+        },
+        {
+          "id": "B",
+          "texto": "cavalo"
+        },
+        {
+          "id": "C",
+          "texto": "burro"
+        },
+        {
+          "id": "D",
+          "texto": "vaca"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "donkey",
+      "audio_idioma": "en-US"
+    },
+    {
+      "id": 40,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "acoes",
+      "pergunta": "Observe a cena: o animal está dormindo. Qual ação em inglês combina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "running"
+        },
+        {
+          "id": "B",
+          "texto": "eating"
+        },
+        {
+          "id": "C",
+          "texto": "jumping"
+        },
+        {
+          "id": "D",
+          "texto": "sleeping"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "What is the animal doing?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/dog-sleeping.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 41,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "acoes",
+      "pergunta": "Observe a cena: o animal está correndo. Qual ação em inglês combina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "running"
+        },
+        {
+          "id": "B",
+          "texto": "sleeping"
+        },
+        {
+          "id": "C",
+          "texto": "eating"
+        },
+        {
+          "id": "D",
+          "texto": "jumping"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "What is the animal doing?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/horse-running.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 42,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "acoes",
+      "pergunta": "Observe a cena: o animal está comendo. Qual ação em inglês combina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "sleeping"
+        },
+        {
+          "id": "B",
+          "texto": "eating"
+        },
+        {
+          "id": "C",
+          "texto": "running"
+        },
+        {
+          "id": "D",
+          "texto": "jumping"
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "What is the animal doing?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/cow-eating.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 43,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "acoes",
+      "pergunta": "Observe a cena: o animal está pulando. Qual ação em inglês combina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "sleeping"
+        },
+        {
+          "id": "B",
+          "texto": "running"
+        },
+        {
+          "id": "C",
+          "texto": "jumping"
+        },
+        {
+          "id": "D",
+          "texto": "eating"
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "What is the animal doing?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/rabbit-jumping.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 44,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "acoes",
+      "pergunta": "Observe a cena: o animal está bebendo. Qual ação em inglês combina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "sleeping"
+        },
+        {
+          "id": "B",
+          "texto": "running"
+        },
+        {
+          "id": "C",
+          "texto": "eating"
+        },
+        {
+          "id": "D",
+          "texto": "drinking"
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "What is the animal doing?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/goat-drinking.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 45,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "acoes",
+      "pergunta": "Observe a cena: o animal está andando. Qual ação em inglês combina?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "walking"
+        },
+        {
+          "id": "B",
+          "texto": "sleeping"
+        },
+        {
+          "id": "C",
+          "texto": "running"
+        },
+        {
+          "id": "D",
+          "texto": "eating"
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "What is the animal doing?",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/donkey-walking.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 46,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "frases",
+      "pergunta": "O cachorro está dormindo. Qual frase combina com a cena?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "The dog is running."
+        },
+        {
+          "id": "B",
+          "texto": "The dog is sleeping."
+        },
+        {
+          "id": "C",
+          "texto": "The dog is eating."
+        },
+        {
+          "id": "D",
+          "texto": "The dog is jumping."
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "Choose the sentence that matches the picture.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/dog-sleeping.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 47,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "frases",
+      "pergunta": "O cavalo está correndo. Qual frase combina com a cena?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "The horse is sleeping."
+        },
+        {
+          "id": "B",
+          "texto": "The horse is eating."
+        },
+        {
+          "id": "C",
+          "texto": "The horse is running."
+        },
+        {
+          "id": "D",
+          "texto": "The horse is jumping."
+        }
+      ],
+      "resposta": "C",
+      "audio_texto": "Choose the sentence that matches the picture.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/horse-running.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 48,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "frases",
+      "pergunta": "O vaca está comendo. Qual frase combina com a cena?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "The cow is sleeping."
+        },
+        {
+          "id": "B",
+          "texto": "The cow is running."
+        },
+        {
+          "id": "C",
+          "texto": "The cow is jumping."
+        },
+        {
+          "id": "D",
+          "texto": "The cow is eating."
+        }
+      ],
+      "resposta": "D",
+      "audio_texto": "Choose the sentence that matches the picture.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/cow-eating.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 49,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "frases",
+      "pergunta": "O coelho está pulando. Qual frase combina com a cena?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "The rabbit is jumping."
+        },
+        {
+          "id": "B",
+          "texto": "The rabbit is sleeping."
+        },
+        {
+          "id": "C",
+          "texto": "The rabbit is running."
+        },
+        {
+          "id": "D",
+          "texto": "The rabbit is eating."
+        }
+      ],
+      "resposta": "A",
+      "audio_texto": "Choose the sentence that matches the picture.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/rabbit-jumping.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
+    },
+    {
+      "id": 50,
+      "tipo": "multipla_escolha",
+      "tema": "Animal Friends",
+      "habilidade": "frases",
+      "pergunta": "O cabra está bebendo. Qual frase combina com a cena?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "The goat is sleeping."
+        },
+        {
+          "id": "B",
+          "texto": "The goat is drinking."
+        },
+        {
+          "id": "C",
+          "texto": "The goat is running."
+        },
+        {
+          "id": "D",
+          "texto": "The goat is eating."
+        }
+      ],
+      "resposta": "B",
+      "audio_texto": "Choose the sentence that matches the picture.",
+      "audio_idioma": "en-US",
+      "imagem": "img/ingles/goat-drinking.svg",
+      "imagem_alt": "Ilustração para observar e responder à questão."
     }
   ]
 }

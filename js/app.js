@@ -3,14 +3,7 @@ const QUESTOES_POR_QUIZ = 10;
 
 // ===== Configuração das disciplinas =====
 const SUBJECTS = [
-  { id: "portugues",  name: "Português",  icon: "📚", color: "#8ecae6", file: "portugues.json" },
-  { id: "ditado",     name: "Ditado",     icon: "✏️", color: "#ffb4a2", file: "ditado.json" },
-  { id: "matematica", name: "Matemática", icon: "🔢", color: "#ffd166", file: "matematica.json" },
-  { id: "geografia",  name: "Geografia",  icon: "🌎", color: "#95d5b2", file: "geografia.json" },
-  { id: "historia",   name: "História",  icon: "🏛️", color: "#d4a373", file: "historia.json" },
-  { id: "ingles",     name: "Inglês",     icon: "🗣️", color: "#c8b6ff", file: "ingles.json" },
-  { id: "ciencias",   name: "Ciências",   icon: "🔬", color: "#90e0ef", file: "ciencias.json" },
-  { id: "religiao",   name: "Religião",   icon: "🙏", color: "#f4a3c1", file: "religiao.json" },
+  { id: "ingles", name: "Inglês: Good Foods e Animal Friends", icon: "🗣️", color: "#c8b6ff", file: "ingles.json" },
 ];
 
 // ===== Estado do quiz =====
@@ -123,11 +116,13 @@ function playCelebrationSound() {
   playNoiseBurst(0.6, 0.4, 0.06, 4000);
 }
 
-function speakWord(word) {
+function speakWord(word, language = "pt-BR") {
   if (!("speechSynthesis" in window)) return;
   window.speechSynthesis.cancel();
   const utter = new SpeechSynthesisUtterance(word);
-  utter.lang = "pt-BR";
+  utter.lang = language;
+  const voice = window.speechSynthesis.getVoices().find((v) => v.lang === language);
+  if (voice) utter.voice = voice;
   utter.rate = 0.85;
   utter.pitch = 1.1;
   window.speechSynthesis.speak(utter);
@@ -135,6 +130,7 @@ function speakWord(word) {
 
 // ===== Navegação entre telas =====
 function showScreen(screen) {
+  if (window.speechSynthesis) window.speechSynthesis.cancel();
   [homeScreen, quizScreen, resultScreen].forEach((s) => s.classList.remove("active"));
   screen.classList.add("active");
   window.scrollTo({ top: 0, behavior: "smooth" });
@@ -194,6 +190,7 @@ function shuffleArray(arr) {
 
 // ===== Renderizar pergunta atual =====
 function renderQuestion() {
+  if (window.speechSynthesis) window.speechSynthesis.cancel();
   state.answered = false;
   state.selected = new Set();
   feedbackMessage.textContent = "";
@@ -217,7 +214,7 @@ function renderQuestion() {
     question.imagens.forEach((src) => {
       const img = document.createElement("img");
       img.src = src;
-      img.alt = question.pergunta;
+      img.alt = question.imagem_alt || question.pergunta;
       img.className = "question-img money-img";
       questionImage.appendChild(img);
     });
@@ -225,7 +222,7 @@ function renderQuestion() {
     if (/\.(svg|png|jpe?g|webp)$/i.test(question.imagem)) {
       const img = document.createElement("img");
       img.src = question.imagem;
-      img.alt = question.pergunta;
+      img.alt = question.imagem_alt || question.pergunta;
       img.className = "question-img";
       questionImage.appendChild(img);
     } else {
@@ -233,15 +230,19 @@ function renderQuestion() {
     }
   }
 
-  // Ditado: botão de ouvir a palavra
-  if (question.tipo === "ditado" && question.palavra) {
+  // Pronúncia em inglês e ditado em português, acionados pela criança.
+  const spokenText = question.audio_texto || (question.tipo === "ditado" ? question.palavra : null);
+  btnListen.classList.remove("playing");
+  if (spokenText) {
     btnListen.style.display = "block";
+    btnListen.textContent = question.habilidade === "escuta" ? "🔊 Ouvir palavra em inglês" : "🔊 Ouvir em inglês";
+    btnListen.disabled = !("speechSynthesis" in window);
+    if (btnListen.disabled) {
+      btnListen.textContent = "Áudio indisponível neste navegador. Use Chrome, Edge ou Safari.";
+    }
     btnListen.onclick = () => {
-      btnListen.classList.add("playing");
-      speakWord(question.palavra);
-      setTimeout(() => btnListen.classList.remove("playing"), 700);
+      speakWord(spokenText, question.audio_idioma || "pt-BR");
     };
-    setTimeout(() => btnListen.click(), 300);
   } else {
     btnListen.style.display = "none";
     btnListen.onclick = null;
