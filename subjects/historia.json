@@ -3,6 +3,7 @@
   "questoes": [
     {
       "id": 1,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "familia",
       "pergunta": "Quem pode fazer parte da nossa família?",
@@ -28,6 +29,7 @@
     },
     {
       "id": 2,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "passado_presente",
       "pergunta": "Uma coisa que mudou muito com o passar do tempo é:",
@@ -53,6 +55,7 @@
     },
     {
       "id": 3,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "passado_presente",
       "pergunta": "Antigamente as cartas eram enviadas pelo:",
@@ -78,6 +81,7 @@
     },
     {
       "id": 4,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "celebracoes",
       "pergunta": "O que comemoramos no aniversário?",
@@ -103,6 +107,7 @@
     },
     {
       "id": 5,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "comunidade",
       "pergunta": "Quem ajuda a cuidar da nossa saúde?",
@@ -128,6 +133,7 @@
     },
     {
       "id": 6,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "passado_presente",
       "pergunta": "As fotos antigas eram tiradas com:",
@@ -153,6 +159,7 @@
     },
     {
       "id": 7,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tradicoes",
       "pergunta": "O que é uma tradição de família?",
@@ -178,6 +185,7 @@
     },
     {
       "id": 8,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "familia",
       "imagem": "👵 👴",
@@ -204,6 +212,7 @@
     },
     {
       "id": 9,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "passado_presente",
       "imagem": "📜",
@@ -230,6 +239,7 @@
     },
     {
       "id": 10,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "linha_do_tempo",
       "pergunta": "O que é uma linha do tempo?",
@@ -255,6 +265,7 @@
     },
     {
       "id": 11,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -281,6 +292,7 @@
     },
     {
       "id": 12,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Moradias construídas sobre estacas (pilares), para ficar protegidas da subida da água dos rios, são chamadas de:",
@@ -306,6 +318,7 @@
     },
     {
       "id": 13,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "As palafitas são comuns em regiões:",
@@ -331,6 +344,7 @@
     },
     {
       "id": 14,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra uma palafita?",
@@ -360,6 +374,7 @@
     },
     {
       "id": 15,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Por que as casas do tipo palafita são construídas sobre estacas de madeira?",
@@ -385,6 +400,7 @@
     },
     {
       "id": 16,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Em qual região do Brasil é muito comum encontrar casas de palafita?",
@@ -410,6 +426,7 @@
     },
     {
       "id": 17,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -436,6 +453,7 @@
     },
     {
       "id": 18,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "As construções altas, com vários andares e apartamentos, são chamadas de:",
@@ -461,6 +479,7 @@
     },
     {
       "id": 19,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Para subir aos andares mais altos de um prédio, geralmente usamos:",
@@ -486,6 +505,7 @@
     },
     {
       "id": 20,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra um prédio?",
@@ -515,6 +535,7 @@
     },
     {
       "id": 21,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Morar em um prédio significa que muitas famílias moram:",
@@ -540,6 +561,7 @@
     },
     {
       "id": 22,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Os prédios são mais comuns em:",
@@ -565,6 +587,7 @@
     },
     {
       "id": 23,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -591,6 +614,7 @@
     },
     {
       "id": 24,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Uma casa que tem só um andar (não tem escada para o andar de cima) é chamada de:",
@@ -616,6 +640,7 @@
     },
     {
       "id": 25,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual é a principal diferença entre uma casa térrea e um sobrado?",
@@ -641,6 +666,7 @@
     },
     {
       "id": 26,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra uma casa térrea?",
@@ -670,6 +696,7 @@
     },
     {
       "id": 27,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Em uma casa térrea, todos os cômodos ficam:",
@@ -695,6 +722,7 @@
     },
     {
       "id": 28,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Uma casa térrea normalmente NÃO tem:",
@@ -720,6 +748,7 @@
     },
     {
       "id": 29,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -746,6 +775,7 @@
     },
     {
       "id": 30,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Uma casa que tem dois ou mais andares, ligados por uma escada dentro de casa, é chamada de:",
@@ -771,6 +801,7 @@
     },
     {
       "id": 31,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Em um sobrado, para ir do andar de baixo para o andar de cima, usamos:",
@@ -796,6 +827,7 @@
     },
     {
       "id": 32,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra um sobrado?",
@@ -825,6 +857,7 @@
     },
     {
       "id": 33,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Uma casa de dois andares tem, no mínimo, quantos pavimentos?",
@@ -850,6 +883,7 @@
     },
     {
       "id": 34,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "O contrário de uma casa térrea (um andar) é:",
@@ -875,6 +909,7 @@
     },
     {
       "id": 35,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -901,6 +936,7 @@
     },
     {
       "id": 36,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Moradias que ficam na zona rural, geralmente com plantações e criação de animais, ficam em:",
@@ -926,6 +962,7 @@
     },
     {
       "id": 37,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Em um sítio ou fazenda, é comum encontrar:",
@@ -951,6 +988,7 @@
     },
     {
       "id": 38,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra uma casa de sítio ou fazenda?",
@@ -980,6 +1018,7 @@
     },
     {
       "id": 39,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "As pessoas que moram em fazendas geralmente trabalham com:",
@@ -1005,6 +1044,7 @@
     },
     {
       "id": 40,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Sítios e fazendas ficam geralmente:",
@@ -1030,6 +1070,7 @@
     },
     {
       "id": 41,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -1056,6 +1097,7 @@
     },
     {
       "id": 42,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "A moradia tradicional de muitos povos indígenas, feita de madeira, palha e cipó, é chamada de:",
@@ -1081,6 +1123,7 @@
     },
     {
       "id": 43,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "As ocas costumam ser habitadas por:",
@@ -1106,6 +1149,7 @@
     },
     {
       "id": 44,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra uma oca?",
@@ -1135,6 +1179,7 @@
     },
     {
       "id": 45,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "As ocas são construídas principalmente com:",
@@ -1160,6 +1205,7 @@
     },
     {
       "id": 46,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "As ocas fazem parte da cultura de quais povos?",
@@ -1185,6 +1231,7 @@
     },
     {
       "id": 47,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_moradia",
       "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
@@ -1211,6 +1258,7 @@
     },
     {
       "id": 48,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "A casa feita com barro, madeira e capim, técnica muito antiga usada desde o Brasil Colonial, é chamada de casa de:",
@@ -1236,6 +1284,7 @@
     },
     {
       "id": 49,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "A casa de pau a pique é feita principalmente com:",
@@ -1261,6 +1310,7 @@
     },
     {
       "id": 50,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Qual destas imagens mostra uma casa de pau a pique?",
@@ -1290,6 +1340,7 @@
     },
     {
       "id": 51,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "A técnica de construção de pau a pique é considerada:",
@@ -1315,6 +1366,7 @@
     },
     {
       "id": 52,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_moradia",
       "pergunta": "Casas de pau a pique ainda podem ser encontradas hoje, principalmente em:",
@@ -1340,6 +1392,7 @@
     },
     {
       "id": 53,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Para encontrar a casa de alguém, qual informação é mais útil?",
@@ -1365,6 +1418,7 @@
     },
     {
       "id": 54,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "O endereço de uma casa deve conter:",
@@ -1390,6 +1444,7 @@
     },
     {
       "id": 55,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Qual destas informações NÃO ajuda a encontrar um endereço?",
@@ -1415,6 +1470,7 @@
     },
     {
       "id": 56,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "O número da casa serve para:",
@@ -1440,6 +1496,7 @@
     },
     {
       "id": 57,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "O bairro é:",
@@ -1465,6 +1522,7 @@
     },
     {
       "id": 58,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Além da rua e do número, uma informação importante do endereço é:",
@@ -1490,6 +1548,7 @@
     },
     {
       "id": 59,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Se alguém perguntar 'Qual é o seu endereço?', a resposta correta é:",
@@ -1515,6 +1574,7 @@
     },
     {
       "id": 60,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Para uma carta chegar até sua casa, o carteiro precisa saber:",
@@ -1540,6 +1600,7 @@
     },
     {
       "id": 61,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Qual destas é uma informação de endereço?",
@@ -1565,6 +1626,7 @@
     },
     {
       "id": 62,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "O nome da cidade em um endereço serve para saber:",
@@ -1590,6 +1652,7 @@
     },
     {
       "id": 63,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Duas casas na mesma rua são diferenciadas principalmente pelo:",
@@ -1615,6 +1678,7 @@
     },
     {
       "id": 64,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Qual destas informações É útil para encontrar um endereço?",
@@ -1640,6 +1704,7 @@
     },
     {
       "id": 65,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Complete: 'Meu endereço é Rua Brasil, número 10, bairro Centro, cidade de...' O que falta dizer?",
@@ -1665,6 +1730,7 @@
     },
     {
       "id": 66,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Marque a alternativa que apresenta um endereço completo:",
@@ -1690,6 +1756,7 @@
     },
     {
       "id": 67,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Se você se perder, a informação mais importante para encontrar sua casa é:",
@@ -1715,6 +1782,7 @@
     },
     {
       "id": 68,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Qual destas NÃO deveria ser usada para descrever um endereço?",
@@ -1740,6 +1808,7 @@
     },
     {
       "id": 69,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "O que significa dizer que uma casa fica na 'Rua das Acácias, número 120'?",
@@ -1765,6 +1834,7 @@
     },
     {
       "id": 70,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Quando mudamos de casa, uma das coisas que mudam é:",
@@ -1790,6 +1860,7 @@
     },
     {
       "id": 71,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Para localizar um lugar em um mapa ou aplicativo de celular, é preciso digitar:",
@@ -1815,6 +1886,7 @@
     },
     {
       "id": 72,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Qual destas frases mostra um endereço correto?",
@@ -1840,6 +1912,7 @@
     },
     {
       "id": 73,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "O nome da rua e o número da casa ajudam a:",
@@ -1865,6 +1938,7 @@
     },
     {
       "id": 74,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Se dois amigos moram na mesma rua, o que diferencia as casas deles é:",
@@ -1890,6 +1964,7 @@
     },
     {
       "id": 75,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Qual destas é a MELHOR forma de explicar onde você mora para alguém que não conhece a região?",
@@ -1915,6 +1990,7 @@
     },
     {
       "id": 76,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "enderecos",
       "pergunta": "Uma entrega (como uma encomenda) só chega certinho na sua casa se tiver:",
@@ -1940,6 +2016,7 @@
     },
     {
       "id": 77,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "mudanca_paisagem",
       "pergunta": "Observe esta imagem. Ela mostra uma casa:",
@@ -1966,6 +2043,7 @@
     },
     {
       "id": 78,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "mudanca_paisagem",
       "pergunta": "Observe esta imagem. Ela mostra casas:",
@@ -1992,6 +2070,7 @@
     },
     {
       "id": 79,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Com o passar do tempo, as paisagens das cidades:",
@@ -2017,6 +2096,7 @@
     },
     {
       "id": 80,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Uma casa antiga, comparada com uma casa nova, geralmente tem:",
@@ -2042,6 +2122,7 @@
     },
     {
       "id": 81,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "As ruas de antigamente, comparadas com as de hoje, muitas vezes:",
@@ -2067,6 +2148,7 @@
     },
     {
       "id": 82,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Um prédio moderno, cheio de vidro e concreto, é exemplo de uma construção:",
@@ -2092,6 +2174,7 @@
     },
     {
       "id": 83,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Fotografias antigas de uma cidade ajudam a:",
@@ -2117,6 +2200,7 @@
     },
     {
       "id": 84,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Quando uma casa antiga é derrubada para construir um prédio novo, isso mostra:",
@@ -2142,6 +2226,7 @@
     },
     {
       "id": 85,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Comparando fotos antigas e atuais de uma mesma rua, podemos perceber:",
@@ -2167,6 +2252,7 @@
     },
     {
       "id": 86,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Uma das razões para as paisagens das cidades mudarem é:",
@@ -2192,6 +2278,7 @@
     },
     {
       "id": 87,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Casas muito antigas, preservadas até hoje, podem se tornar:",
@@ -2217,6 +2304,7 @@
     },
     {
       "id": 88,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "O que costuma ser diferente entre uma rua de 50 anos atrás e uma rua de hoje?",
@@ -2242,6 +2330,7 @@
     },
     {
       "id": 89,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Ao observar uma foto antiga da cidade, notamos que as ruas geralmente tinham:",
@@ -2267,6 +2356,7 @@
     },
     {
       "id": 90,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Um exemplo de mudança na paisagem urbana é:",
@@ -2292,6 +2382,7 @@
     },
     {
       "id": 91,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Uma casa antiga normalmente foi construída:",
@@ -2317,6 +2408,7 @@
     },
     {
       "id": 92,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "As casas e ruas mudam com o tempo principalmente por causa:",
@@ -2342,6 +2434,7 @@
     },
     {
       "id": 93,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Se compararmos uma foto de uma rua de terra, sem carros, com uma foto da mesma rua hoje, asfaltada e cheia de carros, isso mostra:",
@@ -2367,6 +2460,7 @@
     },
     {
       "id": 94,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Guardar fotos antigas da família e da cidade é importante porque:",
@@ -2392,6 +2486,7 @@
     },
     {
       "id": 95,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Uma cidade que só tinha casas baixas e hoje tem muitos prédios altos passou por:",
@@ -2417,6 +2512,7 @@
     },
     {
       "id": 96,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "mudanca_paisagem",
       "pergunta": "Quando os avós contam como era o bairro quando eram crianças, eles estão falando sobre:",
@@ -2442,6 +2538,7 @@
     },
     {
       "id": 97,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Em qual cômodo da casa geralmente preparamos a comida?",
@@ -2467,6 +2564,7 @@
     },
     {
       "id": 98,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Em qual cômodo da casa costumamos dormir?",
@@ -2492,6 +2590,7 @@
     },
     {
       "id": 99,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Em qual cômodo tomamos banho e escovamos os dentes?",
@@ -2517,6 +2616,7 @@
     },
     {
       "id": 100,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Em qual cômodo a família costuma se reunir para assistir TV ou receber visitas?",
@@ -2542,6 +2642,7 @@
     },
     {
       "id": 101,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destes móveis geralmente fica no quarto?",
@@ -2567,6 +2668,7 @@
     },
     {
       "id": 102,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destes objetos geralmente fica na cozinha?",
@@ -2592,6 +2694,7 @@
     },
     {
       "id": 103,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destes objetos geralmente fica no banheiro?",
@@ -2617,6 +2720,7 @@
     },
     {
       "id": 104,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destes móveis geralmente fica na sala?",
@@ -2642,6 +2746,7 @@
     },
     {
       "id": 105,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Onde guardamos as roupas dentro de casa?",
@@ -2667,6 +2772,7 @@
     },
     {
       "id": 106,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Onde ficam a pia e a geladeira, geralmente?",
@@ -2692,6 +2798,7 @@
     },
     {
       "id": 107,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual cômodo é o lugar certo para escovar os dentes?",
@@ -2717,6 +2824,7 @@
     },
     {
       "id": 108,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Em qual cômodo assistimos televisão em família?",
@@ -2742,6 +2850,7 @@
     },
     {
       "id": 109,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Onde cozinhamos o almoço da família?",
@@ -2767,6 +2876,7 @@
     },
     {
       "id": 110,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destas atividades acontece no quarto?",
@@ -2792,6 +2902,7 @@
     },
     {
       "id": 111,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destas atividades acontece no banheiro?",
@@ -2817,6 +2928,7 @@
     },
     {
       "id": 112,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destas atividades acontece na cozinha?",
@@ -2842,6 +2954,7 @@
     },
     {
       "id": 113,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Qual destas atividades acontece na sala?",
@@ -2867,6 +2980,7 @@
     },
     {
       "id": 114,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Uma casa precisa ter, no mínimo, estes cômodos básicos:",
@@ -2892,6 +3006,7 @@
     },
     {
       "id": 115,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "O vaso sanitário e o chuveiro ficam em qual cômodo?",
@@ -2917,6 +3032,7 @@
     },
     {
       "id": 116,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "A cama e o guarda-roupa ficam em qual cômodo?",
@@ -2942,6 +3058,7 @@
     },
     {
       "id": 117,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "O fogão e a geladeira ficam em qual cômodo?",
@@ -2967,6 +3084,7 @@
     },
     {
       "id": 118,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "O sofá e a televisão da família geralmente ficam em qual cômodo?",
@@ -2992,6 +3110,7 @@
     },
     {
       "id": 119,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Se você quer descansar e dormir uma soneca, para qual cômodo deve ir?",
@@ -3017,6 +3136,7 @@
     },
     {
       "id": 120,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "partes_da_casa",
       "pergunta": "Depois de brincar sujo no quintal, antes de comer, você deve ir ao banheiro para:",
@@ -3042,6 +3162,7 @@
     },
     {
       "id": 121,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "O que devemos fazer com o lixo de nossa casa?",
@@ -3067,6 +3188,7 @@
     },
     {
       "id": 122,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Uma boa atitude com os vizinhos é:",
@@ -3092,6 +3214,7 @@
     },
     {
       "id": 123,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Manter a rua e a calçada limpas ajuda:",
@@ -3117,6 +3240,7 @@
     },
     {
       "id": 124,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Se encontramos o cachorro do vizinho perdido, o certo é:",
@@ -3142,6 +3266,7 @@
     },
     {
       "id": 125,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Cumprimentar os vizinhos com um 'bom dia' é uma atitude:",
@@ -3167,6 +3292,7 @@
     },
     {
       "id": 126,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Ajudar um vizinho idoso a carregar as compras é um exemplo de:",
@@ -3192,6 +3318,7 @@
     },
     {
       "id": 127,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Cuidar do jardim e da frente da própria casa ajuda a deixar a rua:",
@@ -3217,6 +3344,7 @@
     },
     {
       "id": 128,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Se um vizinho pedir silêncio porque o bebê dele está dormindo, o certo é:",
@@ -3242,6 +3370,7 @@
     },
     {
       "id": 129,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Separar o lixo reciclável do lixo comum é uma atitude:",
@@ -3267,6 +3396,7 @@
     },
     {
       "id": 130,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Avisar os vizinhos sobre uma festa que você vai fazer é um exemplo de:",
@@ -3292,6 +3422,7 @@
     },
     {
       "id": 131,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Colocar som muito alto durante a noite, incomodando os vizinhos, é uma atitude:",
@@ -3317,6 +3448,7 @@
     },
     {
       "id": 132,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Jogar lixo na rua ou no terreno do vizinho é uma atitude:",
@@ -3342,6 +3474,7 @@
     },
     {
       "id": 133,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Qual destas é uma atitude ruim na vizinhança?",
@@ -3367,6 +3500,7 @@
     },
     {
       "id": 134,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Deixar o lixo acumulado na calçada pode causar:",
@@ -3392,6 +3526,7 @@
     },
     {
       "id": 135,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Qual destas atitudes prejudica a convivência entre vizinhos?",
@@ -3417,6 +3552,7 @@
     },
     {
       "id": 136,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Fazer muito barulho com música alta o dia todo pode:",
@@ -3442,6 +3578,7 @@
     },
     {
       "id": 137,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Sujar a rua com lixo é ruim porque:",
@@ -3467,6 +3604,7 @@
     },
     {
       "id": 138,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Uma vizinhança com muito barulho e lixo espalhado é:",
@@ -3492,6 +3630,7 @@
     },
     {
       "id": 139,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Se alguém joga lixo na rua, o certo a se fazer é:",
@@ -3517,6 +3656,7 @@
     },
     {
       "id": 140,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Manter o volume da televisão ou do som muito alto durante a noite pode atrapalhar:",
@@ -3542,6 +3682,7 @@
     },
     {
       "id": 141,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "A limpeza das ruas do bairro ajuda a:",
@@ -3567,6 +3708,7 @@
     },
     {
       "id": 142,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Varrer a calçada da frente de casa é um exemplo de:",
@@ -3592,6 +3734,7 @@
     },
     {
       "id": 143,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Quando cada família cuida da limpeza da frente de sua casa, o resultado é:",
@@ -3617,6 +3760,7 @@
     },
     {
       "id": 144,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Jogar lixo em rios e córregos pode causar:",
@@ -3642,6 +3786,7 @@
     },
     {
       "id": 145,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Uma boa forma de manter a vizinhança limpa é:",
@@ -3667,6 +3812,7 @@
     },
     {
       "id": 146,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "A coleta de lixo feita pela prefeitura ajuda a:",
@@ -3692,6 +3838,7 @@
     },
     {
       "id": 147,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Quando todos os vizinhos cuidam da limpeza e do silêncio, a convivência tende a ser:",
@@ -3717,6 +3864,7 @@
     },
     {
       "id": 148,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Uma atitude de boa convivência relacionada à limpeza é:",
@@ -3742,6 +3890,7 @@
     },
     {
       "id": 149,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "O barulho excessivo e o lixo jogado fora do lugar são exemplos de:",
@@ -3767,6 +3916,7 @@
     },
     {
       "id": 150,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "Para viver bem em comunidade, é importante:",
@@ -3792,6 +3942,7 @@
     },
     {
       "id": 151,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Acessibilidade significa:",
@@ -3817,6 +3968,7 @@
     },
     {
       "id": 152,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Recursos de acessibilidade ajudam principalmente:",
@@ -3842,6 +3994,7 @@
     },
     {
       "id": 153,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Uma cidade acessível é aquela que:",
@@ -3867,6 +4020,7 @@
     },
     {
       "id": 154,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Qual destas é uma preocupação da acessibilidade?",
@@ -3892,6 +4046,7 @@
     },
     {
       "id": 155,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Pessoas com deficiência visual (que não enxergam ou enxergam pouco) podem ser ajudadas por:",
@@ -3917,6 +4072,7 @@
     },
     {
       "id": 156,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Pessoas que usam cadeira de rodas são ajudadas principalmente por:",
@@ -3942,6 +4098,7 @@
     },
     {
       "id": 157,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "acessibilidade",
       "pergunta": "Observe a imagem. O que ela mostra?",
@@ -3968,6 +4125,7 @@
     },
     {
       "id": 158,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "O braile é um sistema de escrita usado por:",
@@ -3993,6 +4151,7 @@
     },
     {
       "id": 159,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "O braile é lido através:",
@@ -4018,6 +4177,7 @@
     },
     {
       "id": 160,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Em elevadores e caixas eletrônicos, os números em braile ajudam:",
@@ -4043,6 +4203,7 @@
     },
     {
       "id": 161,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "O braile é formado por:",
@@ -4068,6 +4229,7 @@
     },
     {
       "id": 162,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Um lugar acessível para pessoas cegas costuma ter:",
@@ -4093,6 +4255,7 @@
     },
     {
       "id": 163,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "acessibilidade",
       "pergunta": "Observe a imagem. Este equipamento emite um sinal sonoro para ajudar:",
@@ -4119,6 +4282,7 @@
     },
     {
       "id": 164,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "O sinalizador sonoro em semáforos ajuda pessoas cegas a saberem:",
@@ -4144,6 +4308,7 @@
     },
     {
       "id": 165,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Ao ouvir o som do semáforo indicando a travessia, a pessoa com deficiência visual sabe que:",
@@ -4169,6 +4334,7 @@
     },
     {
       "id": 166,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "O sinalizador sonoro é um exemplo de acessibilidade porque:",
@@ -4194,6 +4360,7 @@
     },
     {
       "id": 167,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Sem o sinalizador sonoro, uma pessoa cega teria mais dificuldade para:",
@@ -4219,6 +4386,7 @@
     },
     {
       "id": 168,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Além do som, muitos semáforos acessíveis também têm um botão para:",
@@ -4244,6 +4412,7 @@
     },
     {
       "id": 169,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "acessibilidade",
       "pergunta": "Observe a imagem. Essa parte da calçada, sem degrau, rebaixada até a rua, é chamada de:",
@@ -4270,6 +4439,7 @@
     },
     {
       "id": 170,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "A guia rebaixada serve para facilitar a passagem de:",
@@ -4295,6 +4465,7 @@
     },
     {
       "id": 171,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Sem a guia rebaixada, uma pessoa em cadeira de rodas teria dificuldade para:",
@@ -4320,6 +4491,7 @@
     },
     {
       "id": 172,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "A guia rebaixada fica localizada:",
@@ -4345,6 +4517,7 @@
     },
     {
       "id": 173,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Uma calçada acessível para carrinhos de bebê e cadeiras de rodas deve ter:",
@@ -4370,6 +4543,7 @@
     },
     {
       "id": 174,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "A guia rebaixada evita que as pessoas com dificuldade de locomoção precisem:",
@@ -4395,6 +4569,7 @@
     },
     {
       "id": 175,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "acessibilidade",
       "pergunta": "Observe a imagem. Essa inclinação suave, feita para substituir ou complementar a escada, é chamada de:",
@@ -4421,6 +4596,7 @@
     },
     {
       "id": 176,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "As rampas de acesso são muito importantes para:",
@@ -4446,6 +4622,7 @@
     },
     {
       "id": 177,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Em prédios e escolas acessíveis, além das escadas, também deve haver:",
@@ -4471,6 +4648,7 @@
     },
     {
       "id": 178,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Uma rampa de acesso, comparada com uma escada, tem a vantagem de:",
@@ -4496,6 +4674,7 @@
     },
     {
       "id": 179,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Se uma pessoa em cadeira de rodas precisa entrar em um prédio, ela deve usar:",
@@ -4521,6 +4700,7 @@
     },
     {
       "id": 180,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "acessibilidade",
       "pergunta": "Rampas de acesso, guias rebaixadas, braile e sinal sonoro são todos exemplos de recursos de:",
@@ -4546,6 +4726,7 @@
     },
     {
       "id": 181,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, para se comunicar à distância quando não se tinha telefone em casa, muitas pessoas usavam:",
@@ -4571,6 +4752,7 @@
     },
     {
       "id": 182,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje em dia, é raro ver orelhões nas ruas porque:",
@@ -4596,6 +4778,7 @@
     },
     {
       "id": 183,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, as ruas eram iluminadas à noite por:",
@@ -4621,6 +4804,7 @@
     },
     {
       "id": 184,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, a iluminação pública das ruas é feita principalmente por:",
@@ -4646,6 +4830,7 @@
     },
     {
       "id": 185,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, em muitos lugares, a água usada pelas famílias vinha de:",
@@ -4671,6 +4856,7 @@
     },
     {
       "id": 186,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, a água chega até a maioria das casas através de:",
@@ -4696,6 +4882,7 @@
     },
     {
       "id": 187,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço de comunicação que praticamente não existe mais é:",
@@ -4721,6 +4908,7 @@
     },
     {
       "id": 188,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço que não existia há 30 anos e existe hoje é:",
@@ -4746,6 +4934,7 @@
     },
     {
       "id": 189,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, para saber notícias rapidamente, muitas famílias ouviam:",
@@ -4771,6 +4960,7 @@
     },
     {
       "id": 190,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, além do rádio, muitas pessoas recebem notícias por:",
@@ -4796,6 +4986,7 @@
     },
     {
       "id": 191,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "O transporte público chamado 'bonde', puxado por cavalos ou elétrico, era comum:",
@@ -4821,6 +5012,7 @@
     },
     {
       "id": 192,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, no lugar dos bondes antigos, muitas cidades usam:",
@@ -4846,6 +5038,7 @@
     },
     {
       "id": 193,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço público de saúde que atende emergências rapidamente, e que é mais recente, é:",
@@ -4871,6 +5064,7 @@
     },
     {
       "id": 194,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "A coleta seletiva de lixo (separar o lixo reciclável) é um serviço:",
@@ -4896,6 +5090,7 @@
     },
     {
       "id": 195,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, era comum jogar o esgoto das casas diretamente:",
@@ -4921,6 +5116,7 @@
     },
     {
       "id": 196,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, muitas cidades contam com redes de esgoto que:",
@@ -4946,6 +5142,7 @@
     },
     {
       "id": 197,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um exemplo de serviço público que existe hoje, mas não existia há 100 anos, é:",
@@ -4971,6 +5168,7 @@
     },
     {
       "id": 198,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "As cartas enviadas pelo correio, muito comuns no passado, hoje foram parcialmente substituídas por:",
@@ -4996,6 +5194,7 @@
     },
     {
       "id": 199,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, os telefones públicos (orelhões) eram muito usados porque:",
@@ -5021,6 +5220,7 @@
     },
     {
       "id": 200,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Postos de vacinação organizados em grande escala pela cidade são um serviço público que:",
@@ -5046,6 +5246,7 @@
     },
     {
       "id": 201,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "No passado, muitas famílias buscavam água em poços porque:",
@@ -5071,6 +5272,7 @@
     },
     {
       "id": 202,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço que ficou ultrapassado com a chegada dos celulares é:",
@@ -5096,6 +5298,7 @@
     },
     {
       "id": 203,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "As primeiras formas de iluminação pública, antes da luz elétrica, incluíam:",
@@ -5121,6 +5324,7 @@
     },
     {
       "id": 204,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "A internet nas escolas públicas é um exemplo de serviço que:",
@@ -5146,6 +5350,7 @@
     },
     {
       "id": 205,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, sem caminhões de lixo, a coleta era feita, em alguns lugares, por:",
@@ -5171,6 +5376,7 @@
     },
     {
       "id": 206,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, a coleta de lixo é feita principalmente por:",
@@ -5196,6 +5402,7 @@
     },
     {
       "id": 207,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço de comunicação muito usado no passado, enviado por fios de telégrafo, era:",
@@ -5221,6 +5428,7 @@
     },
     {
       "id": 208,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Câmeras de monitoramento nas ruas, usadas para ajudar na segurança pública, são um serviço:",
@@ -5246,6 +5454,7 @@
     },
     {
       "id": 209,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Comparando o passado e o presente, um serviço público que ainda existe, mas mudou bastante, é:",
@@ -5271,6 +5480,7 @@
     },
     {
       "id": 210,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Estudar os serviços públicos do passado e do presente nos ajuda a entender:",

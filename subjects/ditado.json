@@ -3,6 +3,7 @@
   "questoes": [
     {
       "id": 1,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "casa",
@@ -17,6 +18,7 @@
     },
     {
       "id": 2,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "bola",
@@ -31,6 +33,7 @@
     },
     {
       "id": 3,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "gato",
@@ -45,6 +48,7 @@
     },
     {
       "id": 4,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "sol",
@@ -59,6 +63,7 @@
     },
     {
       "id": 5,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "lua",
@@ -73,6 +78,7 @@
     },
     {
       "id": 6,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "pato",
@@ -87,6 +93,7 @@
     },
     {
       "id": 7,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "mesa",
@@ -101,6 +108,7 @@
     },
     {
       "id": 8,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "flor",
@@ -115,6 +123,7 @@
     },
     {
       "id": 9,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "livro",
@@ -129,6 +138,7 @@
     },
     {
       "id": 10,
+      "periodo": 1,
       "tipo": "ditado",
       "tema": "palavras_simples",
       "palavra": "sapo",

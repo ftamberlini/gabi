@@ -3,6 +3,7 @@
   "questoes": [
     {
       "id": 1,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servico_publico",
       "imagem": "img/local_escola.png",
@@ -17,6 +18,7 @@
     },
     {
       "id": 2,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servico_publico",
       "imagem": "img/local_escola.png",
@@ -31,6 +33,7 @@
     },
     {
       "id": 3,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servico_publico",
       "pergunta": "A água que chega às casas é importante para:",
@@ -44,6 +47,7 @@
     },
     {
       "id": 4,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servico_publico",
       "imagem": "img/servico_luz.png",
@@ -58,6 +62,7 @@
     },
     {
       "id": 5,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servico_publico",
       "pergunta": "Qual destes é um transporte público?",
@@ -71,6 +76,7 @@
     },
     {
       "id": 6,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "servico_publico",
       "imagem": "img/local_escola.png",
@@ -85,6 +91,7 @@
     },
     {
       "id": 7,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "servico_publico",
       "pergunta": "A água encanada que chega até as casas está relacionada a qual serviço?",
@@ -98,6 +105,7 @@
     },
     {
       "id": 8,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "servico_publico",
       "imagem": "img/transporte_onibus.png",
@@ -112,6 +120,7 @@
     },
     {
       "id": 9,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_de_bairros",
       "imagem": "img/residencial.png",
@@ -126,6 +135,7 @@
     },
     {
       "id": 10,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_de_bairros",
       "imagem": "img/comercial.png",
@@ -140,6 +150,7 @@
     },
     {
       "id": 11,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_de_bairros",
       "imagem": "img/industrial.png",
@@ -154,6 +165,7 @@
     },
     {
       "id": 12,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_de_bairros",
       "imagem": "img/residencial.png",
@@ -168,6 +180,7 @@
     },
     {
       "id": 13,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_de_bairros",
       "imagem": "img/comercial.png",
@@ -182,6 +195,7 @@
     },
     {
       "id": 14,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_de_bairros",
       "imagem": "img/industrial.png",
@@ -196,6 +210,7 @@
     },
     {
       "id": 15,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "transportes",
       "pergunta": "Qual destes é um transporte terrestre?",
@@ -209,6 +224,7 @@
     },
     {
       "id": 16,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "transportes",
       "pergunta": "Qual destes é um transporte aéreo?",
@@ -222,6 +238,7 @@
     },
     {
       "id": 17,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "transportes",
       "pergunta": "Qual destes é um transporte aquático?",
@@ -235,6 +252,7 @@
     },
     {
       "id": 18,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "transportes",
       "imagem": "img/transporte_carro.png",
@@ -249,6 +267,7 @@
     },
     {
       "id": 19,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "transportes",
       "imagem": "img/transporte_aviao.png",
@@ -263,6 +282,7 @@
     },
     {
       "id": 20,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "transportes",
       "imagem": "img/transporte_navio.png",
@@ -277,6 +297,7 @@
     },
     {
       "id": 21,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "tipos_de_bairros",
       "imagem": "img/comercial_residencial.png",
@@ -291,6 +312,7 @@
     },
     {
       "id": 22,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "servico_publico",
       "pergunta": "Marque todas as imagens que representam serviços públicos de saneamento (cuidam da limpeza e da saúde da cidade):",
@@ -304,6 +326,7 @@
     },
     {
       "id": 23,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "servico_publico",
       "pergunta": "Marque todas as imagens que representam serviços públicos ligados à segurança e à iluminação da cidade:",
@@ -317,6 +340,7 @@
     },
     {
       "id": 24,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "servico_publico",
       "pergunta": "Marque todas as imagens que mostram serviços públicos oferecidos pela prefeitura para toda a população:",
@@ -330,6 +354,7 @@
     },
     {
       "id": 25,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "transportes",
       "pergunta": "Marque todas as imagens que mostram transportes públicos (usados por várias pessoas ao mesmo tempo):",
@@ -345,6 +370,7 @@
     },
     {
       "id": 26,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "transportes",
       "pergunta": "Marque todas as imagens que mostram transportes aéreos:",
@@ -358,6 +384,7 @@
     },
     {
       "id": 27,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "transportes",
       "pergunta": "Marque todas as imagens que mostram transportes terrestres:",
@@ -373,6 +400,7 @@
     },
     {
       "id": 28,
+      "periodo": 1,
       "tipo": "multipla_resposta",
       "tema": "transportes",
       "pergunta": "Marque todas as imagens que mostram transportes aquáticos:",
@@ -388,6 +416,7 @@
     },
     {
       "id": 29,
+      "periodo": 1,
       "tipo": "completar_lacuna",
       "tema": "atividades_economicas",
       "imagem": "img/industrial.png",
@@ -402,6 +431,7 @@
     },
     {
       "id": 30,
+      "periodo": 1,
       "tipo": "completar_lacuna",
       "tema": "atividades_economicas",
       "imagem": "img/local_mercado.png",
@@ -416,6 +446,7 @@
     },
     {
       "id": 31,
+      "periodo": 1,
       "tipo": "completar_lacuna",
       "tema": "atividades_economicas",
       "imagem": "img/local_hospital.png",
@@ -430,6 +461,7 @@
     },
     {
       "id": 32,
+      "periodo": 1,
       "tipo": "completar_lacuna",
       "tema": "atividades_economicas",
       "imagem": "img/comercial.png",
@@ -444,6 +476,7 @@
     },
     {
       "id": 33,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "servico_publico",
       "imagem": "img/servico_coleta_lixto.png",
@@ -458,6 +491,7 @@
     },
     {
       "id": 34,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "servico_publico",
       "imagem": "img/servico_esgoto.png",
@@ -472,6 +506,7 @@
     },
     {
       "id": 35,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "servico_publico",
       "imagem": "img/servico_luz.png",
@@ -486,6 +521,7 @@
     },
     {
       "id": 36,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "servico_publico",
       "imagem": "img/servico_seguranca.png",
@@ -500,6 +536,7 @@
     },
     {
       "id": 37,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_de_bairros",
       "imagem": "img/residencial.png",
@@ -514,6 +551,7 @@
     },
     {
       "id": 38,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_de_bairros",
       "imagem": "img/comercial.png",
@@ -525,6 +563,1707 @@
         {"id": "D", "texto": "Moradias"}
       ],
       "resposta": "B"
+    },
+    {
+      "id": 39,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/quarto.svg",
+      "pergunta": "Observe a imagem. Que cômodo da casa é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Banheiro"},
+        {"id": "B", "texto": "Cozinha"},
+        {"id": "C", "texto": "Sala"},
+        {"id": "D", "texto": "Quarto"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 40,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/sala.svg",
+      "pergunta": "Observe a imagem. Que cômodo da casa é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Quarto"},
+        {"id": "B", "texto": "Sala"},
+        {"id": "C", "texto": "Banheiro"},
+        {"id": "D", "texto": "Cozinha"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 41,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/cozinha.svg",
+      "pergunta": "Observe a imagem. Que cômodo da casa é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Sala"},
+        {"id": "B", "texto": "Quarto"},
+        {"id": "C", "texto": "Cozinha"},
+        {"id": "D", "texto": "Banheiro"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 42,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/banheiro.svg",
+      "pergunta": "Observe a imagem. Que cômodo da casa é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Quarto"},
+        {"id": "B", "texto": "Banheiro"},
+        {"id": "C", "texto": "Cozinha"},
+        {"id": "D", "texto": "Sala"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 43,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "pergunta": "Em qual cômodo da casa costumamos dormir e descansar?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/quarto.svg", "texto": "Quarto"},
+        {"id": "B", "imagem": "img/geografia/banheiro.svg", "texto": "Banheiro"},
+        {"id": "C", "imagem": "img/geografia/cozinha.svg", "texto": "Cozinha"},
+        {"id": "D", "imagem": "img/geografia/sala.svg", "texto": "Sala"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 44,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "pergunta": "Em qual cômodo da casa preparamos as refeições?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/cozinha.svg", "texto": "Cozinha"},
+        {"id": "B", "imagem": "img/geografia/sala.svg", "texto": "Sala"},
+        {"id": "C", "imagem": "img/geografia/banheiro.svg", "texto": "Banheiro"},
+        {"id": "D", "imagem": "img/geografia/quarto.svg", "texto": "Quarto"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 45,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "pergunta": "Em qual cômodo tomamos banho e escovamos os dentes?",
+      "alternativas": [
+        {"id": "A", "texto": "Sala"},
+        {"id": "B", "texto": "Quarto"},
+        {"id": "C", "texto": "Cozinha"},
+        {"id": "D", "texto": "Banheiro"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 46,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "pergunta": "Em qual cômodo a família costuma se reunir para conversar, receber visitas e assistir televisão?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/quarto.svg", "texto": "Quarto"},
+        {"id": "B", "imagem": "img/geografia/sala.svg", "texto": "Sala"},
+        {"id": "C", "imagem": "img/geografia/banheiro.svg", "texto": "Banheiro"},
+        {"id": "D", "imagem": "img/geografia/cozinha.svg", "texto": "Cozinha"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 47,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "imagem": "🛏️",
+      "pergunta": "A cama, o travesseiro e o guarda-roupa ficam em qual cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Banheiro"},
+        {"id": "B", "texto": "Quarto"},
+        {"id": "C", "texto": "Sala"},
+        {"id": "D", "texto": "Cozinha"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 48,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "imagem": "🍳",
+      "pergunta": "O fogão, a geladeira e a pia de lavar louça ficam em qual cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Sala"},
+        {"id": "B", "texto": "Banheiro"},
+        {"id": "C", "texto": "Quarto"},
+        {"id": "D", "texto": "Cozinha"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 49,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "imagem": "🚿",
+      "pergunta": "O chuveiro, o vaso sanitário e a escova de dentes ficam em qual cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Banheiro"},
+        {"id": "B", "texto": "Quarto"},
+        {"id": "C", "texto": "Sala"},
+        {"id": "D", "texto": "Cozinha"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 50,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "imagem": "🛋️",
+      "pergunta": "O sofá e a televisão costumam ficar em qual cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Cozinha"},
+        {"id": "B", "texto": "Banheiro"},
+        {"id": "C", "texto": "Quarto"},
+        {"id": "D", "texto": "Sala"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 51,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/cozinha.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Tomamos banho"},
+        {"id": "B", "texto": "Guardamos as roupas"},
+        {"id": "C", "texto": "Dormimos"},
+        {"id": "D", "texto": "Cozinhamos e lavamos a louça"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 52,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/quarto.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Dormimos e descansamos"},
+        {"id": "B", "texto": "Cozinhamos o almoço"},
+        {"id": "C", "texto": "Lavamos a louça"},
+        {"id": "D", "texto": "Tomamos banho"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 53,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/banheiro.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Dormimos"},
+        {"id": "B", "texto": "Tomamos banho e escovamos os dentes"},
+        {"id": "C", "texto": "Preparamos o jantar"},
+        {"id": "D", "texto": "Assistimos televisão"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 54,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "comodos_casa",
+      "imagem": "img/geografia/sala.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste cômodo?",
+      "alternativas": [
+        {"id": "A", "texto": "Tomamos banho"},
+        {"id": "B", "texto": "Escovamos os dentes"},
+        {"id": "C", "texto": "Cozinhamos"},
+        {"id": "D", "texto": "Conversamos com a família e assistimos televisão"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 55,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "pergunta": "Qual destes objetos NÃO costuma ficar no banheiro?",
+      "alternativas": [
+        {"id": "A", "texto": "Chuveiro"},
+        {"id": "B", "texto": "Toalha"},
+        {"id": "C", "texto": "Fogão"},
+        {"id": "D", "texto": "Pia"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 56,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "pergunta": "Qual destes objetos NÃO costuma ficar no quarto?",
+      "alternativas": [
+        {"id": "A", "texto": "Guarda-roupa"},
+        {"id": "B", "texto": "Travesseiro"},
+        {"id": "C", "texto": "Cama"},
+        {"id": "D", "texto": "Vaso sanitário"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 57,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "comodos_casa",
+      "imagem": "🪥",
+      "pergunta": "Gabi acordou, foi lavar o rosto e escovar os dentes. Para qual cômodo ela foi?",
+      "alternativas": [
+        {"id": "A", "texto": "Banheiro"},
+        {"id": "B", "texto": "Cozinha"},
+        {"id": "C", "texto": "Sala"},
+        {"id": "D", "texto": "Quarto"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 58,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/sala_de_aula.svg",
+      "pergunta": "Observe a imagem. Que ambiente da escola é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Biblioteca"},
+        {"id": "B", "texto": "Refeitório"},
+        {"id": "C", "texto": "Sala de aula"},
+        {"id": "D", "texto": "Ginásio"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 59,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/biblioteca.svg",
+      "pergunta": "Observe a imagem. Que ambiente da escola é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Refeitório"},
+        {"id": "B", "texto": "Biblioteca"},
+        {"id": "C", "texto": "Sala de aula"},
+        {"id": "D", "texto": "Ginásio"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 60,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/ginasio.svg",
+      "pergunta": "Observe a imagem. Que ambiente da escola é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Biblioteca"},
+        {"id": "B", "texto": "Ginásio"},
+        {"id": "C", "texto": "Refeitório"},
+        {"id": "D", "texto": "Sala de aula"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 61,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/refeitorio.svg",
+      "pergunta": "Observe a imagem. Que ambiente da escola é este?",
+      "alternativas": [
+        {"id": "A", "texto": "Sala de aula"},
+        {"id": "B", "texto": "Biblioteca"},
+        {"id": "C", "texto": "Ginásio"},
+        {"id": "D", "texto": "Refeitório"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 62,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "pergunta": "Em qual ambiente da escola os alunos estudam com a professora?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/sala_de_aula.svg", "texto": "Sala de aula"},
+        {"id": "B", "imagem": "img/geografia/refeitorio.svg", "texto": "Refeitório"},
+        {"id": "C", "imagem": "img/geografia/biblioteca.svg", "texto": "Biblioteca"},
+        {"id": "D", "imagem": "img/geografia/ginasio.svg", "texto": "Ginásio"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 63,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "pergunta": "Em qual ambiente da escola lemos e pegamos livros emprestados?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/ginasio.svg", "texto": "Ginásio"},
+        {"id": "B", "imagem": "img/geografia/sala_de_aula.svg", "texto": "Sala de aula"},
+        {"id": "C", "imagem": "img/geografia/refeitorio.svg", "texto": "Refeitório"},
+        {"id": "D", "imagem": "img/geografia/biblioteca.svg", "texto": "Biblioteca"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 64,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "pergunta": "Em qual ambiente da escola praticamos esportes e fazemos aula de Educação Física?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/ginasio.svg", "texto": "Ginásio"},
+        {"id": "B", "imagem": "img/geografia/refeitorio.svg", "texto": "Refeitório"},
+        {"id": "C", "imagem": "img/geografia/biblioteca.svg", "texto": "Biblioteca"},
+        {"id": "D", "imagem": "img/geografia/sala_de_aula.svg", "texto": "Sala de aula"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 65,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "pergunta": "Em qual ambiente da escola os alunos fazem o lanche e as refeições?",
+      "alternativas": [
+        {"id": "A", "texto": "Refeitório"},
+        {"id": "B", "texto": "Biblioteca"},
+        {"id": "C", "texto": "Ginásio"},
+        {"id": "D", "texto": "Sala de aula"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 66,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/biblioteca.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Almoçamos"},
+        {"id": "B", "texto": "Lemos livros em silêncio"},
+        {"id": "C", "texto": "Corremos e gritamos"},
+        {"id": "D", "texto": "Jogamos bola"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 67,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/ginasio.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Jogamos bola, corremos e praticamos esportes"},
+        {"id": "B", "texto": "Fazemos a prova"},
+        {"id": "C", "texto": "Almoçamos"},
+        {"id": "D", "texto": "Lemos em silêncio"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 68,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/refeitorio.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Fazemos o lanche e as refeições"},
+        {"id": "B", "texto": "Jogamos basquete"},
+        {"id": "C", "texto": "Pegamos livros emprestados"},
+        {"id": "D", "texto": "Fazemos a aula de Educação Física"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 69,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "ambientes_escola",
+      "imagem": "img/geografia/sala_de_aula.svg",
+      "pergunta": "Observe a imagem. O que fazemos neste ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Almoçamos"},
+        {"id": "B", "texto": "Dormimos"},
+        {"id": "C", "texto": "Estudamos, lemos e escrevemos com a professora"},
+        {"id": "D", "texto": "Jogamos futebol"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 70,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "imagem": "📚",
+      "pergunta": "Estantes cheias de livros e mesas para leitura ficam em qual ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Ginásio"},
+        {"id": "B", "texto": "Refeitório"},
+        {"id": "C", "texto": "Biblioteca"},
+        {"id": "D", "texto": "Sala de aula"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 71,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "imagem": "🏀",
+      "pergunta": "A cesta de basquete, a bola e a arquibancada ficam em qual ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Biblioteca"},
+        {"id": "B", "texto": "Sala de aula"},
+        {"id": "C", "texto": "Refeitório"},
+        {"id": "D", "texto": "Ginásio"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 72,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "imagem": "🍽️",
+      "pergunta": "Bandejas, pratos, talheres e o cardápio do dia ficam em qual ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Ginásio"},
+        {"id": "B", "texto": "Refeitório"},
+        {"id": "C", "texto": "Biblioteca"},
+        {"id": "D", "texto": "Sala de aula"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 73,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "imagem": "✏️",
+      "pergunta": "A lousa, as carteiras e a mesa da professora ficam em qual ambiente da escola?",
+      "alternativas": [
+        {"id": "A", "texto": "Sala de aula"},
+        {"id": "B", "texto": "Ginásio"},
+        {"id": "C", "texto": "Refeitório"},
+        {"id": "D", "texto": "Biblioteca"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 74,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "ambientes_escola",
+      "pergunta": "Como devemos nos comportar na biblioteca?",
+      "alternativas": [
+        {"id": "A", "texto": "Gritar e correr"},
+        {"id": "B", "texto": "Fazer silêncio e cuidar bem dos livros"},
+        {"id": "C", "texto": "Comer e deixar sujeira nas mesas"},
+        {"id": "D", "texto": "Rabiscar os livros"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 75,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/iglu.svg",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "alternativas": [
+        {"id": "A", "texto": "Palafita"},
+        {"id": "B", "texto": "Barraco"},
+        {"id": "C", "texto": "Pau-a-pique"},
+        {"id": "D", "texto": "Iglu"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 76,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/tenda.svg",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "alternativas": [
+        {"id": "A", "texto": "Iglu"},
+        {"id": "B", "texto": "Tenda"},
+        {"id": "C", "texto": "Pau-a-pique"},
+        {"id": "D", "texto": "Oca"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 77,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/barraco.svg",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "alternativas": [
+        {"id": "A", "texto": "Iglu"},
+        {"id": "B", "texto": "Barraco"},
+        {"id": "C", "texto": "Palafita"},
+        {"id": "D", "texto": "Pau-a-pique"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 78,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_oca.jpg",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "alternativas": [
+        {"id": "A", "texto": "Tenda"},
+        {"id": "B", "texto": "Iglu"},
+        {"id": "C", "texto": "Palafita"},
+        {"id": "D", "texto": "Oca"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 79,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_palafita.jpg",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "alternativas": [
+        {"id": "A", "texto": "Oca"},
+        {"id": "B", "texto": "Pau-a-pique"},
+        {"id": "C", "texto": "Barraco"},
+        {"id": "D", "texto": "Palafita"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 80,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_pau_a_pique.jpg",
+      "pergunta": "Observe a imagem. Que tipo de moradia é esta?",
+      "alternativas": [
+        {"id": "A", "texto": "Pau-a-pique"},
+        {"id": "B", "texto": "Oca"},
+        {"id": "C", "texto": "Palafita"},
+        {"id": "D", "texto": "Barraco"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 81,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/iglu.svg",
+      "pergunta": "Quem constrói iglus para se abrigar?",
+      "alternativas": [
+        {"id": "A", "texto": "Os beduínos do deserto"},
+        {"id": "B", "texto": "Os inuítes, povos que vivem nas regiões geladas do Ártico"},
+        {"id": "C", "texto": "Os ribeirinhos"},
+        {"id": "D", "texto": "Os povos indígenas da Amazônia"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 82,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/iglu.svg",
+      "pergunta": "Com que material o iglu é construído?",
+      "alternativas": [
+        {"id": "A", "texto": "Blocos de gelo e neve"},
+        {"id": "B", "texto": "Tecido e couro"},
+        {"id": "C", "texto": "Tijolos e cimento"},
+        {"id": "D", "texto": "Madeira e palha"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 83,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/tenda.svg",
+      "pergunta": "Quem costuma morar em tendas e mudar de lugar com frequência?",
+      "alternativas": [
+        {"id": "A", "texto": "Povos nômades, como os beduínos do deserto"},
+        {"id": "B", "texto": "Os inuítes do Ártico"},
+        {"id": "C", "texto": "Os ribeirinhos da Amazônia"},
+        {"id": "D", "texto": "Pessoas que moram em prédios"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 84,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/tenda.svg",
+      "pergunta": "Com que materiais a tenda é feita?",
+      "alternativas": [
+        {"id": "A", "texto": "Blocos de gelo"},
+        {"id": "B", "texto": "Tijolos e cimento"},
+        {"id": "C", "texto": "Barro e varas de bambu"},
+        {"id": "D", "texto": "Tecido ou couro de animais, preso em estacas de madeira"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 85,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_oca.jpg",
+      "pergunta": "A oca é a moradia tradicional de qual povo?",
+      "alternativas": [
+        {"id": "A", "texto": "Beduínos"},
+        {"id": "B", "texto": "Moradores da cidade grande"},
+        {"id": "C", "texto": "Inuítes"},
+        {"id": "D", "texto": "Povos indígenas"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 86,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_oca.jpg",
+      "pergunta": "Com que materiais a oca é construída?",
+      "alternativas": [
+        {"id": "A", "texto": "Telhas de zinco e papelão"},
+        {"id": "B", "texto": "Madeira, cipó e palha ou folhas de palmeira"},
+        {"id": "C", "texto": "Tijolos e vidro"},
+        {"id": "D", "texto": "Blocos de gelo"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 87,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_palafita.jpg",
+      "pergunta": "Quem costuma morar em palafitas?",
+      "alternativas": [
+        {"id": "A", "texto": "Os inuítes do Ártico"},
+        {"id": "B", "texto": "Os beduínos do deserto"},
+        {"id": "C", "texto": "Os povos nômades"},
+        {"id": "D", "texto": "Os ribeirinhos, que vivem perto de rios e mangues"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 88,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_palafita.jpg",
+      "pergunta": "Por que a palafita é construída sobre estacas, acima da água?",
+      "alternativas": [
+        {"id": "A", "texto": "Porque é feita de gelo"},
+        {"id": "B", "texto": "Para os animais morarem embaixo"},
+        {"id": "C", "texto": "Para a casa não ser alagada quando o rio enche"},
+        {"id": "D", "texto": "Para ficar mais perto do sol"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 89,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Com que material a palafita é construída?",
+      "alternativas": [
+        {"id": "A", "texto": "Blocos de gelo"},
+        {"id": "B", "texto": "Barro e palha de palmeira"},
+        {"id": "C", "texto": "Madeira, com estacas fincadas na água ou na lama"},
+        {"id": "D", "texto": "Tecido e couro"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 90,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_pau_a_pique.jpg",
+      "pergunta": "Com que materiais a casa de pau-a-pique é feita?",
+      "alternativas": [
+        {"id": "A", "texto": "Varas de madeira ou bambu entrelaçadas e cobertas com barro"},
+        {"id": "B", "texto": "Blocos de gelo e neve"},
+        {"id": "C", "texto": "Vidro e aço"},
+        {"id": "D", "texto": "Tecido e couro de animais"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 91,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/moradia_pau_a_pique.jpg",
+      "pergunta": "Onde é mais comum encontrar casas de pau-a-pique?",
+      "alternativas": [
+        {"id": "A", "texto": "No centro das grandes cidades"},
+        {"id": "B", "texto": "Na zona rural, no interior do Brasil, construídas por famílias do campo"},
+        {"id": "C", "texto": "No deserto, entre os povos nômades"},
+        {"id": "D", "texto": "No Ártico, onde faz muito frio"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 92,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/barraco.svg",
+      "pergunta": "Com que materiais o barraco costuma ser feito?",
+      "alternativas": [
+        {"id": "A", "texto": "Palha de palmeira e cipó"},
+        {"id": "B", "texto": "Blocos de gelo"},
+        {"id": "C", "texto": "Restos de madeira, papelão, lona ou telhas de zinco"},
+        {"id": "D", "texto": "Tecido e couro de animais"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 93,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "tipos_moradia",
+      "imagem": "img/geografia/barraco.svg",
+      "pergunta": "Quem costuma morar em barracos?",
+      "alternativas": [
+        {"id": "A", "texto": "Os inuítes do Ártico"},
+        {"id": "B", "texto": "Os povos nômades do deserto"},
+        {"id": "C", "texto": "Famílias com pouco dinheiro, que muitas vezes vivem em comunidades ou em áreas de risco"},
+        {"id": "D", "texto": "Os povos indígenas nas aldeias"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 94,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas moradias é construída com blocos de gelo?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/tenda.svg", "texto": "Tenda"},
+        {"id": "B", "imagem": "img/moradia_oca.jpg", "texto": "Oca"},
+        {"id": "C", "imagem": "img/moradia_palafita.jpg", "texto": "Palafita"},
+        {"id": "D", "imagem": "img/geografia/iglu.svg", "texto": "Iglu"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 95,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas moradias é construída sobre estacas, acima da água?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/moradia_palafita.jpg", "texto": "Palafita"},
+        {"id": "B", "imagem": "img/moradia_oca.jpg", "texto": "Oca"},
+        {"id": "C", "imagem": "img/geografia/iglu.svg", "texto": "Iglu"},
+        {"id": "D", "imagem": "img/geografia/tenda.svg", "texto": "Tenda"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 96,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas moradias é feita de varas de madeira cobertas com barro?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/iglu.svg", "texto": "Iglu"},
+        {"id": "B", "imagem": "img/moradia_pau_a_pique.jpg", "texto": "Pau-a-pique"},
+        {"id": "C", "imagem": "img/geografia/tenda.svg", "texto": "Tenda"},
+        {"id": "D", "imagem": "img/geografia/barraco.svg", "texto": "Barraco"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 97,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas moradias pode ser desmontada e levada para outro lugar pelos povos nômades?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/moradia_palafita.jpg", "texto": "Palafita"},
+        {"id": "B", "imagem": "img/moradia_oca.jpg", "texto": "Oca"},
+        {"id": "C", "imagem": "img/moradia_pau_a_pique.jpg", "texto": "Pau-a-pique"},
+        {"id": "D", "imagem": "img/geografia/tenda.svg", "texto": "Tenda"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 98,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "tipos_moradia",
+      "pergunta": "Qual destas moradias é a casa tradicional dos povos indígenas?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/iglu.svg", "texto": "Iglu"},
+        {"id": "B", "imagem": "img/geografia/tenda.svg", "texto": "Tenda"},
+        {"id": "C", "imagem": "img/moradia_oca.jpg", "texto": "Oca"},
+        {"id": "D", "imagem": "img/geografia/barraco.svg", "texto": "Barraco"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 99,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/arquiteto.svg",
+      "pergunta": "Observe a imagem. Qual é o profissional da construção?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Eletricista"},
+        {"id": "C", "texto": "Arquiteto"},
+        {"id": "D", "texto": "Pedreiro"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 100,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/pedreiro.svg",
+      "pergunta": "Observe a imagem. Qual é o profissional da construção?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Eletricista"},
+        {"id": "C", "texto": "Pedreiro"},
+        {"id": "D", "texto": "Arquiteto"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 101,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/eletricista.svg",
+      "pergunta": "Observe a imagem. Qual é o profissional da construção?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Pedreiro"},
+        {"id": "C", "texto": "Arquiteto"},
+        {"id": "D", "texto": "Eletricista"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 102,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/encanador.svg",
+      "pergunta": "Observe a imagem. Qual é o profissional da construção?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Eletricista"},
+        {"id": "C", "texto": "Arquiteto"},
+        {"id": "D", "texto": "Pedreiro"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 103,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Qual profissional planeja e desenha a construção?",
+      "alternativas": [
+        {"id": "A", "texto": "Eletricista"},
+        {"id": "B", "texto": "Pedreiro"},
+        {"id": "C", "texto": "Arquiteto"},
+        {"id": "D", "texto": "Encanador"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 104,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Qual profissional constrói paredes e assenta tijolos?",
+      "alternativas": [
+        {"id": "A", "texto": "Eletricista"},
+        {"id": "B", "texto": "Arquiteto"},
+        {"id": "C", "texto": "Encanador"},
+        {"id": "D", "texto": "Pedreiro"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 105,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Qual profissional cuida das instalações elétricas?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Pedreiro"},
+        {"id": "C", "texto": "Arquiteto"},
+        {"id": "D", "texto": "Eletricista"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 106,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Qual profissional trabalha com os canos de água?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Pedreiro"},
+        {"id": "C", "texto": "Arquiteto"},
+        {"id": "D", "texto": "Eletricista"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 107,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Quem planeja e desenha a construção?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/pedreiro.svg", "texto": "Pedreiro"},
+        {"id": "B", "imagem": "img/geografia/eletricista.svg", "texto": "Eletricista"},
+        {"id": "C", "imagem": "img/geografia/arquiteto.svg", "texto": "Arquiteto"},
+        {"id": "D", "imagem": "img/geografia/encanador.svg", "texto": "Encanador"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 108,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Quem constrói paredes e assenta tijolos?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/arquiteto.svg", "texto": "Arquiteto"},
+        {"id": "B", "imagem": "img/geografia/encanador.svg", "texto": "Encanador"},
+        {"id": "C", "imagem": "img/geografia/pedreiro.svg", "texto": "Pedreiro"},
+        {"id": "D", "imagem": "img/geografia/eletricista.svg", "texto": "Eletricista"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 109,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Quem cuida das instalações elétricas?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/encanador.svg", "texto": "Encanador"},
+        {"id": "B", "imagem": "img/geografia/arquiteto.svg", "texto": "Arquiteto"},
+        {"id": "C", "imagem": "img/geografia/pedreiro.svg", "texto": "Pedreiro"},
+        {"id": "D", "imagem": "img/geografia/eletricista.svg", "texto": "Eletricista"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 110,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "pergunta": "Quem trabalha com os canos de água?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/pedreiro.svg", "texto": "Pedreiro"},
+        {"id": "B", "imagem": "img/geografia/arquiteto.svg", "texto": "Arquiteto"},
+        {"id": "C", "imagem": "img/geografia/eletricista.svg", "texto": "Eletricista"},
+        {"id": "D", "imagem": "img/geografia/encanador.svg", "texto": "Encanador"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 111,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "imagem": "💡",
+      "pergunta": "A lâmpada da casa não acende porque um fio se soltou. Qual profissional devemos chamar?",
+      "alternativas": [
+        {"id": "A", "texto": "Arquiteto"},
+        {"id": "B", "texto": "Pedreiro"},
+        {"id": "C", "texto": "Eletricista"},
+        {"id": "D", "texto": "Encanador"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 112,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "imagem": "🚰",
+      "pergunta": "O cano da pia está vazando água. Qual profissional devemos chamar?",
+      "alternativas": [
+        {"id": "A", "texto": "Pedreiro"},
+        {"id": "B", "texto": "Arquiteto"},
+        {"id": "C", "texto": "Encanador"},
+        {"id": "D", "texto": "Eletricista"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 113,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "imagem": "📐",
+      "pergunta": "Antes de começar a obra, quem faz a planta (o desenho) da casa?",
+      "alternativas": [
+        {"id": "A", "texto": "Encanador"},
+        {"id": "B", "texto": "Arquiteto"},
+        {"id": "C", "texto": "Eletricista"},
+        {"id": "D", "texto": "Pedreiro"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 114,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissionais_construcao",
+      "imagem": "🧱",
+      "pergunta": "A família quer levantar um muro de tijolos no quintal. Qual profissional deve fazer esse trabalho?",
+      "alternativas": [
+        {"id": "A", "texto": "Arquiteto"},
+        {"id": "B", "texto": "Pedreiro"},
+        {"id": "C", "texto": "Encanador"},
+        {"id": "D", "texto": "Eletricista"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 115,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/pedreiro.svg",
+      "pergunta": "Observe a imagem. O que este profissional faz?",
+      "alternativas": [
+        {"id": "A", "texto": "Conserta os canos de água"},
+        {"id": "B", "texto": "Conserta os fios de luz"},
+        {"id": "C", "texto": "Desenha a planta da casa"},
+        {"id": "D", "texto": "Constrói paredes e assenta tijolos"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 116,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/arquiteto.svg",
+      "pergunta": "Observe a imagem. O que este profissional faz?",
+      "alternativas": [
+        {"id": "A", "texto": "Troca os canos"},
+        {"id": "B", "texto": "Assenta tijolos"},
+        {"id": "C", "texto": "Planeja e desenha a construção"},
+        {"id": "D", "texto": "Instala as tomadas"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 117,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/eletricista.svg",
+      "pergunta": "Observe a imagem. O que este profissional faz?",
+      "alternativas": [
+        {"id": "A", "texto": "Cuida das instalações elétricas"},
+        {"id": "B", "texto": "Assenta tijolos"},
+        {"id": "C", "texto": "Conserta os canos de água"},
+        {"id": "D", "texto": "Desenha a planta da casa"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 118,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissionais_construcao",
+      "imagem": "img/geografia/encanador.svg",
+      "pergunta": "Observe a imagem. O que este profissional faz?",
+      "alternativas": [
+        {"id": "A", "texto": "Trabalha com os canos de água"},
+        {"id": "B", "texto": "Levanta as paredes"},
+        {"id": "C", "texto": "Desenha a construção"},
+        {"id": "D", "texto": "Cuida dos fios de luz"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 119,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🏠",
+      "pergunta": "Por que as pessoas precisam de uma moradia?",
+      "alternativas": [
+        {"id": "A", "texto": "Só para assistir televisão"},
+        {"id": "B", "texto": "Para se proteger do frio, da chuva e do sol, descansar e viver com a família"},
+        {"id": "C", "texto": "Apenas para guardar brinquedos"},
+        {"id": "D", "texto": "As pessoas não precisam de moradia"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 120,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "pergunta": "Quem tem direito a uma moradia?",
+      "alternativas": [
+        {"id": "A", "texto": "Somente os adultos"},
+        {"id": "B", "texto": "Ninguém tem esse direito"},
+        {"id": "C", "texto": "Somente as pessoas ricas"},
+        {"id": "D", "texto": "Todas as pessoas têm direito a uma moradia digna"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 121,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "pergunta": "Todas as pessoas têm uma casa para morar?",
+      "alternativas": [
+        {"id": "A", "texto": "Sim, todas as pessoas do mundo têm casa"},
+        {"id": "B", "texto": "Não, porque só algumas pessoas têm direito à moradia"},
+        {"id": "C", "texto": "Sim, só não tem casa quem não quer"},
+        {"id": "D", "texto": "Não. Todos têm direito à moradia, mas muitas pessoas ainda não têm onde morar"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 122,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "pergunta": "Como chamamos as pessoas que não têm casa e precisam viver nas ruas?",
+      "alternativas": [
+        {"id": "A", "texto": "Moradores de prédio"},
+        {"id": "B", "texto": "Turistas"},
+        {"id": "C", "texto": "Pessoas em situação de rua"},
+        {"id": "D", "texto": "Vizinhos"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 123,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🤝",
+      "pergunta": "O que é ser solidário?",
+      "alternativas": [
+        {"id": "A", "texto": "Rir de quem precisa de ajuda"},
+        {"id": "B", "texto": "Pensar só em si mesmo"},
+        {"id": "C", "texto": "Guardar tudo só para si"},
+        {"id": "D", "texto": "Ajudar quem precisa, sem esperar nada em troca"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 124,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "pergunta": "Qual atitude é um exemplo de solidariedade?",
+      "alternativas": [
+        {"id": "A", "texto": "Desperdiçar comida"},
+        {"id": "B", "texto": "Jogar fora roupas que ainda servem"},
+        {"id": "C", "texto": "Doar roupas e cobertores para quem precisa"},
+        {"id": "D", "texto": "Ignorar quem pede ajuda"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 125,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🧥",
+      "pergunta": "A turma da escola arrecadou agasalhos e alimentos para famílias que precisam. Essa atitude mostra:",
+      "alternativas": [
+        {"id": "A", "texto": "Desperdício"},
+        {"id": "B", "texto": "Solidariedade"},
+        {"id": "C", "texto": "Desrespeito"},
+        {"id": "D", "texto": "Egoísmo"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 126,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🧹",
+      "pergunta": "Como podemos cuidar da nossa casa?",
+      "alternativas": [
+        {"id": "A", "texto": "Riscando as paredes"},
+        {"id": "B", "texto": "Mantendo tudo limpo e organizado e guardando os brinquedos"},
+        {"id": "C", "texto": "Quebrando os móveis"},
+        {"id": "D", "texto": "Deixando o lixo espalhado"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 127,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🚰",
+      "pergunta": "Qual atitude ajuda a economizar água?",
+      "alternativas": [
+        {"id": "A", "texto": "Lavar a calçada com a mangueira todo dia"},
+        {"id": "B", "texto": "Fechar a torneira enquanto escova os dentes"},
+        {"id": "C", "texto": "Tomar banhos bem demorados"},
+        {"id": "D", "texto": "Deixar a torneira aberta"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 128,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "💡",
+      "pergunta": "Qual atitude ajuda a economizar energia elétrica?",
+      "alternativas": [
+        {"id": "A", "texto": "Deixar todas as luzes acesas"},
+        {"id": "B", "texto": "Abrir a geladeira toda hora"},
+        {"id": "C", "texto": "Dormir com a televisão ligada"},
+        {"id": "D", "texto": "Apagar a luz ao sair do cômodo"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 129,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🚿",
+      "pergunta": "Qual destas atitudes DESPERDIÇA água?",
+      "alternativas": [
+        {"id": "A", "texto": "Reaproveitar a água da chuva"},
+        {"id": "B", "texto": "Deixar o chuveiro ligado enquanto se ensaboa"},
+        {"id": "C", "texto": "Fechar bem a torneira"},
+        {"id": "D", "texto": "Tomar banho rápido"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 130,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "📺",
+      "pergunta": "Qual destas atitudes DESPERDIÇA energia elétrica?",
+      "alternativas": [
+        {"id": "A", "texto": "Desligar o computador depois de usar"},
+        {"id": "B", "texto": "Apagar a luz ao sair do quarto"},
+        {"id": "C", "texto": "Deixar a televisão ligada sem ninguém assistindo"},
+        {"id": "D", "texto": "Aproveitar a luz do sol durante o dia"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 131,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "imagem": "🌎",
+      "pergunta": "Por que é importante economizar água e energia em casa?",
+      "alternativas": [
+        {"id": "A", "texto": "Para a conta de luz ficar mais cara"},
+        {"id": "B", "texto": "Para não faltar para ninguém, cuidar do planeta e gastar menos dinheiro"},
+        {"id": "C", "texto": "Não é importante economizar"},
+        {"id": "D", "texto": "Para a água acabar mais rápido"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 132,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "direito_moradia",
+      "pergunta": "Ricardo viu uma família sem casa passando frio. Qual seria uma atitude solidária?",
+      "alternativas": [
+        {"id": "A", "texto": "Mandar a família ir embora"},
+        {"id": "B", "texto": "Rir da família"},
+        {"id": "C", "texto": "Fingir que não viu"},
+        {"id": "D", "texto": "Ajudar com um cobertor ou pedir ajuda a um adulto para apoiar a família"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 133,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/casa_vista_alto.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a casa foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de lado"},
+        {"id": "B", "texto": "Vista do alto (de cima)"},
+        {"id": "C", "texto": "Vista de frente"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 134,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/casa_vista_frente.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a casa foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de lado"},
+        {"id": "B", "texto": "Vista do alto (de cima)"},
+        {"id": "C", "texto": "Vista de frente"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 135,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/casa_vista_lado.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a casa foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de frente"},
+        {"id": "B", "texto": "Vista de lado"},
+        {"id": "C", "texto": "Vista do alto (de cima)"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 136,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/escola_vista_alto.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a escola foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de lado"},
+        {"id": "B", "texto": "Vista do alto (de cima)"},
+        {"id": "C", "texto": "Vista de frente"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 137,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/escola_vista_frente.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a escola foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de frente"},
+        {"id": "B", "texto": "Vista do alto (de cima)"},
+        {"id": "C", "texto": "Vista de lado"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 138,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/escola_vista_lado.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a escola foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de frente"},
+        {"id": "B", "texto": "Vista de lado"},
+        {"id": "C", "texto": "Vista do alto (de cima)"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 139,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/sala_aula_vista_alto.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista a sala de aula foi desenhada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista do alto (de cima)"},
+        {"id": "B", "texto": "Vista de lado"},
+        {"id": "C", "texto": "Vista de frente"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 140,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/quarto_vista_alto.svg",
+      "pergunta": "Observe a imagem. De que ponto de vista o quarto foi desenhado?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de frente"},
+        {"id": "B", "texto": "Vista de lado"},
+        {"id": "C", "texto": "Vista do alto (de cima)"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 141,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual figura mostra a casa vista do alto (de cima)?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/casa_vista_lado.svg", "texto": "Figura A"},
+        {"id": "B", "imagem": "img/geografia/casa_vista_frente.svg", "texto": "Figura B"},
+        {"id": "C", "imagem": "img/geografia/casa_vista_alto.svg", "texto": "Figura C"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 142,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual figura mostra a casa vista de frente?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/casa_vista_frente.svg", "texto": "Figura A"},
+        {"id": "B", "imagem": "img/geografia/casa_vista_lado.svg", "texto": "Figura B"},
+        {"id": "C", "imagem": "img/geografia/casa_vista_alto.svg", "texto": "Figura C"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 143,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual figura mostra a casa vista de lado?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/casa_vista_frente.svg", "texto": "Figura A"},
+        {"id": "B", "imagem": "img/geografia/casa_vista_lado.svg", "texto": "Figura B"},
+        {"id": "C", "imagem": "img/geografia/casa_vista_alto.svg", "texto": "Figura C"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 144,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual figura mostra a escola vista do alto (de cima)?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/escola_vista_alto.svg", "texto": "Figura A"},
+        {"id": "B", "imagem": "img/geografia/escola_vista_frente.svg", "texto": "Figura B"},
+        {"id": "C", "imagem": "img/geografia/escola_vista_lado.svg", "texto": "Figura C"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 145,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual figura mostra a escola vista de frente?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/escola_vista_frente.svg", "texto": "Figura A"},
+        {"id": "B", "imagem": "img/geografia/escola_vista_lado.svg", "texto": "Figura B"},
+        {"id": "C", "imagem": "img/geografia/escola_vista_alto.svg", "texto": "Figura C"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 146,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual figura mostra a escola vista de lado?",
+      "alternativas": [
+        {"id": "A", "imagem": "img/geografia/escola_vista_frente.svg", "texto": "Figura A"},
+        {"id": "B", "imagem": "img/geografia/escola_vista_lado.svg", "texto": "Figura B"},
+        {"id": "C", "imagem": "img/geografia/escola_vista_alto.svg", "texto": "Figura C"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 147,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "imagem": "🐦",
+      "pergunta": "Um passarinho voando sobre a casa enxerga principalmente o telhado. Ele vê a casa:",
+      "alternativas": [
+        {"id": "A", "texto": "De dentro"},
+        {"id": "B", "texto": "Do alto (de cima)"},
+        {"id": "C", "texto": "De frente"},
+        {"id": "D", "texto": "De lado"}
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 148,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "imagem": "🚁",
+      "pergunta": "Uma foto tirada de um avião ou de um drone mostra os lugares:",
+      "alternativas": [
+        {"id": "A", "texto": "Vistos de dentro"},
+        {"id": "B", "texto": "Vistos de frente"},
+        {"id": "C", "texto": "Vistos de lado"},
+        {"id": "D", "texto": "Vistos do alto (de cima)"}
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 149,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/casa_vista_alto.svg",
+      "pergunta": "Na vista do alto de uma casa, o que mais aparece?",
+      "alternativas": [
+        {"id": "A", "texto": "A campainha"},
+        {"id": "B", "texto": "As janelas da frente"},
+        {"id": "C", "texto": "O telhado"},
+        {"id": "D", "texto": "A porta de entrada"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 150,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Na vista de frente de uma casa, conseguimos ver:",
+      "alternativas": [
+        {"id": "A", "texto": "Somente o telhado"},
+        {"id": "B", "texto": "O que está dentro dos quartos"},
+        {"id": "C", "texto": "A porta de entrada e as janelas da frente"},
+        {"id": "D", "texto": "Somente a parede lateral"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 151,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "pergunta": "Qual vista mostra a parede lateral da casa, sem a porta de entrada?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista de frente"},
+        {"id": "B", "texto": "Vista do alto (de cima)"},
+        {"id": "C", "texto": "Vista de lado"}
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 152,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "imagem": "🏫",
+      "pergunta": "Para ver a escola de frente, onde a pessoa precisa ficar?",
+      "alternativas": [
+        {"id": "A", "texto": "Na calçada, olhando para a entrada da escola"},
+        {"id": "B", "texto": "Ao lado do muro lateral da escola"},
+        {"id": "C", "texto": "Dentro da sala de aula"},
+        {"id": "D", "texto": "Em cima de um avião"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 153,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/sala_aula_vista_alto.svg",
+      "pergunta": "Na vista do alto da sala de aula, as carteiras aparecem como:",
+      "alternativas": [
+        {"id": "A", "texto": "Retângulos, porque vemos só o tampo das mesas"},
+        {"id": "B", "texto": "Elas não aparecem"},
+        {"id": "C", "texto": "Bolinhas"},
+        {"id": "D", "texto": "Triângulos"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 154,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "pontos_de_vista",
+      "imagem": "🗺️",
+      "pergunta": "Qual vista é usada para desenhar mapas e plantas de casas e escolas?",
+      "alternativas": [
+        {"id": "A", "texto": "Vista do alto (de cima)"},
+        {"id": "B", "texto": "Vista de lado"},
+        {"id": "C", "texto": "Vista de frente"}
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 155,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "pontos_de_vista",
+      "imagem": "img/geografia/quarto_vista_alto.svg",
+      "pergunta": "Na vista do alto do quarto, qual objeto aparece como um retângulo com travesseiros?",
+      "alternativas": [
+        {"id": "A", "texto": "A lâmpada"},
+        {"id": "B", "texto": "A janela"},
+        {"id": "C", "texto": "A cama"},
+        {"id": "D", "texto": "O tapete"}
+      ],
+      "resposta": "C"
     }
   ]
 }

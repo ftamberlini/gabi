@@ -3,6 +3,7 @@
   "questoes": [
     {
       "id": 1,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "vogais",
       "pergunta": "Qual destas letras é uma vogal?",
@@ -28,6 +29,7 @@
     },
     {
       "id": 2,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra CASA?",
@@ -53,6 +55,7 @@
     },
     {
       "id": 3,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "plural",
       "pergunta": "Qual é o plural de GATO?",
@@ -78,6 +81,7 @@
     },
     {
       "id": 4,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ortografia",
       "pergunta": "Assinale a palavra escrita corretamente:",
@@ -103,6 +107,7 @@
     },
     {
       "id": 5,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "vogais",
       "pergunta": "Qual destas palavras começa com a letra B?",
@@ -128,6 +133,7 @@
     },
     {
       "id": 6,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de MENINO?",
@@ -153,6 +159,7 @@
     },
     {
       "id": 7,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas letras tem a palavra SOL?",
@@ -178,6 +185,7 @@
     },
     {
       "id": 8,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "frases",
       "pergunta": "Qual destas é uma frase com sentido completo?",
@@ -203,6 +211,7 @@
     },
     {
       "id": 9,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário (antônimo) de GRANDE?",
@@ -228,6 +237,7 @@
     },
     {
       "id": 10,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "rimas",
       "pergunta": "Qual destas palavras rima com PATO?",
@@ -253,6 +263,7 @@
     },
     {
       "id": 11,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "ortografia",
       "imagem": "🐱",
@@ -279,6 +290,7 @@
     },
     {
       "id": 12,
+      "periodo": 1,
       "tipo": "imagem_texto",
       "tema": "ortografia",
       "imagem": "🌙",
@@ -305,6 +317,7 @@
     },
     {
       "id": 13,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Léo tem um cachorro chamado Bilu. Bilu adora correr no parque. Qual é o nome do cachorro de Léo?",
@@ -330,6 +343,7 @@
     },
     {
       "id": 14,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Marina foi ao mercado comprar frutas. Ela comprou maçãs e bananas. O que Marina comprou?",
@@ -355,6 +369,7 @@
     },
     {
       "id": 15,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "O sol estava forte, então Pedro colocou um chapéu antes de sair de casa. Por que Pedro usou chapéu?",
@@ -380,6 +395,7 @@
     },
     {
       "id": 16,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Ana ganhou uma bicicleta nova no seu aniversário. Ela ficou muito feliz e saiu para andar com os amigos. O que Ana ganhou?",
@@ -405,6 +421,7 @@
     },
     {
       "id": 17,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "No zoológico, as crianças viram um leão, uma girafa e um elefante. Depois foram tomar sorvete. Onde as crianças estavam?",
@@ -430,6 +447,7 @@
     },
     {
       "id": 18,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Chovia muito e Rafael não pôde brincar no quintal. Ele ficou em casa lendo um livro. Por que Rafael ficou em casa?",
@@ -455,6 +473,7 @@
     },
     {
       "id": 19,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Beatriz plantou uma sementinha no jardim e regava todos os dias. Depois de duas semanas, nasceu uma flor linda. O que aconteceu depois de duas semanas?",
@@ -480,6 +499,7 @@
     },
     {
       "id": 20,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Tiago acordou cedo, escovou os dentes e tomou café da manhã antes de ir para a escola. O que Tiago fez antes de ir para a escola?",
@@ -505,6 +525,7 @@
     },
     {
       "id": 21,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "No fim de semana, a família de Sofia foi à praia. Eles construíram um castelo de areia. O que a família construiu?",
@@ -530,6 +551,7 @@
     },
     {
       "id": 22,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Gabriel esqueceu o guarda-chuva em casa e acabou se molhando na chuva. O que aconteceu com Gabriel?",
@@ -555,6 +577,7 @@
     },
     {
       "id": 23,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "A professora pediu para os alunos guardarem os brinquedos antes do recreio. Todos ajudaram a arrumar a sala. O que a professora pediu?",
@@ -580,6 +603,7 @@
     },
     {
       "id": 24,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Lucas tem medo de escuro, por isso dorme com uma luz acesa no quarto. Por que Lucas dorme com a luz acesa?",
@@ -605,6 +629,7 @@
     },
     {
       "id": 25,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "No aquário, Clara viu peixes coloridos, tubarões pequenos e uma tartaruga marinha. Onde Clara estava?",
@@ -630,6 +655,7 @@
     },
     {
       "id": 26,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Todos os dias, Vitor caminha com seu cachorro pela manhã antes da escola. O que Vitor faz pela manhã?",
@@ -655,6 +681,7 @@
     },
     {
       "id": 27,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Era o aniversário de Laura, e seus amigos cantaram parabéns e comeram bolo de chocolate. Qual bolo eles comeram?",
@@ -680,6 +707,7 @@
     },
     {
       "id": 28,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "O gato de Enzo subiu na árvore e não conseguia descer sozinho. O bombeiro precisou ajudar. Quem ajudou o gato a descer?",
@@ -705,6 +733,7 @@
     },
     {
       "id": 29,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Durante o inverno, as pessoas usam casacos e cachecóis para se proteger do frio. Por que as pessoas usam casacos no inverno?",
@@ -730,6 +759,7 @@
     },
     {
       "id": 30,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Júlia adora desenhar. Todos os dias, depois da escola, ela pega seus lápis de cor e faz um novo desenho. O que Júlia faz depois da escola?",
@@ -755,6 +785,7 @@
     },
     {
       "id": 31,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "No circo, os palhaços fizeram todo mundo rir, e depois um mágico fez um coelho aparecer do chapéu. O que o mágico fez aparecer?",
@@ -780,6 +811,7 @@
     },
     {
       "id": 32,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "interpretacao",
       "pergunta": "Miguel plantou uma árvore no quintal da sua casa para comemorar seu aniversário de 8 anos. O que Miguel fez para comemorar?",
@@ -805,6 +837,7 @@
     },
     {
       "id": 33,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: BOLA, ABELHA, CASA, DADO?",
@@ -830,6 +863,7 @@
     },
     {
       "id": 34,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual letra vem depois de C no alfabeto?",
@@ -855,6 +889,7 @@
     },
     {
       "id": 35,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual letra vem antes de F no alfabeto?",
@@ -880,6 +915,7 @@
     },
     {
       "id": 36,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: GATO, CAVALO, RATO, SAPO?",
@@ -905,6 +941,7 @@
     },
     {
       "id": 37,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem por último em ordem alfabética: MESA, CADEIRA, ARMÁRIO, SOFÁ?",
@@ -930,6 +967,7 @@
     },
     {
       "id": 38,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Quantas letras tem o alfabeto da Língua Portuguesa?",
@@ -955,6 +993,7 @@
     },
     {
       "id": 39,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual é a primeira letra do alfabeto?",
@@ -980,6 +1019,7 @@
     },
     {
       "id": 40,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual é a última letra do alfabeto?",
@@ -1005,6 +1045,7 @@
     },
     {
       "id": 41,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: PATO, OVO, LUA, MESA?",
@@ -1030,6 +1071,7 @@
     },
     {
       "id": 42,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual letra vem entre a M e a O no alfabeto?",
@@ -1055,6 +1097,7 @@
     },
     {
       "id": 43,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas sequências está em ordem alfabética?",
@@ -1080,6 +1123,7 @@
     },
     {
       "id": 44,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem depois de BOLA em ordem alfabética?",
@@ -1105,6 +1149,7 @@
     },
     {
       "id": 45,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem antes de SAPO em ordem alfabética?",
@@ -1130,6 +1175,7 @@
     },
     {
       "id": 46,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Complete a sequência: A, B, C, __, E",
@@ -1155,6 +1201,7 @@
     },
     {
       "id": 47,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Complete a sequência: J, K, __, M",
@@ -1180,6 +1227,7 @@
     },
     {
       "id": 48,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem primeiro em ordem alfabética: ESCOLA, CASA, IGREJA, HOSPITAL?",
@@ -1205,6 +1253,7 @@
     },
     {
       "id": 49,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Qual destas palavras vem por último em ordem alfabética: FLOR, ÁRVORE, GALHO, FOLHA?",
@@ -1230,6 +1279,7 @@
     },
     {
       "id": 50,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "ordem_alfabetica",
       "pergunta": "Em um dicionário, as palavras aparecem organizadas em qual ordem?",
@@ -1255,6 +1305,7 @@
     },
     {
       "id": 51,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Qual é a separação correta em sílabas da palavra CACHORRO?",
@@ -1280,6 +1331,7 @@
     },
     {
       "id": 52,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra BORBOLETA?",
@@ -1305,6 +1357,7 @@
     },
     {
       "id": 53,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Qual é a separação correta da palavra ABACAXI?",
@@ -1330,6 +1383,7 @@
     },
     {
       "id": 54,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra PÉ?",
@@ -1355,6 +1409,7 @@
     },
     {
       "id": 55,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra GUARDA-CHUVA?",
@@ -1380,6 +1435,7 @@
     },
     {
       "id": 56,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Qual é a separação correta da palavra ELEFANTE?",
@@ -1405,6 +1461,7 @@
     },
     {
       "id": 57,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra SOL?",
@@ -1430,6 +1487,7 @@
     },
     {
       "id": 58,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra COMPUTADOR?",
@@ -1455,6 +1513,7 @@
     },
     {
       "id": 59,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Qual é a separação correta da palavra JANELA?",
@@ -1480,6 +1539,7 @@
     },
     {
       "id": 60,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Palavras com apenas uma sílaba são chamadas de:",
@@ -1505,6 +1565,7 @@
     },
     {
       "id": 61,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Palavras com duas sílabas são chamadas de:",
@@ -1530,6 +1591,7 @@
     },
     {
       "id": 62,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Palavras com três sílabas são chamadas de:",
@@ -1555,6 +1617,7 @@
     },
     {
       "id": 63,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Palavras com quatro ou mais sílabas são chamadas de:",
@@ -1580,6 +1643,7 @@
     },
     {
       "id": 64,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra ESCOLA?",
@@ -1605,6 +1669,7 @@
     },
     {
       "id": 65,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Qual é a separação correta da palavra PIPOCA?",
@@ -1630,6 +1695,7 @@
     },
     {
       "id": 66,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra CHAVE?",
@@ -1655,6 +1721,7 @@
     },
     {
       "id": 67,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Qual é a separação correta da palavra TELEVISÃO?",
@@ -1680,6 +1747,7 @@
     },
     {
       "id": 68,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "silabas",
       "pergunta": "Quantas sílabas tem a palavra FLOR?",
@@ -1705,6 +1773,7 @@
     },
     {
       "id": 69,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que FELIZ?",
@@ -1730,6 +1799,7 @@
     },
     {
       "id": 70,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que BONITO?",
@@ -1755,6 +1825,7 @@
     },
     {
       "id": 71,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que RÁPIDO?",
@@ -1780,6 +1851,7 @@
     },
     {
       "id": 72,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que CASA?",
@@ -1805,6 +1877,7 @@
     },
     {
       "id": 73,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que GRANDE?",
@@ -1830,6 +1903,7 @@
     },
     {
       "id": 74,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que CORAJOSO?",
@@ -1855,6 +1929,7 @@
     },
     {
       "id": 75,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que COMEÇAR?",
@@ -1880,6 +1955,7 @@
     },
     {
       "id": 76,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que TRISTE?",
@@ -1905,6 +1981,7 @@
     },
     {
       "id": 77,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que PEQUENO?",
@@ -1930,6 +2007,7 @@
     },
     {
       "id": 78,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que GRITAR?",
@@ -1955,6 +2033,7 @@
     },
     {
       "id": 79,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que AMIGO?",
@@ -1980,6 +2059,7 @@
     },
     {
       "id": 80,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que BRAVO (com raiva)?",
@@ -2005,6 +2085,7 @@
     },
     {
       "id": 81,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que OLHAR?",
@@ -2030,6 +2111,7 @@
     },
     {
       "id": 82,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que FALAR?",
@@ -2055,6 +2137,7 @@
     },
     {
       "id": 83,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que BELO?",
@@ -2080,6 +2163,7 @@
     },
     {
       "id": 84,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que ANDAR?",
@@ -2105,6 +2189,7 @@
     },
     {
       "id": 85,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que MEDO?",
@@ -2130,6 +2215,7 @@
     },
     {
       "id": 86,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "sinonimos",
       "pergunta": "Qual palavra tem o mesmo significado que FORTE?",
@@ -2155,6 +2241,7 @@
     },
     {
       "id": 87,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de QUENTE?",
@@ -2180,6 +2267,7 @@
     },
     {
       "id": 88,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de ALTO?",
@@ -2205,6 +2293,7 @@
     },
     {
       "id": 89,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de FORTE?",
@@ -2230,6 +2319,7 @@
     },
     {
       "id": 90,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de RÁPIDO?",
@@ -2255,6 +2345,7 @@
     },
     {
       "id": 91,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de CLARO?",
@@ -2280,6 +2371,7 @@
     },
     {
       "id": 92,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de FELIZ?",
@@ -2305,6 +2397,7 @@
     },
     {
       "id": 93,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de GORDO?",
@@ -2330,6 +2423,7 @@
     },
     {
       "id": 94,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de VELHO?",
@@ -2355,6 +2449,7 @@
     },
     {
       "id": 95,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de LIMPO?",
@@ -2380,6 +2475,7 @@
     },
     {
       "id": 96,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de ABRIR?",
@@ -2405,6 +2501,7 @@
     },
     {
       "id": 97,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de SUBIR?",
@@ -2430,6 +2527,7 @@
     },
     {
       "id": 98,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de DIA?",
@@ -2455,6 +2553,7 @@
     },
     {
       "id": 99,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de DENTRO?",
@@ -2480,6 +2579,7 @@
     },
     {
       "id": 100,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de CHEIO?",
@@ -2505,6 +2605,7 @@
     },
     {
       "id": 101,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de FÁCIL?",
@@ -2530,6 +2631,7 @@
     },
     {
       "id": 102,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de RICO?",
@@ -2555,6 +2657,7 @@
     },
     {
       "id": 103,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de DOCE?",
@@ -2580,6 +2683,7 @@
     },
     {
       "id": 104,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "antonimos",
       "pergunta": "Qual é o contrário de PERTO?",
@@ -2605,6 +2709,7 @@
     },
     {
       "id": 105,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual destas frases está escrita corretamente?",
@@ -2630,6 +2735,7 @@
     },
     {
       "id": 106,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Devemos usar letra maiúscula:",
@@ -2655,6 +2761,7 @@
     },
     {
       "id": 107,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual nome está escrito corretamente?",
@@ -2680,6 +2787,7 @@
     },
     {
       "id": 108,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Os nomes de pessoas devem começar com:",
@@ -2705,6 +2813,7 @@
     },
     {
       "id": 109,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual destas palavras precisa de letra maiúscula?",
@@ -2730,6 +2839,7 @@
     },
     {
       "id": 110,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Assinale a frase corretamente escrita:",
@@ -2755,6 +2865,7 @@
     },
     {
       "id": 111,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Os nomes de cidades e países começam com:",
@@ -2780,6 +2891,7 @@
     },
     {
       "id": 112,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual está correto?",
@@ -2805,6 +2917,7 @@
     },
     {
       "id": 113,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Toda frase deve começar com:",
@@ -2830,6 +2943,7 @@
     },
     {
       "id": 114,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual destes é um exemplo correto de nome próprio com maiúscula?",
@@ -2855,6 +2969,7 @@
     },
     {
       "id": 115,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Assinale a alternativa correta:",
@@ -2880,6 +2995,7 @@
     },
     {
       "id": 116,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual frase está escrita com o uso correto das letras maiúsculas?",
@@ -2905,6 +3021,7 @@
     },
     {
       "id": 117,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Depois de um ponto final, a próxima frase deve começar com:",
@@ -2930,6 +3047,7 @@
     },
     {
       "id": 118,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual nome de rio está escrito corretamente?",
@@ -2955,6 +3073,7 @@
     },
     {
       "id": 119,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual está escrito corretamente?",
@@ -2980,6 +3099,7 @@
     },
     {
       "id": 120,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Os dias da semana e meses do ano, em português, geralmente são escritos com:",
@@ -3005,6 +3125,7 @@
     },
     {
       "id": 121,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Qual frase está correta?",
@@ -3030,6 +3151,7 @@
     },
     {
       "id": 122,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "maiuscula",
       "pergunta": "Assinale a opção com o uso correto da letra maiúscula:",
@@ -3055,6 +3177,7 @@
     },
     {
       "id": 123,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Você já fez a lição de casa?'",
@@ -3080,6 +3203,7 @@
     },
     {
       "id": 124,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Que dia lindo!'",
@@ -3105,6 +3229,7 @@
     },
     {
       "id": 125,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Eu gosto de sorvete.'",
@@ -3130,6 +3255,7 @@
     },
     {
       "id": 126,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Não vou à festa hoje.'",
@@ -3155,6 +3281,7 @@
     },
     {
       "id": 127,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Feche a porta, por favor.'",
@@ -3180,6 +3307,7 @@
     },
     {
       "id": 128,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual sinal de pontuação indica uma frase interrogativa?",
@@ -3205,6 +3333,7 @@
     },
     {
       "id": 129,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual sinal de pontuação indica uma frase exclamativa?",
@@ -3230,6 +3359,7 @@
     },
     {
       "id": 130,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual destas é uma frase interrogativa?",
@@ -3255,6 +3385,7 @@
     },
     {
       "id": 131,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual destas é uma frase exclamativa?",
@@ -3280,6 +3411,7 @@
     },
     {
       "id": 132,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual destas é uma frase afirmativa?",
@@ -3305,6 +3437,7 @@
     },
     {
       "id": 133,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual destas é uma frase que dá uma ordem (imperativa)?",
@@ -3330,6 +3463,7 @@
     },
     {
       "id": 134,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Qual é o seu nome?'",
@@ -3355,6 +3489,7 @@
     },
     {
       "id": 135,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'Que medo eu senti!'",
@@ -3380,6 +3515,7 @@
     },
     {
       "id": 136,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Uma frase que faz uma pergunta é chamada de:",
@@ -3405,6 +3541,7 @@
     },
     {
       "id": 137,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Uma frase que expressa surpresa ou emoção é chamada de:",
@@ -3430,6 +3567,7 @@
     },
     {
       "id": 138,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual destas frases termina com ponto de interrogação?",
@@ -3455,6 +3593,7 @@
     },
     {
       "id": 139,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Qual destas frases termina com ponto de exclamação?",
@@ -3480,6 +3619,7 @@
     },
     {
       "id": 140,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "tipos_frase",
       "pergunta": "Que tipo de frase é: 'A lua brilha no céu.'",
@@ -3505,6 +3645,7 @@
     },
     {
       "id": 141,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação usamos no final de uma pergunta?",
@@ -3530,6 +3671,7 @@
     },
     {
       "id": 142,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação usamos no final de uma frase de emoção ou surpresa?",
@@ -3555,6 +3697,7 @@
     },
     {
       "id": 143,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação usamos para terminar uma frase afirmativa comum?",
@@ -3580,6 +3723,7 @@
     },
     {
       "id": 144,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal usamos para separar itens em uma lista, como 'Comprei maçã, banana e uva'?",
@@ -3605,6 +3749,7 @@
     },
     {
       "id": 145,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação é este: ' , ' ?",
@@ -3630,6 +3775,7 @@
     },
     {
       "id": 146,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação é este: ' ? ' ?",
@@ -3655,6 +3801,7 @@
     },
     {
       "id": 147,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação é este: ' ! ' ?",
@@ -3680,6 +3827,7 @@
     },
     {
       "id": 148,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação é este: ' : ' ?",
@@ -3705,6 +3853,7 @@
     },
     {
       "id": 149,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal de pontuação é este: ' - ' ?",
@@ -3730,6 +3879,7 @@
     },
     {
       "id": 150,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Usamos os dois pontos ( : ) geralmente para:",
@@ -3755,6 +3905,7 @@
     },
     {
       "id": 151,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Complete com o sinal correto: 'Você quer brincar___'",
@@ -3780,6 +3931,7 @@
     },
     {
       "id": 152,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Complete com o sinal correto: 'Que dia maravilhoso___'",
@@ -3805,6 +3957,7 @@
     },
     {
       "id": 153,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Complete com o sinal correto: 'Eu me chamo Ana___'",
@@ -3830,6 +3983,7 @@
     },
     {
       "id": 154,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "O travessão ( - ) é muito usado para indicar:",
@@ -3855,6 +4009,7 @@
     },
     {
       "id": 155,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual frase está pontuada corretamente?",
@@ -3880,6 +4035,7 @@
     },
     {
       "id": 156,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual frase está pontuada corretamente?",
@@ -3905,6 +4061,7 @@
     },
     {
       "id": 157,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Na frase 'Comprei lápis, borracha e caderno.', para que serve a vírgula?",
@@ -3930,6 +4087,7 @@
     },
     {
       "id": 158,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "pontuacao",
       "pergunta": "Qual sinal devemos usar ao final de uma frase declarativa simples, como 'O céu está azul'?",
@@ -3955,6 +4113,7 @@
     },
     {
       "id": 159,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é um nome próprio?",
@@ -3980,6 +4139,7 @@
     },
     {
       "id": 160,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é um nome comum?",
@@ -4005,6 +4165,7 @@
     },
     {
       "id": 161,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Nomes próprios servem para nomear:",
@@ -4030,6 +4191,7 @@
     },
     {
       "id": 162,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas é uma lista apenas de nomes comuns?",
@@ -4055,6 +4217,7 @@
     },
     {
       "id": 163,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas é uma lista apenas de nomes próprios?",
@@ -4080,6 +4243,7 @@
     },
     {
       "id": 164,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Nomes próprios sempre começam com:",
@@ -4105,6 +4269,7 @@
     },
     {
       "id": 165,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é o nome próprio de uma pessoa?",
@@ -4130,6 +4295,7 @@
     },
     {
       "id": 166,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é um nome comum de animal?",
@@ -4155,6 +4321,7 @@
     },
     {
       "id": 167,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é o nome próprio de uma cidade?",
@@ -4180,6 +4347,7 @@
     },
     {
       "id": 168,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "'Escola' é um nome:",
@@ -4205,6 +4373,7 @@
     },
     {
       "id": 169,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "'Brasil' é um nome:",
@@ -4230,6 +4399,7 @@
     },
     {
       "id": 170,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é o nome próprio de um rio?",
@@ -4255,6 +4425,7 @@
     },
     {
       "id": 171,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Nomes comuns nomeiam de forma geral:",
@@ -4280,6 +4451,7 @@
     },
     {
       "id": 172,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas frases tem um nome próprio?",
@@ -4305,6 +4477,7 @@
     },
     {
       "id": 173,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras NÃO é um nome próprio?",
@@ -4330,6 +4503,7 @@
     },
     {
       "id": 174,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "Qual destas palavras é um nome próprio de país?",
@@ -4355,6 +4529,7 @@
     },
     {
       "id": 175,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "'Gato' é um nome:",
@@ -4380,6 +4555,7 @@
     },
     {
       "id": 176,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "nomes_proprios_comuns",
       "pergunta": "'Totó' (nome de um cachorro) é um nome:",
@@ -4405,6 +4581,7 @@
     },
     {
       "id": 177,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de CACHORRO?",
@@ -4430,6 +4607,7 @@
     },
     {
       "id": 178,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o masculino de GALINHA?",
@@ -4455,6 +4633,7 @@
     },
     {
       "id": 179,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de PROFESSOR?",
@@ -4480,6 +4659,7 @@
     },
     {
       "id": 180,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o masculino de ATRIZ?",
@@ -4505,6 +4685,7 @@
     },
     {
       "id": 181,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de REI?",
@@ -4530,6 +4711,7 @@
     },
     {
       "id": 182,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o masculino de MENINA?",
@@ -4555,6 +4737,7 @@
     },
     {
       "id": 183,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de LEÃO?",
@@ -4580,6 +4763,7 @@
     },
     {
       "id": 184,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de GATO?",
@@ -4605,6 +4789,7 @@
     },
     {
       "id": 185,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de PATO?",
@@ -4630,6 +4815,7 @@
     },
     {
       "id": 186,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o masculino de ÉGUA?",
@@ -4655,6 +4841,7 @@
     },
     {
       "id": 187,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de HOMEM?",
@@ -4680,6 +4867,7 @@
     },
     {
       "id": 188,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de ATOR?",
@@ -4705,6 +4893,7 @@
     },
     {
       "id": 189,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o masculino de VACA?",
@@ -4730,6 +4919,7 @@
     },
     {
       "id": 190,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de TIO?",
@@ -4755,6 +4945,7 @@
     },
     {
       "id": 191,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de CAVALO?",
@@ -4780,6 +4971,7 @@
     },
     {
       "id": 192,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o masculino de IRMÃ?",
@@ -4805,6 +4997,7 @@
     },
     {
       "id": 193,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de AVÔ?",
@@ -4830,6 +5023,7 @@
     },
     {
       "id": 194,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "genero",
       "pergunta": "Qual é o feminino de PRÍNCIPE?",
@@ -4855,6 +5049,7 @@
     },
     {
       "id": 195,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de FLOR?",
@@ -4880,6 +5075,7 @@
     },
     {
       "id": 196,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de PÃO?",
@@ -4905,6 +5101,7 @@
     },
     {
       "id": 197,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de CADEIRA?",
@@ -4930,6 +5127,7 @@
     },
     {
       "id": 198,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de ANIMAL?",
@@ -4955,6 +5153,7 @@
     },
     {
       "id": 199,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de LÁPIS?",
@@ -4980,6 +5179,7 @@
     },
     {
       "id": 200,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o singular de CASAS?",
@@ -5005,6 +5205,7 @@
     },
     {
       "id": 201,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o singular de LIVROS?",
@@ -5030,6 +5231,7 @@
     },
     {
       "id": 202,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de MÃO?",
@@ -5055,6 +5257,7 @@
     },
     {
       "id": 203,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de LIÇÃO?",
@@ -5080,6 +5283,7 @@
     },
     {
       "id": 204,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o singular de FLORES?",
@@ -5105,6 +5309,7 @@
     },
     {
       "id": 205,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de BALÃO?",
@@ -5130,6 +5335,7 @@
     },
     {
       "id": 206,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de JANELA?",
@@ -5155,6 +5361,7 @@
     },
     {
       "id": 207,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o singular de BONECAS?",
@@ -5180,6 +5387,7 @@
     },
     {
       "id": 208,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de PAPEL?",
@@ -5205,6 +5413,7 @@
     },
     {
       "id": 209,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o singular de ÁRVORES?",
@@ -5230,6 +5439,7 @@
     },
     {
       "id": 210,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de RATO?",
@@ -5255,6 +5465,7 @@
     },
     {
       "id": 211,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o plural de NARIZ?",
@@ -5280,6 +5491,7 @@
     },
     {
       "id": 212,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "singular_plural",
       "pergunta": "Qual é o singular de PÉS?",

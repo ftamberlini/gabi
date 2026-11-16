@@ -3,6 +3,7 @@
   "questoes": [
     {
       "id": 1,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "valores",
       "pergunta": "O que devemos fazer quando alguém está triste?",
@@ -16,6 +17,7 @@
     },
     {
       "id": 2,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "respeito",
       "pergunta": "Respeitar as diferenças entre as pessoas é importante porque:",
@@ -29,6 +31,7 @@
     },
     {
       "id": 3,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "valores",
       "pergunta": "Um bom valor para se ter é:",
@@ -42,6 +45,7 @@
     },
     {
       "id": 4,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "gentileza",
       "pergunta": "O que significa ser gentil?",
@@ -55,6 +59,7 @@
     },
     {
       "id": 5,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "solidariedade",
       "pergunta": "Compartilhar com os colegas é um sinal de:",
@@ -68,6 +73,7 @@
     },
     {
       "id": 6,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "solidariedade",
       "pergunta": "Como podemos ajudar o próximo?",
@@ -81,6 +87,7 @@
     },
     {
       "id": 7,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "perdao",
       "pergunta": "O perdão é importante porque:",
@@ -94,6 +101,7 @@
     },
     {
       "id": 8,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "diversidade",
       "pergunta": "Cada família pode ter tradições e crenças:",
@@ -107,6 +115,7 @@
     },
     {
       "id": 9,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "gratidao",
       "pergunta": "Um exemplo de gratidão é:",
@@ -120,6 +129,7 @@
     },
     {
       "id": 10,
+      "periodo": 1,
       "tipo": "multipla_escolha",
       "tema": "amizade",
       "pergunta": "A amizade é baseada em:",

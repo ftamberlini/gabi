@@ -3,11 +3,54 @@ const QUESTOES_POR_QUIZ = 10;
 
 // ===== Configuração das disciplinas =====
 const SUBJECTS = [
-  { id: "ingles", name: "Inglês: Good Foods e Animal Friends", icon: "🗣️", color: "#c8b6ff", file: "ingles.json" },
+  { id: "portugues",  name: "Português",  icon: "📚", color: "#8ecae6", file: "portugues.json" },
+  { id: "ditado",     name: "Ditado",     icon: "✏️", color: "#ffb4a2", file: "ditado.json" },
+  { id: "matematica", name: "Matemática", icon: "🔢", color: "#ffd166", file: "matematica.json" },
+  { id: "geografia",  name: "Geografia",  icon: "🌎", color: "#95d5b2", file: "geografia.json" },
+  { id: "historia",   name: "História",  icon: "🏛️", color: "#d4a373", file: "historia.json" },
+  { id: "ingles",     name: "Inglês",     icon: "🗣️", color: "#c8b6ff", file: "ingles.json" },
+  { id: "ciencias",   name: "Ciências",   icon: "🔬", color: "#90e0ef", file: "ciencias.json" },
+  { id: "religiao",   name: "Religião",   icon: "🙏", color: "#f4a3c1", file: "religiao.json" },
 ];
+
+// ===== Períodos =====
+// Questões sem o campo "periodo" são tratadas como do 1º período.
+const PERIODOS = [1, 2, 3, 4];
+const PERIODO_PADRAO = 4;
+const PERIODO_STORAGE_KEY = "gabi_revisao_periodo";
+
+function questionPeriod(q) {
+  return Number(q.periodo) || 1;
+}
+
+function loadSavedPeriod() {
+  try {
+    const saved = Number(localStorage.getItem(PERIODO_STORAGE_KEY));
+    if (PERIODOS.includes(saved)) return saved;
+  } catch (e) { /* armazenamento indisponível */ }
+  return PERIODO_PADRAO;
+}
+
+function savePeriod(periodo) {
+  try { localStorage.setItem(PERIODO_STORAGE_KEY, String(periodo)); } catch (e) { /* ignora */ }
+}
+
+// Cache das questões já carregadas, por arquivo
+const subjectCache = {};
+async function loadSubject(subject) {
+  if (!subjectCache[subject.file]) {
+    subjectCache[subject.file] = fetch(`subjects/${subject.file}`).then((response) => {
+      if (!response.ok) throw new Error("Falha ao carregar perguntas");
+      return response.json();
+    });
+    subjectCache[subject.file].catch(() => delete subjectCache[subject.file]);
+  }
+  return subjectCache[subject.file];
+}
 
 // ===== Estado do quiz =====
 const state = {
+  periodo: loadSavedPeriod(),
   subject: null,
   questions: [],
   currentIndex: 0,
@@ -22,6 +65,7 @@ const quizScreen = document.getElementById("quiz-screen");
 const resultScreen = document.getElementById("result-screen");
 
 const cardsContainer = document.getElementById("cards-container");
+const periodSelect = document.getElementById("periodo-select");
 const quizTitle = document.getElementById("quiz-title");
 const scoreDisplay = document.getElementById("score-display");
 const progressBarInner = document.getElementById("progress-bar-inner");
@@ -136,9 +180,28 @@ function showScreen(screen) {
   window.scrollTo({ top: 0, behavior: "smooth" });
 }
 
+// ===== Seletor de período =====
+function renderPeriodSelect() {
+  periodSelect.innerHTML = "";
+  PERIODOS.forEach((p) => {
+    const opt = document.createElement("option");
+    opt.value = String(p);
+    opt.textContent = `${p}º período`;
+    periodSelect.appendChild(opt);
+  });
+  periodSelect.value = String(state.periodo);
+  periodSelect.addEventListener("change", () => {
+    state.periodo = Number(periodSelect.value);
+    savePeriod(state.periodo);
+    playClickSound();
+    renderCards();
+  });
+}
+
 // ===== Construção dos cards da home =====
 function renderCards() {
   cardsContainer.innerHTML = "";
+  const periodo = state.periodo;
   SUBJECTS.forEach((subject) => {
     const card = document.createElement("button");
     card.className = "subject-card";
@@ -146,28 +209,50 @@ function renderCards() {
     card.innerHTML = `
       <span class="subject-icon">${subject.icon}</span>
       <span class="subject-name">${subject.name}</span>
+      <span class="subject-count">carregando…</span>
     `;
     card.addEventListener("click", () => {
       playClickSound();
       startQuiz(subject);
     });
     cardsContainer.appendChild(card);
+
+    // Mostra quantas questões existem no período escolhido
+    const countEl = card.querySelector(".subject-count");
+    loadSubject(subject)
+      .then((data) => {
+        if (state.periodo !== periodo) return;
+        const total = data.questoes.filter((q) => questionPeriod(q) === periodo).length;
+        if (total === 0) {
+          countEl.textContent = "Sem questões neste período";
+          card.disabled = true;
+          card.classList.add("empty");
+        } else {
+          countEl.textContent = `${total} ${total === 1 ? "questão" : "questões"}`;
+        }
+      })
+      .catch(() => {
+        countEl.textContent = "";
+      });
   });
 }
 
 // ===== Carregar e iniciar um quiz =====
 async function startQuiz(subject) {
   try {
-    const response = await fetch(`subjects/${subject.file}`);
-    if (!response.ok) throw new Error("Falha ao carregar perguntas");
-    const data = await response.json();
+    const data = await loadSubject(subject);
+    const doPeriodo = data.questoes.filter((q) => questionPeriod(q) === state.periodo);
+    if (doPeriodo.length === 0) {
+      alert(`Ainda não há questões de ${subject.name} para o ${state.periodo}º período.`);
+      return;
+    }
 
     state.subject = subject;
-    state.questions = shuffleArray(data.questoes.slice()).slice(0, QUESTOES_POR_QUIZ);
+    state.questions = shuffleArray(doPeriodo.slice()).slice(0, QUESTOES_POR_QUIZ);
     state.currentIndex = 0;
     state.score = 0;
 
-    quizTitle.textContent = `${subject.icon} ${subject.name}`;
+    quizTitle.textContent = `${subject.icon} ${subject.name} · ${state.periodo}º período`;
     scoreDisplay.textContent = "0";
     showScreen(quizScreen);
     renderQuestion();
@@ -457,4 +542,5 @@ btnHome.addEventListener("click", () => {
 });
 
 // ===== Inicialização =====
+renderPeriodSelect();
 renderCards();
