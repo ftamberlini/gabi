@@ -55,7 +55,7 @@
     },
     {
       "id": 3,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "passado_presente",
       "pergunta": "Antigamente as cartas eram enviadas pelo:",
@@ -3812,7 +3812,7 @@
     },
     {
       "id": 146,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "convivencia_vizinhanca",
       "pergunta": "A coleta de lixo feita pela prefeitura ajuda a:",
@@ -4726,7 +4726,7 @@
     },
     {
       "id": 181,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, para se comunicar à distância quando não se tinha telefone em casa, muitas pessoas usavam:",
@@ -4752,7 +4752,7 @@
     },
     {
       "id": 182,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje em dia, é raro ver orelhões nas ruas porque:",
@@ -4778,7 +4778,7 @@
     },
     {
       "id": 183,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, as ruas eram iluminadas à noite por:",
@@ -4804,7 +4804,7 @@
     },
     {
       "id": 184,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, a iluminação pública das ruas é feita principalmente por:",
@@ -4830,7 +4830,7 @@
     },
     {
       "id": 185,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, em muitos lugares, a água usada pelas famílias vinha de:",
@@ -4856,7 +4856,7 @@
     },
     {
       "id": 186,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, a água chega até a maioria das casas através de:",
@@ -4882,7 +4882,7 @@
     },
     {
       "id": 187,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço de comunicação que praticamente não existe mais é:",
@@ -4908,7 +4908,7 @@
     },
     {
       "id": 188,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço que não existia há 30 anos e existe hoje é:",
@@ -4934,7 +4934,7 @@
     },
     {
       "id": 189,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, para saber notícias rapidamente, muitas famílias ouviam:",
@@ -4960,7 +4960,7 @@
     },
     {
       "id": 190,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, além do rádio, muitas pessoas recebem notícias por:",
@@ -4986,7 +4986,7 @@
     },
     {
       "id": 191,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "O transporte público chamado 'bonde', puxado por cavalos ou elétrico, era comum:",
@@ -5012,7 +5012,7 @@
     },
     {
       "id": 192,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, no lugar dos bondes antigos, muitas cidades usam:",
@@ -5038,7 +5038,7 @@
     },
     {
       "id": 193,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço público de saúde que atende emergências rapidamente, e que é mais recente, é:",
@@ -5064,7 +5064,7 @@
     },
     {
       "id": 194,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "A coleta seletiva de lixo (separar o lixo reciclável) é um serviço:",
@@ -5090,7 +5090,7 @@
     },
     {
       "id": 195,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, era comum jogar o esgoto das casas diretamente:",
@@ -5116,7 +5116,7 @@
     },
     {
       "id": 196,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, muitas cidades contam com redes de esgoto que:",
@@ -5142,7 +5142,7 @@
     },
     {
       "id": 197,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um exemplo de serviço público que existe hoje, mas não existia há 100 anos, é:",
@@ -5168,7 +5168,7 @@
     },
     {
       "id": 198,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "As cartas enviadas pelo correio, muito comuns no passado, hoje foram parcialmente substituídas por:",
@@ -5194,7 +5194,7 @@
     },
     {
       "id": 199,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, os telefones públicos (orelhões) eram muito usados porque:",
@@ -5220,7 +5220,7 @@
     },
     {
       "id": 200,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Postos de vacinação organizados em grande escala pela cidade são um serviço público que:",
@@ -5246,7 +5246,7 @@
     },
     {
       "id": 201,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "No passado, muitas famílias buscavam água em poços porque:",
@@ -5272,7 +5272,7 @@
     },
     {
       "id": 202,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço que ficou ultrapassado com a chegada dos celulares é:",
@@ -5298,7 +5298,7 @@
     },
     {
       "id": 203,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "As primeiras formas de iluminação pública, antes da luz elétrica, incluíam:",
@@ -5324,7 +5324,7 @@
     },
     {
       "id": 204,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "A internet nas escolas públicas é um exemplo de serviço que:",
@@ -5350,7 +5350,7 @@
     },
     {
       "id": 205,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Antigamente, sem caminhões de lixo, a coleta era feita, em alguns lugares, por:",
@@ -5376,7 +5376,7 @@
     },
     {
       "id": 206,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Hoje, a coleta de lixo é feita principalmente por:",
@@ -5402,7 +5402,7 @@
     },
     {
       "id": 207,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Um serviço de comunicação muito usado no passado, enviado por fios de telégrafo, era:",
@@ -5428,7 +5428,7 @@
     },
     {
       "id": 208,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Câmeras de monitoramento nas ruas, usadas para ajudar na segurança pública, são um serviço:",
@@ -5454,7 +5454,7 @@
     },
     {
       "id": 209,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Comparando o passado e o presente, um serviço público que ainda existe, mas mudou bastante, é:",
@@ -5480,7 +5480,7 @@
     },
     {
       "id": 210,
-      "periodo": 1,
+      "periodo": 4,
       "tipo": "multipla_escolha",
       "tema": "servicos_publicos_tempo",
       "pergunta": "Estudar os serviços públicos do passado e do presente nos ajuda a entender:",
@@ -5500,6 +5500,2644 @@
         {
           "id": "D",
           "texto": "Somente sobre outros países"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 211,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/servico_luz.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Energia elétrica"
+        },
+        {
+          "id": "B",
+          "texto": "Coleta de lixo"
+        },
+        {
+          "id": "C",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "D",
+          "texto": "Segurança pública"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 212,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/servico_esgoto.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Segurança pública"
+        },
+        {
+          "id": "B",
+          "texto": "Energia elétrica"
+        },
+        {
+          "id": "C",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "D",
+          "texto": "Correio"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 213,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/servico_coleta_lixto.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Segurança pública"
+        },
+        {
+          "id": "B",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "C",
+          "texto": "Vacinação"
+        },
+        {
+          "id": "D",
+          "texto": "Coleta de lixo"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 214,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/servico_seguranca.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Segurança pública"
+        },
+        {
+          "id": "B",
+          "texto": "Coleta de lixo"
+        },
+        {
+          "id": "C",
+          "texto": "Correio"
+        },
+        {
+          "id": "D",
+          "texto": "Água encanada"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 215,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/historia/carteiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Energia elétrica"
+        },
+        {
+          "id": "B",
+          "texto": "Segurança pública"
+        },
+        {
+          "id": "C",
+          "texto": "Correio"
+        },
+        {
+          "id": "D",
+          "texto": "Coleta de lixo"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 216,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/historia/agua_encanada.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Correio"
+        },
+        {
+          "id": "B",
+          "texto": "Água encanada"
+        },
+        {
+          "id": "C",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "D",
+          "texto": "Energia elétrica"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 217,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Observe a imagem. Qual serviço público ela representa?",
+      "imagem": "img/historia/vacinacao.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Água encanada"
+        },
+        {
+          "id": "B",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "C",
+          "texto": "Vacinação"
+        },
+        {
+          "id": "D",
+          "texto": "Segurança pública"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 218,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "O que são serviços públicos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Lojas que vendem brinquedos"
+        },
+        {
+          "id": "B",
+          "texto": "Serviços que só os ricos podem usar"
+        },
+        {
+          "id": "C",
+          "texto": "Serviços oferecidos à população para melhorar a vida de todos, como água, luz, esgoto e coleta de lixo"
+        },
+        {
+          "id": "D",
+          "texto": "Brincadeiras feitas na rua"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 219,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Qual serviço público faz a lâmpada acender e a geladeira funcionar?",
+      "imagem": "💡",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Coleta de lixo"
+        },
+        {
+          "id": "B",
+          "texto": "Correio"
+        },
+        {
+          "id": "C",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "D",
+          "texto": "Energia elétrica"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 220,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "A água que sai da torneira chega até as casas por meio de:",
+      "imagem": "img/historia/agua_encanada.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cartas do correio"
+        },
+        {
+          "id": "B",
+          "texto": "Fios de energia elétrica"
+        },
+        {
+          "id": "C",
+          "texto": "Caminhões de lixo"
+        },
+        {
+          "id": "D",
+          "texto": "Canos da rede de água encanada"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 221,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Antes de chegar às torneiras, a água passa pela estação de tratamento para:",
+      "imagem": "🚰",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Virar gelo"
+        },
+        {
+          "id": "B",
+          "texto": "Ficar limpa e própria para beber"
+        },
+        {
+          "id": "C",
+          "texto": "Ficar com cor de suco"
+        },
+        {
+          "id": "D",
+          "texto": "Ficar mais suja"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 222,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Para onde vai a água suja do vaso sanitário, da pia e do chuveiro?",
+      "imagem": "img/servico_esgoto.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para a rede de esgoto, por canos embaixo da terra"
+        },
+        {
+          "id": "B",
+          "texto": "Para os fios de luz"
+        },
+        {
+          "id": "C",
+          "texto": "Para a caixa d'água limpa"
+        },
+        {
+          "id": "D",
+          "texto": "Para a caixa de correio"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 223,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Por que a rede de esgoto é importante?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque não serve para nada"
+        },
+        {
+          "id": "B",
+          "texto": "Porque deixa a rua iluminada"
+        },
+        {
+          "id": "C",
+          "texto": "Porque leva a água suja para longe das casas e ajuda a evitar doenças"
+        },
+        {
+          "id": "D",
+          "texto": "Porque entrega cartas"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 224,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "O caminhão da coleta de lixo leva o lixo para:",
+      "imagem": "img/servico_coleta_lixto.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A escola"
+        },
+        {
+          "id": "B",
+          "texto": "A casa do vizinho"
+        },
+        {
+          "id": "C",
+          "texto": "O aterro sanitário ou a reciclagem"
+        },
+        {
+          "id": "D",
+          "texto": "O rio mais perto"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 225,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Para ajudar a coleta de lixo, devemos:",
+      "imagem": "🗑️",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Jogar o lixo na rua"
+        },
+        {
+          "id": "B",
+          "texto": "Deixar o lixo aberto na calçada"
+        },
+        {
+          "id": "C",
+          "texto": "Queimar o lixo no quintal"
+        },
+        {
+          "id": "D",
+          "texto": "Colocar o lixo bem fechado, no dia e horário certos"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 226,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Qual é o trabalho do carteiro?",
+      "imagem": "img/historia/carteiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Apagar incêndios"
+        },
+        {
+          "id": "B",
+          "texto": "Recolher o lixo"
+        },
+        {
+          "id": "C",
+          "texto": "Consertar os canos"
+        },
+        {
+          "id": "D",
+          "texto": "Entregar cartas e encomendas nas casas"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 227,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Para uma carta chegar ao lugar certo, o que precisamos escrever no envelope?",
+      "imagem": "✉️",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um desenho bonito"
+        },
+        {
+          "id": "B",
+          "texto": "O endereço completo, com o CEP"
+        },
+        {
+          "id": "C",
+          "texto": "Só o nome do bicho de estimação"
+        },
+        {
+          "id": "D",
+          "texto": "Nada, o carteiro adivinha"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 228,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos",
+      "pergunta": "Qual serviço público ajuda a proteger as pessoas e cuidar da ordem nas ruas?",
+      "imagem": "img/servico_seguranca.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Correio"
+        },
+        {
+          "id": "B",
+          "texto": "Segurança pública, com policiais"
+        },
+        {
+          "id": "C",
+          "texto": "Água encanada"
+        },
+        {
+          "id": "D",
+          "texto": "Coleta de lixo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 229,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Em uma emergência, para chamar a polícia, ligamos para o número:",
+      "imagem": "🚓",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "190"
+        },
+        {
+          "id": "B",
+          "texto": "192"
+        },
+        {
+          "id": "C",
+          "texto": "100"
+        },
+        {
+          "id": "D",
+          "texto": "193"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 230,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Os bombeiros, que apagam incêndios e fazem resgates, atendem pelo número:",
+      "imagem": "🚒",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "111"
+        },
+        {
+          "id": "B",
+          "texto": "192"
+        },
+        {
+          "id": "C",
+          "texto": "190"
+        },
+        {
+          "id": "D",
+          "texto": "193"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 231,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Qual destas imagens mostra o serviço de água encanada?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/servico_luz.png",
+          "texto": "Energia elétrica"
+        },
+        {
+          "id": "B",
+          "imagem": "img/servico_coleta_lixto.png",
+          "texto": "Coleta de lixo"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/agua_encanada.svg",
+          "texto": "Água encanada"
+        },
+        {
+          "id": "D",
+          "imagem": "img/historia/carteiro.svg",
+          "texto": "Correio"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 232,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos",
+      "pergunta": "Qual destas imagens mostra o serviço do correio?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/servico_seguranca.png",
+          "texto": "Segurança pública"
+        },
+        {
+          "id": "B",
+          "imagem": "img/historia/agua_encanada.svg",
+          "texto": "Água encanada"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/carteiro.svg",
+          "texto": "Correio"
+        },
+        {
+          "id": "D",
+          "imagem": "img/servico_esgoto.png",
+          "texto": "Rede de esgoto"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 233,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Observe a imagem. Como eram muitas ruas antigamente?",
+      "imagem": "img/historia/rua_de_terra.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cobertas de neve"
+        },
+        {
+          "id": "B",
+          "texto": "De terra, sem asfalto e sem calçamento"
+        },
+        {
+          "id": "C",
+          "texto": "Feitas de vidro"
+        },
+        {
+          "id": "D",
+          "texto": "Asfaltadas e com faixa de pedestre"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 234,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Quando chovia, o que acontecia com as ruas de terra de antigamente?",
+      "imagem": "img/historia/rua_de_terra.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Ficavam limpinhas e secas"
+        },
+        {
+          "id": "B",
+          "texto": "Viravam rios de chocolate"
+        },
+        {
+          "id": "C",
+          "texto": "Nada mudava"
+        },
+        {
+          "id": "D",
+          "texto": "Ficavam cheias de lama e buracos"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 235,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, muitas pessoas se locomoviam pelas ruas de terra em:",
+      "imagem": "img/historia/rua_de_terra.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aviões"
+        },
+        {
+          "id": "B",
+          "texto": "Carroças puxadas por cavalos"
+        },
+        {
+          "id": "C",
+          "texto": "Metrô"
+        },
+        {
+          "id": "D",
+          "texto": "Patinetes elétricos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 236,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Observe a imagem. Hoje, muitas ruas das cidades são:",
+      "imagem": "img/historia/rua_asfaltada.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pavimentadas, com asfalto, calçadas e iluminação"
+        },
+        {
+          "id": "B",
+          "texto": "Sem nenhuma calçada"
+        },
+        {
+          "id": "C",
+          "texto": "De terra, com muita lama"
+        },
+        {
+          "id": "D",
+          "texto": "Iluminadas por lampiões"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 237,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Qual imagem mostra uma rua de antigamente, sem pavimentação?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/historia/rua_asfaltada.svg",
+          "texto": "Rua de hoje"
+        },
+        {
+          "id": "B",
+          "imagem": "img/historia/lampiao.svg",
+          "texto": "Lampião"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/chafariz.svg",
+          "texto": "Chafariz"
+        },
+        {
+          "id": "D",
+          "imagem": "img/historia/rua_de_terra.svg",
+          "texto": "Rua de antigamente"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 238,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Antigamente, quando não havia rede de esgoto, para onde ia a água suja das casas?",
+      "imagem": "img/historia/vala_esgoto.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para o correio"
+        },
+        {
+          "id": "B",
+          "texto": "Para valas abertas na rua, quintais e rios"
+        },
+        {
+          "id": "C",
+          "texto": "Para a caixa d'água"
+        },
+        {
+          "id": "D",
+          "texto": "Para a estação de tratamento"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 239,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Observe a imagem. O esgoto correndo a céu aberto, sem rede de esgoto, causava:",
+      "imagem": "img/historia/vala_esgoto.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Mais saúde para todos"
+        },
+        {
+          "id": "B",
+          "texto": "Ruas mais limpas"
+        },
+        {
+          "id": "C",
+          "texto": "Água boa para beber"
+        },
+        {
+          "id": "D",
+          "texto": "Mau cheiro, insetos e doenças"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 240,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Observe a imagem. Antes da luz elétrica, como as ruas eram iluminadas à noite?",
+      "imagem": "img/historia/lampiao.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Por lampiões, acesos com óleo, querosene ou gás"
+        },
+        {
+          "id": "B",
+          "texto": "Por postes com lâmpadas de LED"
+        },
+        {
+          "id": "C",
+          "texto": "Por telas de celular"
+        },
+        {
+          "id": "D",
+          "texto": "Por painéis solares"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 241,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Quem acendia os lampiões das ruas no fim da tarde?",
+      "imagem": "🔥",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O acendedor de lampiões, que passava de poste em poste"
+        },
+        {
+          "id": "B",
+          "texto": "Os lampiões acendiam sozinhos com sensor"
+        },
+        {
+          "id": "C",
+          "texto": "O motorista de ônibus"
+        },
+        {
+          "id": "D",
+          "texto": "O carteiro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 242,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Qual imagem mostra a iluminação pública de antigamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/historia/chafariz.svg",
+          "texto": "Chafariz"
+        },
+        {
+          "id": "B",
+          "imagem": "img/historia/lampiao.svg",
+          "texto": "Lampião"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/rua_de_terra.svg",
+          "texto": "Rua de antigamente"
+        },
+        {
+          "id": "D",
+          "imagem": "img/historia/rua_asfaltada.svg",
+          "texto": "Rua de hoje"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 243,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Observe a imagem. Antigamente, onde muitas pessoas pegavam água?",
+      "imagem": "img/historia/chafariz.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No filtro da geladeira"
+        },
+        {
+          "id": "B",
+          "texto": "No chafariz, uma fonte pública na praça"
+        },
+        {
+          "id": "C",
+          "texto": "Na garrafa do mercado"
+        },
+        {
+          "id": "D",
+          "texto": "Na torneira da cozinha"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 244,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Como a água do chafariz era levada para as casas antigamente?",
+      "imagem": "img/historia/chafariz.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Pela internet"
+        },
+        {
+          "id": "B",
+          "texto": "Em baldes, potes e barris carregados pelas pessoas"
+        },
+        {
+          "id": "C",
+          "texto": "Por caminhões-pipa modernos"
+        },
+        {
+          "id": "D",
+          "texto": "Por canos até a torneira"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 245,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Qual imagem mostra o chafariz, de onde as pessoas pegavam água antigamente?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/historia/rua_de_terra.svg",
+          "texto": "Rua de antigamente"
+        },
+        {
+          "id": "B",
+          "imagem": "img/historia/chafariz.svg",
+          "texto": "Chafariz"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/rua_asfaltada.svg",
+          "texto": "Rua de hoje"
+        },
+        {
+          "id": "D",
+          "imagem": "img/historia/lampiao.svg",
+          "texto": "Lampião"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 246,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "O que mudou na forma de as famílias conseguirem água?",
+      "imagem": "img/historia/agua_encanada.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Nada mudou"
+        },
+        {
+          "id": "B",
+          "texto": "Antes buscavam no chafariz; hoje a água encanada chega pela torneira"
+        },
+        {
+          "id": "C",
+          "texto": "Antes tinham torneira; hoje buscam no chafariz"
+        },
+        {
+          "id": "D",
+          "texto": "Hoje ninguém usa água"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 247,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "O que substituiu os lampiões nas ruas?",
+      "imagem": "img/servico_luz.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "As velas"
+        },
+        {
+          "id": "B",
+          "texto": "As fogueiras"
+        },
+        {
+          "id": "C",
+          "texto": "Os postes de iluminação com lâmpadas elétricas"
+        },
+        {
+          "id": "D",
+          "texto": "Os chafarizes"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 248,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Compare o passado e o presente. Qual frase está correta?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "As ruas nunca mudaram"
+        },
+        {
+          "id": "B",
+          "texto": "Antigamente as ruas eram asfaltadas; hoje são de terra"
+        },
+        {
+          "id": "C",
+          "texto": "Antigamente não existiam ruas"
+        },
+        {
+          "id": "D",
+          "texto": "Antigamente as ruas eram de terra; hoje muitas são asfaltadas"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 249,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Qual serviço de antigamente está ligado ao serviço de hoje? Lampião →",
+      "imagem": "img/historia/lampiao.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Iluminação pública com energia elétrica"
+        },
+        {
+          "id": "B",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "C",
+          "texto": "Correio"
+        },
+        {
+          "id": "D",
+          "texto": "Coleta de lixo"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 250,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Qual serviço de antigamente está ligado ao serviço de hoje? Chafariz →",
+      "imagem": "img/historia/chafariz.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Água encanada"
+        },
+        {
+          "id": "B",
+          "texto": "Correio"
+        },
+        {
+          "id": "C",
+          "texto": "Energia elétrica"
+        },
+        {
+          "id": "D",
+          "texto": "Segurança pública"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 251,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "servicos_publicos_tempo",
+      "pergunta": "Qual serviço de hoje substituiu as valas de água suja nas ruas?",
+      "imagem": "img/historia/vala_esgoto.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Correio"
+        },
+        {
+          "id": "B",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "C",
+          "texto": "Coleta de lixo"
+        },
+        {
+          "id": "D",
+          "texto": "Iluminação pública"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 252,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "saude_vacinacao",
+      "pergunta": "Observe a imagem. Para que serve a vacina?",
+      "imagem": "img/historia/vacinacao.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para deixar a pessoa mais alta"
+        },
+        {
+          "id": "B",
+          "texto": "Para tirar a fome"
+        },
+        {
+          "id": "C",
+          "texto": "Para curar o dente quebrado"
+        },
+        {
+          "id": "D",
+          "texto": "Para proteger o nosso corpo contra doenças"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 253,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "Onde podemos tomar vacina de graça?",
+      "imagem": "🏥",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Na padaria"
+        },
+        {
+          "id": "B",
+          "texto": "No posto de saúde (Unidade Básica de Saúde)"
+        },
+        {
+          "id": "C",
+          "texto": "No cinema"
+        },
+        {
+          "id": "D",
+          "texto": "Na loja de brinquedos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 254,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "Onde ficam anotadas as vacinas que a criança já tomou?",
+      "imagem": "📒",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "No caderno de desenho"
+        },
+        {
+          "id": "B",
+          "texto": "Na conta de luz"
+        },
+        {
+          "id": "C",
+          "texto": "Na caderneta (carteira) de vacinação"
+        },
+        {
+          "id": "D",
+          "texto": "No livro de receitas"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 255,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "Por que é importante que todas as pessoas se vacinem?",
+      "imagem": "💉",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque só os adultos ficam doentes"
+        },
+        {
+          "id": "B",
+          "texto": "Porque a vacina tem gosto de doce"
+        },
+        {
+          "id": "C",
+          "texto": "Não é importante"
+        },
+        {
+          "id": "D",
+          "texto": "Porque assim as doenças deixam de se espalhar e todos ficam protegidos"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 256,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "Antigamente, quando não existiam vacinas:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "As doenças eram todas leves"
+        },
+        {
+          "id": "B",
+          "texto": "Muitas pessoas adoeciam gravemente com doenças como a varíola e a paralisia infantil"
+        },
+        {
+          "id": "C",
+          "texto": "Ninguém ficava doente"
+        },
+        {
+          "id": "D",
+          "texto": "Os médicos não existiam"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 257,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "A vacina em gotinha, tomada pelas crianças, protege contra:",
+      "imagem": "💧",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "A dor de barriga"
+        },
+        {
+          "id": "B",
+          "texto": "A cárie"
+        },
+        {
+          "id": "C",
+          "texto": "A gripe do cachorro"
+        },
+        {
+          "id": "D",
+          "texto": "A paralisia infantil (poliomielite)"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 258,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "saude_vacinacao",
+      "pergunta": "A campanha de vacinação é um serviço público de:",
+      "imagem": "img/historia/vacinacao.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Iluminação"
+        },
+        {
+          "id": "B",
+          "texto": "Saúde"
+        },
+        {
+          "id": "C",
+          "texto": "Correio"
+        },
+        {
+          "id": "D",
+          "texto": "Coleta de lixo"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 259,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "No Brasil, o serviço público de saúde que oferece vacinas e atendimento gratuito se chama:",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Correio"
+        },
+        {
+          "id": "B",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "C",
+          "texto": "CEP"
+        },
+        {
+          "id": "D",
+          "texto": "SUS (Sistema Único de Saúde)"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 260,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "Além de tomar vacinas, uma atitude que ajuda a cuidar da saúde é:",
+      "imagem": "🧼",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Beber água suja"
+        },
+        {
+          "id": "B",
+          "texto": "Lavar bem as mãos antes de comer"
+        },
+        {
+          "id": "C",
+          "texto": "Comer sem lavar as mãos"
+        },
+        {
+          "id": "D",
+          "texto": "Deixar lixo acumulado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 261,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "saude_vacinacao",
+      "pergunta": "Quais serviços públicos também ajudam a evitar doenças?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Somente a iluminação das ruas"
+        },
+        {
+          "id": "B",
+          "texto": "Somente o correio"
+        },
+        {
+          "id": "C",
+          "texto": "Nenhum serviço ajuda"
+        },
+        {
+          "id": "D",
+          "texto": "Água tratada, rede de esgoto e coleta de lixo"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 262,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "Observe a imagem. Qual profissão do passado ela mostra?",
+      "imagem": "img/historia/aguadeiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "B",
+          "texto": "Tigre"
+        },
+        {
+          "id": "C",
+          "texto": "Acendedor de lampiões"
+        },
+        {
+          "id": "D",
+          "texto": "Aguadeiro"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 263,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "Observe a imagem. Qual profissão do passado ela mostra?",
+      "imagem": "img/historia/acendedor_lampioes.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Tigre"
+        },
+        {
+          "id": "B",
+          "texto": "Acendedor de lampiões"
+        },
+        {
+          "id": "C",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "D",
+          "texto": "Calceteiro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 264,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "Observe a imagem. Qual profissão do passado ela mostra?",
+      "imagem": "img/historia/limpa_trilhos.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Calceteiro"
+        },
+        {
+          "id": "B",
+          "texto": "Aguadeiro"
+        },
+        {
+          "id": "C",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "D",
+          "texto": "Acendedor de lampiões"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 265,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "Observe a imagem. Qual profissão do passado ela mostra?",
+      "imagem": "img/historia/calceteiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "B",
+          "texto": "Aguadeiro"
+        },
+        {
+          "id": "C",
+          "texto": "Calceteiro"
+        },
+        {
+          "id": "D",
+          "texto": "Acendedor de lampiões"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 266,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "O que fazia o aguadeiro?",
+      "imagem": "img/historia/aguadeiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Buscava água nos chafarizes e levava em barris e potes para vender nas casas"
+        },
+        {
+          "id": "B",
+          "texto": "Montava calçadas com pedrinhas"
+        },
+        {
+          "id": "C",
+          "texto": "Limpava os trilhos dos bondes"
+        },
+        {
+          "id": "D",
+          "texto": "Acendia os lampiões das ruas"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 267,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Por que existia a profissão de aguadeiro?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque não chovia nunca"
+        },
+        {
+          "id": "B",
+          "texto": "Porque a água era proibida"
+        },
+        {
+          "id": "C",
+          "texto": "Porque as casas ainda não tinham água encanada"
+        },
+        {
+          "id": "D",
+          "texto": "Porque as pessoas não gostavam de torneira"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 268,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Qual profissão deixou de existir quando a água encanada chegou às casas?",
+      "imagem": "🪣",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Calceteiro"
+        },
+        {
+          "id": "B",
+          "texto": "Professor"
+        },
+        {
+          "id": "C",
+          "texto": "Médico"
+        },
+        {
+          "id": "D",
+          "texto": "Aguadeiro"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 269,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Quem eram os “tigres” no Rio de Janeiro antigo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Policiais que cuidavam das ruas"
+        },
+        {
+          "id": "B",
+          "texto": "Vendedores de flores"
+        },
+        {
+          "id": "C",
+          "texto": "Pessoas escravizadas obrigadas a carregar barris com o esgoto das casas para jogar no mar"
+        },
+        {
+          "id": "D",
+          "texto": "Animais que moravam na cidade"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 270,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Por que existia o trabalho dos “tigres”?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque havia muitos tigres na cidade"
+        },
+        {
+          "id": "B",
+          "texto": "Porque o esgoto era bonito"
+        },
+        {
+          "id": "C",
+          "texto": "Porque ainda não havia rede de esgoto nas casas"
+        },
+        {
+          "id": "D",
+          "texto": "Porque as pessoas gostavam desse trabalho"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 271,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Por que essas pessoas escravizadas eram chamadas de “tigres”?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque cuidavam de tigres no zoológico"
+        },
+        {
+          "id": "B",
+          "texto": "Porque a sujeira que escorria dos barris deixava marcas listradas na pele, como as listras de um tigre"
+        },
+        {
+          "id": "C",
+          "texto": "Porque usavam fantasias de tigre"
+        },
+        {
+          "id": "D",
+          "texto": "Porque corriam muito rápido"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 272,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Como era o trabalho dos “tigres”?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Bem pago e escolhido por eles"
+        },
+        {
+          "id": "B",
+          "texto": "Muito pesado e injusto, feito por pessoas escravizadas, sem liberdade"
+        },
+        {
+          "id": "C",
+          "texto": "Leve e divertido"
+        },
+        {
+          "id": "D",
+          "texto": "Feito por máquinas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 273,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "Qual serviço público de hoje substituiu o trabalho dos “tigres”?",
+      "imagem": "img/servico_esgoto.png",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Transporte de bonde"
+        },
+        {
+          "id": "B",
+          "texto": "Rede de esgoto"
+        },
+        {
+          "id": "C",
+          "texto": "Correio"
+        },
+        {
+          "id": "D",
+          "texto": "Iluminação pública"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 274,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "O que fazia o acendedor de lampiões?",
+      "imagem": "img/historia/acendedor_lampioes.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Limpava os trilhos do bonde"
+        },
+        {
+          "id": "B",
+          "texto": "Acendia os lampiões das ruas no fim da tarde e apagava de manhã"
+        },
+        {
+          "id": "C",
+          "texto": "Entregava cartas"
+        },
+        {
+          "id": "D",
+          "texto": "Vendia água de casa em casa"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 275,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Qual profissão acabou com a chegada da luz elétrica nas ruas?",
+      "imagem": "💡",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Professor"
+        },
+        {
+          "id": "B",
+          "texto": "Acendedor de lampiões"
+        },
+        {
+          "id": "C",
+          "texto": "Calceteiro"
+        },
+        {
+          "id": "D",
+          "texto": "Padeiro"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 276,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "O que fazia o limpa-trilhos?",
+      "imagem": "img/historia/limpa_trilhos.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Desenhava as casas"
+        },
+        {
+          "id": "B",
+          "texto": "Carregava água em barris"
+        },
+        {
+          "id": "C",
+          "texto": "Limpava os trilhos, tirando pedras, terra e sujeira para o bonde passar"
+        },
+        {
+          "id": "D",
+          "texto": "Acendia os lampiões"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 277,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "O limpa-trilhos trabalhava para qual meio de transporte antigo?",
+      "imagem": "🚋",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "O bonde"
+        },
+        {
+          "id": "B",
+          "texto": "A bicicleta"
+        },
+        {
+          "id": "C",
+          "texto": "O avião"
+        },
+        {
+          "id": "D",
+          "texto": "O metrô"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 278,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "O que faz o calceteiro?",
+      "imagem": "img/historia/calceteiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Carrega barris de esgoto"
+        },
+        {
+          "id": "B",
+          "texto": "Vende água nas casas"
+        },
+        {
+          "id": "C",
+          "texto": "Monta as calçadas com pedrinhas (pedra portuguesa), formando desenhos"
+        },
+        {
+          "id": "D",
+          "texto": "Acende lampiões"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 279,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "profissoes_passado",
+      "pergunta": "As calçadas de pedrinhas pretas e brancas, com desenho de ondas, como no calçadão de Copacabana, são feitas pelo:",
+      "imagem": "img/historia/calceteiro.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Aguadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Calceteiro"
+        },
+        {
+          "id": "C",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "D",
+          "texto": "Acendedor de lampiões"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 280,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Qual destas profissões antigas ainda existe hoje?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Acendedor de lampiões"
+        },
+        {
+          "id": "B",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "C",
+          "texto": "Aguadeiro"
+        },
+        {
+          "id": "D",
+          "texto": "Calceteiro"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 281,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Quem levava água de casa em casa?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/historia/calceteiro.svg",
+          "texto": "Calceteiro"
+        },
+        {
+          "id": "B",
+          "imagem": "img/historia/aguadeiro.svg",
+          "texto": "Aguadeiro"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/acendedor_lampioes.svg",
+          "texto": "Acendedor de lampiões"
+        },
+        {
+          "id": "D",
+          "imagem": "img/historia/limpa_trilhos.svg",
+          "texto": "Limpa-trilhos"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 282,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Quem cuidava dos trilhos do bonde?",
+      "alternativas": [
+        {
+          "id": "A",
+          "imagem": "img/historia/limpa_trilhos.svg",
+          "texto": "Limpa-trilhos"
+        },
+        {
+          "id": "B",
+          "imagem": "img/historia/acendedor_lampioes.svg",
+          "texto": "Acendedor de lampiões"
+        },
+        {
+          "id": "C",
+          "imagem": "img/historia/aguadeiro.svg",
+          "texto": "Aguadeiro"
+        },
+        {
+          "id": "D",
+          "imagem": "img/historia/calceteiro.svg",
+          "texto": "Calceteiro"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 283,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "profissoes_passado",
+      "pergunta": "Por que muitas profissões do passado deixaram de existir?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Porque as cidades acabaram"
+        },
+        {
+          "id": "B",
+          "texto": "Porque ninguém precisava mais de água e luz"
+        },
+        {
+          "id": "C",
+          "texto": "Porque as pessoas pararam de trabalhar"
+        },
+        {
+          "id": "D",
+          "texto": "Porque surgiram novos serviços e tecnologias, como água encanada, esgoto e luz elétrica"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 284,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "O Leblon é um bairro de qual parte da cidade do Rio de Janeiro?",
+      "imagem": "img/historia/leblon_hoje.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Centro"
+        },
+        {
+          "id": "B",
+          "texto": "Zona Sul"
+        },
+        {
+          "id": "C",
+          "texto": "Zona Oeste"
+        },
+        {
+          "id": "D",
+          "texto": "Zona Norte"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 285,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "historia_leblon",
+      "pergunta": "De onde vem o nome do bairro Leblon?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "De uma flor chamada leblon"
+        },
+        {
+          "id": "B",
+          "texto": "De um tipo de peixe"
+        },
+        {
+          "id": "C",
+          "texto": "Do nome de um rio"
+        },
+        {
+          "id": "D",
+          "texto": "Do sobrenome de Charles Le Blond, um francês que comprou as terras da região"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 286,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "historia_leblon",
+      "pergunta": "Quem foram os primeiros habitantes da região do Leblon?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Os povos indígenas"
+        },
+        {
+          "id": "B",
+          "texto": "Os franceses"
+        },
+        {
+          "id": "C",
+          "texto": "Os turistas"
+        },
+        {
+          "id": "D",
+          "texto": "Os portugueses"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 287,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Observe a imagem. Como era a região do Leblon antigamente?",
+      "imagem": "img/historia/leblon_antigo.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Coberta de neve"
+        },
+        {
+          "id": "B",
+          "texto": "Um areal com chácaras, poucas casas e nenhum prédio"
+        },
+        {
+          "id": "C",
+          "texto": "Cheia de prédios altos"
+        },
+        {
+          "id": "D",
+          "texto": "Com muitos carros e avenidas"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 288,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Observe a imagem. Como é o Leblon hoje?",
+      "imagem": "img/historia/leblon_hoje.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um deserto sem mar"
+        },
+        {
+          "id": "B",
+          "texto": "Um bairro com muitos prédios, ruas asfaltadas e a praia"
+        },
+        {
+          "id": "C",
+          "texto": "Um areal sem nenhuma casa"
+        },
+        {
+          "id": "D",
+          "texto": "Uma fazenda de gado"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 289,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Compare as imagens do Leblon antigo e de hoje. O que continuou igual?",
+      "imagens": [
+        "img/historia/leblon_antigo.svg",
+        "img/historia/leblon_hoje.svg"
+      ],
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Os prédios"
+        },
+        {
+          "id": "B",
+          "texto": "As casinhas das chácaras"
+        },
+        {
+          "id": "C",
+          "texto": "O morro Dois Irmãos e o mar"
+        },
+        {
+          "id": "D",
+          "texto": "A avenida asfaltada"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 290,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Compare as imagens do Leblon antigo e de hoje. O que mudou?",
+      "imagens": [
+        "img/historia/leblon_antigo.svg",
+        "img/historia/leblon_hoje.svg"
+      ],
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Surgiram muitos prédios e ruas onde antes havia areal e chácaras"
+        },
+        {
+          "id": "B",
+          "texto": "O mar desapareceu"
+        },
+        {
+          "id": "C",
+          "texto": "Nada mudou"
+        },
+        {
+          "id": "D",
+          "texto": "O morro Dois Irmãos sumiu"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 291,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "historia_leblon",
+      "pergunta": "O que era um quilombo?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Um lugar onde pessoas que fugiam da escravidão viviam em liberdade"
+        },
+        {
+          "id": "B",
+          "texto": "Uma loja de flores"
+        },
+        {
+          "id": "C",
+          "texto": "Uma escola de natação"
+        },
+        {
+          "id": "D",
+          "texto": "Um tipo de prédio moderno"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 292,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "O que foi o Quilombo do Leblon?",
+      "imagem": "img/historia/quilombo_leblon.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Uma praia particular"
+        },
+        {
+          "id": "B",
+          "texto": "Um castelo de um rei"
+        },
+        {
+          "id": "C",
+          "texto": "Um shopping antigo"
+        },
+        {
+          "id": "D",
+          "texto": "Uma chácara onde pessoas que fugiam da escravidão eram acolhidas e trabalhavam cultivando camélias"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 293,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Quem era o dono da chácara do Quilombo do Leblon?",
+      "imagem": "img/historia/quilombo_leblon.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Charles Le Blond"
+        },
+        {
+          "id": "B",
+          "texto": "Um rei da França"
+        },
+        {
+          "id": "C",
+          "texto": "José de Seixas Magalhães, que lutava pelo fim da escravidão"
+        },
+        {
+          "id": "D",
+          "texto": "O Cristo Redentor"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 294,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Que flor era cultivada no Quilombo do Leblon?",
+      "imagem": "img/historia/camelia.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Camélia"
+        },
+        {
+          "id": "B",
+          "texto": "Margarida"
+        },
+        {
+          "id": "C",
+          "texto": "Girassol"
+        },
+        {
+          "id": "D",
+          "texto": "Rosa"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 295,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "A camélia do Quilombo do Leblon se tornou símbolo de:",
+      "imagem": "img/historia/camelia.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Festa de aniversário"
+        },
+        {
+          "id": "B",
+          "texto": "Time de futebol"
+        },
+        {
+          "id": "C",
+          "texto": "Luta pelo fim da escravidão (abolição)"
+        },
+        {
+          "id": "D",
+          "texto": "Comida típica"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 296,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Como as pessoas mostravam que apoiavam o fim da escravidão?",
+      "imagem": "img/historia/camelia.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Comendo bolo de laranja"
+        },
+        {
+          "id": "B",
+          "texto": "Usando um chapéu de palha"
+        },
+        {
+          "id": "C",
+          "texto": "Pintando a casa de azul"
+        },
+        {
+          "id": "D",
+          "texto": "Usando uma camélia na roupa ou tendo camélias em casa"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 297,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "historia_leblon",
+      "pergunta": "Como se chamavam as pessoas que lutavam pelo fim da escravidão?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Calceteiros"
+        },
+        {
+          "id": "B",
+          "texto": "Aguadeiros"
+        },
+        {
+          "id": "C",
+          "texto": "Turistas"
+        },
+        {
+          "id": "D",
+          "texto": "Abolicionistas"
+        }
+      ],
+      "resposta": "D"
+    },
+    {
+      "id": 298,
+      "periodo": 4,
+      "tipo": "imagem_texto",
+      "tema": "historia_leblon",
+      "pergunta": "Observe a imagem. Que monumento histórico do Rio de Janeiro é este?",
+      "imagem": "img/historia/cristo_redentor.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Cristo Redentor"
+        },
+        {
+          "id": "B",
+          "texto": "Pirâmides do Egito"
+        },
+        {
+          "id": "C",
+          "texto": "Torre Eiffel"
+        },
+        {
+          "id": "D",
+          "texto": "Estátua da Liberdade"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 299,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "historia_leblon",
+      "pergunta": "Para que servem os monumentos históricos?",
+      "imagem": "🗿",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Para nada"
+        },
+        {
+          "id": "B",
+          "texto": "Para serem pichados"
+        },
+        {
+          "id": "C",
+          "texto": "Para lembrar pessoas e fatos importantes e preservar a memória da cidade"
+        },
+        {
+          "id": "D",
+          "texto": "Apenas para enfeitar a cidade"
+        }
+      ],
+      "resposta": "C"
+    },
+    {
+      "id": 300,
+      "periodo": 4,
+      "tipo": "multipla_escolha",
+      "tema": "historia_leblon",
+      "pergunta": "Qual atitude ajuda a cuidar dos monumentos históricos?",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Jogar lixo em volta"
+        },
+        {
+          "id": "B",
+          "texto": "Não pichar, não sujar e não estragar os monumentos"
+        },
+        {
+          "id": "C",
+          "texto": "Escrever o nome nas estátuas"
+        },
+        {
+          "id": "D",
+          "texto": "Subir e quebrar pedaços"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 301,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “Os povos indígenas não foram os primeiros habitantes da região do Leblon.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 302,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “Ao comparar imagens antigas e atuais de um mesmo lugar, podemos descobrir o que mudou e o que continuou igual.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 303,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “O Cristo Redentor é um monumento histórico do Rio de Janeiro.”",
+      "imagem": "img/historia/cristo_redentor.svg",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 304,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “A Torre Eiffel fica no Rio de Janeiro.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 305,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “José de Seixas Magalhães acolhia em sua chácara no Leblon pessoas que fugiam da escravidão.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 306,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “O Quilombo do Leblon era uma chácara onde as pessoas se reuniam apenas para cultivar flores.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 307,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “As rosas do Quilombo do Leblon eram um símbolo da luta pela liberdade.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 308,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “Os monumentos históricos servem apenas para enfeitar a cidade.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "B"
+    },
+    {
+      "id": 309,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “Cuidar dos monumentos é uma forma de preservar a história.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 310,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “A história do Leblon começou muito antes das ruas e dos prédios de hoje.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
+        }
+      ],
+      "resposta": "A"
+    },
+    {
+      "id": 311,
+      "periodo": 4,
+      "tipo": "verdadeiro_falso",
+      "tema": "historia_leblon",
+      "pergunta": "Verdadeiro ou falso? “Charles Le Blond comprou as terras do Leblon, por isso seu sobrenome deu origem ao nome do bairro.”",
+      "alternativas": [
+        {
+          "id": "A",
+          "texto": "Verdadeiro"
+        },
+        {
+          "id": "B",
+          "texto": "Falso"
         }
       ],
       "resposta": "A"
